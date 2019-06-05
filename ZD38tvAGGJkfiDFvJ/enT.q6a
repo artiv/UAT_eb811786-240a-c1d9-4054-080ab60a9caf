@@ -1,0 +1,30 @@
+{
+	"fileName": "enT.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "0f97d40b-814c-3690-3caf-a049c7999070",
+			"fileTemplateDate": "2019-06-05T15:38:17.271Z",
+			"fileTemplateCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "b5Rogy97xejkfoBAE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
