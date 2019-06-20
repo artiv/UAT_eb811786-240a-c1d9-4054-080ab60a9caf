@@ -1,0 +1,31 @@
+{
+	"fileName": "socialT.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "b577c028-e697-ad49-6e89-0c5c0949f34b",
+			"fileTemplateDate": "2019-06-20T02:41:57.895Z",
+			"fileTemplateCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "b5Rogy97xejkfoBAE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [],
+			"fileTemplateSocial": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
