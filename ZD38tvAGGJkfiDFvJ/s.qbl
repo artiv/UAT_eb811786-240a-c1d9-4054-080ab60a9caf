@@ -89,7 +89,23 @@
 					"socialSpecific": {
 						"socialInformation": "Please add fields for facebook",
 						"socialKey": "ff670c46-c6c5-1308-bafe-cc29b390854f",
-						"socialValue": {},
+						"socialValue": {
+							"headline": "a",
+							"mainContent": {
+								"blocks": [
+									{
+										"key": "58c4h",
+										"text": "sd",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								],
+								"entityMap": {}
+							}
+						},
 						"socialChildren": []
 					},
 					"socialWorking": {
@@ -127,7 +143,34 @@
 					"socialSpecific": {
 						"socialInformation": "Please add fields for linkedin",
 						"socialKey": "bc33e8f3-5250-33f4-d059-34f503ce80f1",
-						"socialValue": {},
+						"socialValue": {
+							"headline": "e",
+							"mainContent": {
+								"blocks": [
+									{
+										"key": "dkqgn",
+										"text": "fgh",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 0,
+												"length": 3,
+												"style": "BOLD"
+											},
+											{
+												"offset": 0,
+												"length": 3,
+												"style": "ITALIC"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									}
+								],
+								"entityMap": {}
+							}
+						},
 						"socialChildren": []
 					},
 					"socialWorking": {
