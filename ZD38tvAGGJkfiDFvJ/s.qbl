@@ -156,7 +156,75 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "42fd3d07-ad52-f6d4-1546-7e99d0d083c6",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm",
+								"version": 1561098067,
+								"signature": "c6f6d702258e55148ac6b5d6a54308318d081563",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-06-21T06:21:07Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1055736,
+								"type": "upload",
+								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1561098067/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1561098067/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "384828",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1205959",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1589963,
+								"duration": 5.312,
+								"rotation": 0,
+								"original_filename": "sampleVideo",
+								"path": "v1561098067/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1561098067/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1561098067/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_wg50bm"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo"
+								}
+							}
+						],
 						"fieldChildren": [],
 						"fieldParent": "3a023244-d6f1-77ba-da52-818dee047501"
 					},
