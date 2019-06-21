@@ -1,0 +1,261 @@
+{
+	"fileName": "s.qbl",
+	"fileTemplateRepo": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf",
+	"fileTemplatePath": "ZD38tvAGGJkfiDFvJ/a.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "ba6cf258-a49d-3d59-3467-1257da04ba05",
+			"fileItemDate": "2019-06-21T06:18:22.494Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "b5Rogy97xejkfoBAE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "e4896706-dd9f-fb30-0ced-6d7aaba6af44",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "d7c47565-6aa7-c3c7-6c21-79a1368485ec",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "bfb565ff-f75d-957f-aa6b-b17b9cd521f9",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "3204388f-d618-8126-86f6-f06e1be882b9",
+						"fieldValues": [],
+						"fieldChildren": [],
+						"fieldParent": "eb336003-ad2a-bf32-3192-361dad3fffb0"
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8a1f29b4-a13a-8f01-36fb-0f242c71ce62",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "42fd3d07-ad52-f6d4-1546-7e99d0d083c6",
+						"fieldValues": [],
+						"fieldChildren": [],
+						"fieldParent": "3a023244-d6f1-77ba-da52-818dee047501"
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemSocials": [
+				{
+					"socialGeneral": {
+						"socialGuid": "79b4354a-8692-4826-de4f-f220b110186f",
+						"socialType": "facebook",
+						"socialIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"socialMeta": {
+						"socialCanTranslate": true,
+						"socialCanParent": false,
+						"socialCanChild": false
+					},
+					"socialSpecific": {
+						"socialInformation": "Please add fields for facebook",
+						"socialKey": "ff670c46-c6c5-1308-bafe-cc29b390854f",
+						"socialValue": {},
+						"socialChildren": []
+					},
+					"socialWorking": {
+						"socialOrderId": "",
+						"socialOrderComment": "",
+						"specificOrderComment": "",
+						"socialJobId": "",
+						"socialJobStatus": "",
+						"socialJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"socialGeneral": {
+						"socialGuid": "eb336003-ad2a-bf32-3192-361dad3fffb0",
+						"socialType": "linkedin",
+						"socialIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"socialMeta": {
+						"socialCanTranslate": true,
+						"socialCanParent": false,
+						"socialCanChild": false
+					},
+					"socialSpecific": {
+						"socialInformation": "Please add fields for linkedin",
+						"socialKey": "bc33e8f3-5250-33f4-d059-34f503ce80f1",
+						"socialValue": {
+							"image": "bfb565ff-f75d-957f-aa6b-b17b9cd521f9"
+						},
+						"socialChildren": []
+					},
+					"socialWorking": {
+						"socialOrderId": "",
+						"socialOrderComment": "",
+						"specificOrderComment": "",
+						"socialJobId": "",
+						"socialJobStatus": "",
+						"socialJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"socialGeneral": {
+						"socialGuid": "3a023244-d6f1-77ba-da52-818dee047501",
+						"socialType": "youtube",
+						"socialIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"socialIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"socialMeta": {
+						"socialCanTranslate": true,
+						"socialCanParent": false,
+						"socialCanChild": false
+					},
+					"socialSpecific": {
+						"socialInformation": "Please add fields for youtube",
+						"socialKey": "a455c8c7-41ce-927c-d2fe-33f9e3c7839d",
+						"socialValue": {
+							"video": "8a1f29b4-a13a-8f01-36fb-0f242c71ce62"
+						},
+						"socialChildren": []
+					},
+					"socialWorking": {
+						"socialOrderId": "",
+						"socialOrderComment": "",
+						"specificOrderComment": "",
+						"socialJobId": "",
+						"socialJobStatus": "",
+						"socialJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
