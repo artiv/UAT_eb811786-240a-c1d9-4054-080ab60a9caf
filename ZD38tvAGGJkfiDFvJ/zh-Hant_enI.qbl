@@ -1,0 +1,395 @@
+{
+	"fileName": "zh-Hant_enI.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "500d885a-8c7a-0b3c-4497-4caa21edf6b0",
+			"fileItemDate": "2019-07-08T04:21:55.234Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Aigy7eAPHdGywwXxE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93",
+								"version": 1562558372,
+								"signature": "bccf5c1fe2a5d176c31d79273478bad4ac6b5c30",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-07-08T03:59:32Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 998271,
+								"type": "upload",
+								"etag": "519427e4280956698a329df024cb5e74",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "162950",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 264969,
+								"duration": 30.139501,
+								"rotation": 0,
+								"original_filename": "en_cp_modernFamily_rzvx93",
+								"path": "v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\n我是一個很酷的人\n\n2\n00:00:04,800 --> 00:00:05,900\n傢伙,這是我的\n\n3\n00:00:05,900 --> 00:00:06,300\n坊\n\n4\n00:00:07,400 --> 00:00:07,800\n我\n\n5\n00:00:07,800 --> 00:00:08,900\n這裡 5 i 衝浪\n\n6\n00:00:08,900 --> 00:00:09,400\n網路I\n\n7\n00:00:09,400 --> 00:00:10,600\n文本 LOL\n\n8\n00:00:10,600 --> 00:00:11,400\n大聲笑\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG哦,我的\n\n10\n00:00:12,700 --> 00:00:13,700\n上帝WTF\n\n11\n00:00:13,700 --> 00:00:14,700\n為什麼法澤\n\n12\n00:00:14,700 --> 00:00:16,800\n你知道我\n\n13\n00:00:16,800 --> 00:00:17,900\n知道所有的舞蹈高\n\n14\n00:00:17,900 --> 00:00:18,800\n學校音樂劇\n\n15\n00:00:18,800 --> 00:00:19,900\n我們都是\n\n16\n00:00:19,900 --> 00:00:20,800\n在這\n\n17\n00:00:20,800 --> 00:00:21,600\n一起\n\n18\n00:00:21,600 --> 00:00:23,800\n是的,我們是\n\n19\n00:00:23,800 --> 00:00:24,700\n我們都是\n\n20\n00:00:24,700 --> 00:00:25,900\n星星和\n\n21\n00:00:25,900 --> 00:00:26,800\n你\n\n22\n00:00:26,800 --> 00:00:27,700\n知道它\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "我是一個很酷的人"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "傢伙,這是我的"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "坊"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "我"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "這裡 5 i 衝浪"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "網路I"
+										},
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "文本 LOL"
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "大聲笑"
+										},
+										{
+											"start": 11400,
+											"end": 12700,
+											"text": "OMG哦,我的"
+										},
+										{
+											"start": 12700,
+											"end": 13700,
+											"text": "上帝WTF"
+										},
+										{
+											"start": 13700,
+											"end": 14700,
+											"text": "為什麼法澤"
+										},
+										{
+											"start": 14700,
+											"end": 16800,
+											"text": "你知道我"
+										},
+										{
+											"start": 16800,
+											"end": 17900,
+											"text": "知道所有的舞蹈高"
+										},
+										{
+											"start": 17900,
+											"end": 18800,
+											"text": "學校音樂劇"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "我們都是"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "在這"
+										},
+										{
+											"start": 20800,
+											"end": 21600,
+											"text": "一起"
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "是的,我們是"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "我們都是"
+										},
+										{
+											"start": 24700,
+											"end": 25900,
+											"text": "星星和"
+										},
+										{
+											"start": 25900,
+											"end": 26800,
+											"text": "你"
+										},
+										{
+											"start": 26800,
+											"end": 27700,
+											"text": "知道它"
+										}
+									],
+									"font": "Noto Sans SC Regular",
+									"size": 24,
+									"color": {
+										"hex": "#ffffff",
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"asset": {
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_zh-Hant_M2iB.srt",
+										"version": 1562559724,
+										"signature": "5a78df2e4a7cc790a247d155c3cfd9301c38b12e",
+										"resource_type": "raw",
+										"created_at": "2019-07-08T04:22:04Z",
+										"tags": [],
+										"bytes": 1013,
+										"type": "upload",
+										"etag": "6ec23e2cc4607815d34cdc59879f7246",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1562559724/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_zh-Hant_M2iB.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1562559724/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_zh-Hant_M2iB.srt",
+										"access_mode": "public"
+									},
+									"translatedString": "我是一個很酷的傢伙,這是我的芳,我在這裡5我上網我發短信LOL笑出響亮的OMG哦我的上帝WTF為什麼FaZe你知道我知道所有的舞蹈高中音樂我們都在這一起是的,我們是我們所有的明星,你知道它",
+									"alignment": "",
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n"
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
