@@ -51,22 +51,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek",
-								"version": 1562558372,
-								"signature": "bccf5c1fe2a5d176c31d79273478bad4ac6b5c30",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_hd3y",
+								"version": 1562559923,
+								"signature": "16407257f0751aad38579d901efae80d9f68d98b",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-07-08T03:59:32Z",
+								"created_at": "2019-07-08T04:25:23Z",
 								"tags": [],
 								"pages": 0,
 								"bytes": 998271,
 								"type": "upload",
 								"etag": "519427e4280956698a329df024cb5e74",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1562558372/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1562558372/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1562559923/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_hd3y.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1562559923/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_hd3y.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -222,28 +222,30 @@
 									},
 									"isAttached": true,
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_en-US_mdXA.srt",
-										"version": 1562558353,
-										"signature": "66c21980ac2915594751518a2220778a1d6e7a63",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek_en-US_TxkK.srt",
+										"version": 1562559910,
+										"signature": "add29abd308883b7eba261fdd33977b27839d0ab",
 										"resource_type": "raw",
-										"created_at": "2019-07-08T03:59:13Z",
+										"created_at": "2019-07-08T04:25:10Z",
 										"tags": [],
 										"bytes": 979,
 										"type": "upload",
 										"etag": "a432f9ffc1617bb10ebae77c03d28161",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1562558353/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_en-US_mdXA.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1562558353/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93_en-US_mdXA.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1562559910/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek_en-US_TxkK.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1562559910/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek_en-US_TxkK.srt",
 										"access_mode": "public"
 									}
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1562558372/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1562558372/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1562559923/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_hd3y.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_Fjek",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_rzvx93_hd3y"
 								],
 								"embed": {
 									"width": 480,
