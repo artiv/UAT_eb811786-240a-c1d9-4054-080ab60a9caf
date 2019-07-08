@@ -375,6 +375,44 @@
 									"caption": "",
 									"seoSuffix": "annotation_2019-02-12_143633"
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/fillIn_kuqeg2",
+								"version": 1562564490,
+								"signature": "f1185d77e9601665c705b389d26ab5c00cecc4df",
+								"width": 369,
+								"height": 286,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2019-07-08T05:41:30Z",
+								"tags": [],
+								"bytes": 6841,
+								"type": "upload",
+								"etag": "c5a70383de4c088abab537fa4b85b51f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1562564490/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/fillIn_kuqeg2.png",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1562564490/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/fillIn_kuqeg2.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "fillIn",
+								"original_extension": "PNG",
+								"path": "v1562564490/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/fillIn_kuqeg2.png",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1562564490/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/fillIn_kuqeg2.png",
+								"overlays": [],
+								"embed": {
+									"width": 369,
+									"height": 286,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "fillin"
+								}
 							}
 						],
 						"fieldChildren": []
