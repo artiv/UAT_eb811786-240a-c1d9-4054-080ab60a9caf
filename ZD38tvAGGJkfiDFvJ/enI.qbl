@@ -413,6 +413,43 @@
 									"caption": "",
 									"seoSuffix": "fillin"
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/background_zdymbn",
+								"version": 1562571314,
+								"signature": "8ae307dcfb4ce40450c0ab4d5846e24f09b395ec",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2019-07-08T07:35:14Z",
+								"tags": [],
+								"bytes": 3614,
+								"type": "upload",
+								"etag": "eff1165cd7409dbf362764e94e581f64",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1562571314/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/background_zdymbn.png",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1562571314/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/background_zdymbn.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "background",
+								"path": "v1562571314/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/background_zdymbn.png",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1562571314/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/background_zdymbn.png",
+								"overlays": [],
+								"embed": {
+									"width": 1152,
+									"height": 648,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "background"
+								}
 							}
 						],
 						"fieldChildren": []
