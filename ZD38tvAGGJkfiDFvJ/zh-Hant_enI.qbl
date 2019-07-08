@@ -49,22 +49,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93",
-								"version": 1562558372,
-								"signature": "bccf5c1fe2a5d176c31d79273478bad4ac6b5c30",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/zh_cp_modernFamily_rzvx93_ak65",
+								"version": 1562559744,
+								"signature": "56df50b486d05ef059f38ccd1f05e52b98ac2e80",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-07-08T03:59:32Z",
+								"created_at": "2019-07-08T04:22:24Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 998271,
+								"bytes": 995450,
 								"type": "upload",
-								"etag": "519427e4280956698a329df024cb5e74",
+								"etag": "92d8ed379500ec319a544cb9731eb4d0",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1562559744/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/zh_cp_modernFamily_rzvx93_ak65.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1562559744/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/zh_cp_modernFamily_rzvx93_ak65.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -79,15 +79,15 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "162950",
+									"bit_rate": "162200",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 264969,
+								"bit_rate": 264220,
 								"duration": 30.139501,
 								"rotation": 0,
-								"original_filename": "en_cp_modernFamily_rzvx93",
+								"original_filename": "zh_cp_modernFamily_rzvx93",
 								"path": "v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.jpg",
 								"overlays": [],
@@ -239,10 +239,12 @@
 									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n"
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1560880607/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1562559744/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/zh_cp_modernFamily_rzvx93_ak65.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_rzvx93",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/zh_cp_modernFamily_rzvx93_ak65"
 								],
 								"embed": {
 									"width": 480,
