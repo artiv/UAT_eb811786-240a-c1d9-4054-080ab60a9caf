@@ -338,7 +338,45 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Image?",
 						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/Annotation_2019-02-12_143633_yq1h72",
+								"version": 1562563206,
+								"signature": "36ccb5259af5601ad904692cb5c13bf310d99f7b",
+								"width": 178,
+								"height": 82,
+								"format": "jpg",
+								"resource_type": "image",
+								"created_at": "2019-07-08T05:20:06Z",
+								"tags": [],
+								"bytes": 5361,
+								"type": "upload",
+								"etag": "23e36f3ab74c6a9dd75008cc0645c611",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1562563206/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/Annotation_2019-02-12_143633_yq1h72.jpg",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1562563206/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/Annotation_2019-02-12_143633_yq1h72.jpg",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "Annotation 2019-02-12 143633",
+								"path": "v1562563206/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/Annotation_2019-02-12_143633_yq1h72.jpg",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1562563206/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/Annotation_2019-02-12_143633_yq1h72.jpg",
+								"overlays": [],
+								"embed": {
+									"width": 178,
+									"height": 82,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "annotation_2019-02-12_143633"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
