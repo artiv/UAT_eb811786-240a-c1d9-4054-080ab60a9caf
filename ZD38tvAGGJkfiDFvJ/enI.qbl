@@ -316,21 +316,31 @@
 										{}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_ciqn2j_en-US_67gJ.srt",
-										"version": 1562665203,
-										"signature": "f7bbcf71283601385c95886795c695aa795ec47b",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_sampleVideo_ciqn2j_d2sn_en-US_pskY.srt",
+										"version": 1562665328,
+										"signature": "7796f664d2b7efc8cca954c7c7f4dda42f15b30e",
 										"resource_type": "raw",
-										"created_at": "2019-07-09T09:40:03Z",
+										"created_at": "2019-07-09T09:42:08Z",
 										"tags": [],
 										"bytes": 1,
 										"type": "upload",
 										"etag": "68b329da9893e34099c7d8ad5cb9c940",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1562665203/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_ciqn2j_en-US_67gJ.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1562665203/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_ciqn2j_en-US_67gJ.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1562665328/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_sampleVideo_ciqn2j_d2sn_en-US_pskY.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1562665328/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_sampleVideo_ciqn2j_d2sn_en-US_pskY.srt",
 										"access_mode": "public"
 									},
-									"isAttached": true
+									"isAttached": false,
+									"size": 24,
+									"color": {
+										"hex": "#ffffff",
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									}
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1562664781/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_ciqn2j.mp4",
