@@ -364,6 +364,74 @@
 									"caption": "",
 									"seoSuffix": "samplevideo"
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k",
+								"version": 1563481887,
+								"signature": "ce0f329de1d6c11aaf371ed2a166d7462bc3d389",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-07-18T20:31:27Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 27244562,
+								"type": "upload",
+								"etag": "013255b7b6709fe1f0a4efb2656c526d",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1563481887/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1563481887/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "127722",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Constrained Baseline",
+									"bit_rate": "1128377",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 30,
+								"bit_rate": 1258680,
+								"duration": 173.162646,
+								"rotation": 0,
+								"original_filename": "QBL Media Explainer June 4_2019",
+								"done": true,
+								"path": "v1563481887/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1563481887/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1563481887/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/QBL_Media_Explainer_June_4_2019_tysv0k"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "qbl_media_explainer_june_4_2019"
+								}
 							}
 						],
 						"fieldChildren": []
