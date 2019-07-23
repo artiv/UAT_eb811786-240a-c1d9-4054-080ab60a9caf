@@ -92,7 +92,56 @@
 								"original_filename": "sampleVideo",
 								"path": "v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "783rg",
+													"text": "blah blah blah",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "blah blah blah"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
