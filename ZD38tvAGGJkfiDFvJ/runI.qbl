@@ -114,7 +114,7 @@
 										"gravity": "north",
 										"crop": "scale",
 										"start_offset": "0",
-										"end_offset": "0",
+										"end_offset": "10",
 										"editorContent": {
 											"blocks": [
 												{
