@@ -211,7 +211,32 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my thing",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my thing"
+										}
+									],
+									"font": "Noto Sans",
+									"size": 24,
+									"color": {
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									},
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4"
 								],
