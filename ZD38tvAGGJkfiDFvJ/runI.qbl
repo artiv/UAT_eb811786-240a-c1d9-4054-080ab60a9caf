@@ -256,7 +256,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfamily"
-								}
+								},
+								"viewSelection": 75
 							}
 						],
 						"fieldChildren": []
