@@ -154,20 +154,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#372020",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 55,
+												"g": 32,
+												"b": 32,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ae21j",
+													"key": "f2o0m",
 													"text": "Testing on a ",
 													"type": "unstyled",
 													"depth": 0,
@@ -209,20 +209,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#372020",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 55,
+												"g": 32,
+												"b": 32,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4vdhs",
+													"key": "era5d",
 													"text": "sample video",
 													"type": "unstyled",
 													"depth": 0,
@@ -371,20 +371,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#372020",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 55,
+												"g": 32,
+												"b": 32,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "79tbp",
+													"key": "eb2uh",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -426,20 +426,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#372020",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 55,
+												"g": 32,
+												"b": 32,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8efkf",
+													"key": "3md02",
 													"text": "guy. that's my thing",
 													"type": "unstyled",
 													"depth": 0,
