@@ -148,8 +148,10 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"text": "Testing on a ",
 										"font": "Noto Sans",
 										"size": 24,
@@ -167,7 +169,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2aoun",
+													"key": "brqhn",
 													"text": "Testing on a ",
 													"type": "unstyled",
 													"depth": 0,
@@ -192,8 +194,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -203,8 +203,10 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"text": "sample video",
 										"font": "Noto Sans",
 										"size": 24,
@@ -222,7 +224,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fidbe",
+													"key": "5h9ev",
 													"text": "sample video",
 													"type": "unstyled",
 													"depth": 0,
@@ -247,8 +249,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									}
 								],
@@ -303,8 +303,8 @@
 									"seoSuffix": "samplevideo"
 								},
 								"underlay": {
-									"show": false,
-									"gravity": "south",
+									"show": "stripe",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -314,7 +314,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": true
+									"matchText": false
 								}
 							},
 							{
@@ -367,8 +367,10 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"text": "I'm a cool",
 										"font": "Noto Sans",
 										"size": 24,
@@ -386,7 +388,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aog8s",
+													"key": "5vur",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -411,8 +413,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -422,8 +422,10 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"text": "guy. that's my thing",
 										"font": "Noto Sans",
 										"size": 24,
@@ -441,7 +443,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bma69",
+													"key": "3jrj6",
 													"text": "guy. that's my thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -466,8 +468,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									}
 								],
@@ -523,8 +523,8 @@
 								},
 								"viewSelection": 125,
 								"underlay": {
-									"show": false,
-									"gravity": "south",
+									"show": "stripe",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -534,7 +534,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": true
+									"matchText": false
 								}
 							}
 						],
