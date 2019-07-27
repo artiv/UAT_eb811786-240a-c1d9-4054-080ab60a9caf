@@ -148,10 +148,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"text": "Testing on a ",
 										"font": "Noto Sans",
 										"size": 24,
@@ -169,7 +167,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "brqhn",
+													"key": "790p8",
 													"text": "Testing on a ",
 													"type": "unstyled",
 													"depth": 0,
@@ -194,6 +192,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -203,10 +203,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "sample video",
 										"font": "Noto Sans",
 										"size": 24,
@@ -224,7 +222,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5h9ev",
+													"key": "fr8c1",
 													"text": "sample video",
 													"type": "unstyled",
 													"depth": 0,
@@ -249,6 +247,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									}
 								],
@@ -306,7 +306,7 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "north",
+									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -369,10 +369,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"text": "I'm a cool",
 										"font": "Noto Sans",
 										"size": 24,
@@ -390,7 +388,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5vur",
+													"key": "8lvii",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -415,6 +413,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -424,10 +424,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "guy. that's my thing",
 										"font": "Noto Sans",
 										"size": 24,
@@ -445,7 +443,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3jrj6",
+													"key": "9s4or",
 													"text": "guy. that's my thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -470,6 +468,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									}
 								],
@@ -528,7 +528,7 @@
 								"viewSelection": 125,
 								"underlay": {
 									"show": "stripe",
-									"gravity": "north",
+									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
