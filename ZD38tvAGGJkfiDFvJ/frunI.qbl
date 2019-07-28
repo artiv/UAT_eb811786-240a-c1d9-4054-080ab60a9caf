@@ -49,22 +49,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp",
-								"version": 1564255473,
-								"signature": "7cdab99e5ce203865171a3266b59ac226aa3f144",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_sampleVideo_c2xonp_bEpg",
+								"version": 1564291274,
+								"signature": "793fd41a948556f4935edbbed183fdc2c6c42166",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-07-27T19:24:33Z",
+								"created_at": "2019-07-28T05:21:14Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1371176,
+								"bytes": 1359282,
 								"type": "upload",
-								"etag": "eb3a0f0e78d049fd0d1366bad79eab73",
+								"etag": "cba84cbe14890a8a4637e6336337b787",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1564291274/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_sampleVideo_c2xonp_bEpg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564291274/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_sampleVideo_c2xonp_bEpg.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -79,15 +79,15 @@
 									"codec": "h264",
 									"level": 31,
 									"profile": "High",
-									"bit_rate": "1682412",
+									"bit_rate": "1664403",
 									"dar": "16:9"
 								},
 								"is_audio": false,
 								"frame_rate": 25,
-								"bit_rate": 2065024,
+								"bit_rate": 2047111,
 								"duration": 5.312,
 								"rotation": 0,
-								"original_filename": "en_sampleVideo_c2xonp",
+								"original_filename": "hi_sampleVideo_c2xonp",
 								"path": "v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.jpg",
 								"overlays": [
@@ -199,10 +199,12 @@
 									}
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1564291274/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_sampleVideo_c2xonp_bEpg.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_sampleVideo_c2xonp_bEpg"
 								],
 								"embed": {
 									"width": 1280,
@@ -234,22 +236,22 @@
 								}
 							},
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu",
-								"version": 1564255476,
-								"signature": "943c18e61ac0488bc0b50649894536bf2f3dab4a",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_modernFamily_u2jahu_zr6r",
+								"version": 1564291297,
+								"signature": "925242c5fbe61218d0da334ce31e022c6903da5c",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-07-27T19:24:36Z",
+								"created_at": "2019-07-28T05:21:37Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 986029,
+								"bytes": 982032,
 								"type": "upload",
-								"etag": "6e94edbc400d9a97e8bc4b2f15e734a1",
+								"etag": "795a95fa0f781463690c813aef44bb58",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1564291297/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_modernFamily_u2jahu_zr6r.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564291297/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_modernFamily_u2jahu_zr6r.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -264,15 +266,15 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "159666",
+									"bit_rate": "158594",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 261719,
+								"bit_rate": 260658,
 								"duration": 30.139501,
 								"rotation": 0,
-								"original_filename": "en_modernFamily_u2jahu",
+								"original_filename": "hi_modernFamily_u2jahu",
 								"path": "v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.jpg",
 								"overlays": [],
@@ -323,10 +325,12 @@
 									}
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1564141981/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1564291297/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_modernFamily_u2jahu_zr6r.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_u2jahu",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/hi_modernFamily_u2jahu_zr6r"
 								],
 								"embed": {
 									"width": 480,
