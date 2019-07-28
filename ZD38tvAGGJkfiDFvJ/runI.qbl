@@ -278,7 +278,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": false
+									"isAttached": true
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1563883395/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sampleVideo_c2xonp.mp4",
