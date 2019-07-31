@@ -665,6 +665,73 @@
 									},
 									"matchText": false
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk",
+								"version": 1564603565,
+								"signature": "bcae58b856e6d0134aa94d6f5da10ea817ef72d3",
+								"width": 1920,
+								"height": 1080,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-07-31T20:06:05Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 43808020,
+								"type": "upload",
+								"etag": "1afda2b31170b316ef666428be478543",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "317375",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 41,
+									"profile": "Main",
+									"bit_rate": "2747921"
+								},
+								"is_audio": false,
+								"frame_rate": 29.97002997002997,
+								"bit_rate": 3082756,
+								"duration": 113.646875,
+								"rotation": 0,
+								"original_filename": "qbl_explainer_video2",
+								"done": true,
+								"path": "v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "qbl_explainer_video2"
+								}
 							}
 						],
 						"fieldChildren": []
