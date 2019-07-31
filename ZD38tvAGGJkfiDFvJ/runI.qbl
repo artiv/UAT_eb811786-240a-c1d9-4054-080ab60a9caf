@@ -667,27 +667,27 @@
 								}
 							},
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk",
-								"version": 1564603565,
-								"signature": "bcae58b856e6d0134aa94d6f5da10ea817ef72d3",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_qbl_explainer_video2_zmhfmk_Hn9m",
+								"version": 1564603800,
+								"signature": "dc56fbddaa295ccc63aadc57dd0d83345b14e33a",
 								"width": 1920,
 								"height": 1080,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-07-31T20:06:05Z",
+								"created_at": "2019-07-31T20:10:00Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 43808020,
+								"bytes": 9162966,
 								"type": "upload",
-								"etag": "1afda2b31170b316ef666428be478543",
+								"etag": "8819b49bb2b63e31a1450e106d2ce9f8",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1564603800/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_qbl_explainer_video2_zmhfmk_Hn9m.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1564603800/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_qbl_explainer_video2_zmhfmk_Hn9m.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "317375",
+									"bit_rate": "317422",
 									"frequency": 48000,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -695,16 +695,16 @@
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
-									"level": 41,
-									"profile": "Main",
-									"bit_rate": "2747921"
+									"level": 40,
+									"profile": "High",
+									"bit_rate": "318765"
 								},
 								"is_audio": false,
 								"frame_rate": 29.97002997002997,
-								"bit_rate": 3082756,
+								"bit_rate": 645012,
 								"duration": 113.646875,
 								"rotation": 0,
-								"original_filename": "qbl_explainer_video2",
+								"original_filename": "en_qbl_explainer_video2_zmhfmk",
 								"done": true,
 								"path": "v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.jpg",
@@ -6839,10 +6839,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1564603565/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1564603800/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_qbl_explainer_video2_zmhfmk_Hn9m.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/qbl_explainer_video2_zmhfmk",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_qbl_explainer_video2_zmhfmk_Hn9m"
 								],
 								"embed": {
 									"width": 1920,
