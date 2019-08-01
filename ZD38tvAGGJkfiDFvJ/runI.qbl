@@ -6874,6 +6874,73 @@
 									},
 									"matchText": true
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b",
+								"version": 1564640757,
+								"signature": "17b1123b08cb7f2ec8ab2ea0762a2bd18957620e",
+								"width": 3840,
+								"height": 2160,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-08-01T06:25:57Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 404901393,
+								"type": "upload",
+								"etag": "8a7944bc4e59902769ff7aaa7b92fd92",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "317375",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 51,
+									"profile": "Main",
+									"bit_rate": "100398147",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 23.976023976023978,
+								"bit_rate": 100730753,
+								"duration": 32.157122,
+								"rotation": 0,
+								"original_filename": "download_new",
+								"path": "v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b"
+								],
+								"embed": {
+									"width": 3840,
+									"height": 2160,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "download_new"
+								}
 							}
 						],
 						"fieldChildren": []
