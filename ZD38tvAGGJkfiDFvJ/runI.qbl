@@ -158,7 +158,7 @@
 											"text": "guy. that's my"
 										}
 									],
-									"isAttached": true,
+									"isAttached": false,
 									"font": "Ubuntu",
 									"size": 24,
 									"color": {
