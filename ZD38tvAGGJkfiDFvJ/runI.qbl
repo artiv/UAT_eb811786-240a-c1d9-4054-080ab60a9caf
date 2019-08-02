@@ -1420,7 +1420,17 @@
 											"text": "know it"
 										}
 									],
-									"isAttached": false
+									"isAttached": true,
+									"font": "Noto Sans",
+									"size": 24,
+									"color": {
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									}
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1564640757/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/download_new_bkaz5b.mp4"
