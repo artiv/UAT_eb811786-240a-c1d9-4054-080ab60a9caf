@@ -210,7 +210,7 @@
 										}
 									],
 									"isAttached": true,
-									"font": "Noto Sans",
+									"font": "Ubuntu",
 									"size": 24,
 									"color": {
 										"hex": "#ff0000",
