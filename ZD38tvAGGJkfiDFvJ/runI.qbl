@@ -571,7 +571,54 @@
 								"original_filename": "sample",
 								"path": "v1565128416/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sample_nko1de.jpg",
 								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/image/upload/c_limit,h_60,w_90/v1565128416/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/sample_nko1de.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "778jk",
+													"text": "hi",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "hi"
+									}
+								],
 								"embed": {
 									"width": 864,
 									"height": 576,
