@@ -51,22 +51,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_pbykro_gSf3",
-								"version": 1565124121,
-								"signature": "facd513229d914ed58ffdfc0c2afc7902f7e3e96",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro",
+								"version": 1565121001,
+								"signature": "e7315b7cc7f1d6c36450ec245ea5d20b9d6df066",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-06T20:42:01Z",
+								"created_at": "2019-08-06T19:50:01Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 998271,
+								"bytes": 1398635,
 								"type": "upload",
-								"etag": "519427e4280956698a329df024cb5e74",
+								"etag": "323bb8e393e9654e4c88af020b0ff00c",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565124121/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_pbykro_gSf3.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565124121/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_pbykro_gSf3.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -80,16 +80,16 @@
 									"pix_format": "yuv420p",
 									"codec": "h264",
 									"level": 21,
-									"profile": "High",
-									"bit_rate": "162950",
+									"profile": "Constrained Baseline",
+									"bit_rate": "273006",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 264969,
-								"duration": 30.139501,
+								"bit_rate": 371257,
+								"duration": 30.138333,
 								"rotation": 0,
-								"original_filename": "en_cp_modernFamily_pbykro",
+								"original_filename": "modernFamily",
 								"path": "v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.jpg",
 								"overlays": [],
@@ -97,22 +97,22 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,600\nI'm a\n\n2\n00:00:04,600 --> 00:00:05,900\ncool. That's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nphone\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n",
 									"parsed": [
 										{
 											"start": 3000,
-											"end": 4800,
-											"text": "I'm a cool"
+											"end": 4600,
+											"text": "I'm a"
 										},
 										{
-											"start": 4800,
+											"start": 4600,
 											"end": 5900,
-											"text": "guy that's that's my"
+											"text": "cool. That's that's my"
 										},
 										{
 											"start": 5900,
 											"end": 6300,
-											"text": "Fang"
+											"text": "phone"
 										},
 										{
 											"start": 7400,
@@ -211,29 +211,37 @@
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_hSoc.srt",
-										"version": 1565124051,
-										"signature": "15c73193cc1a477c91ba306c59c7e65d0b1c2fd8",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_fNwR.srt",
+										"version": 1565124155,
+										"signature": "ffaa28fc0c01a6708b254ddabc28e17aa6f8a5ad",
 										"resource_type": "raw",
-										"created_at": "2019-08-06T20:40:51Z",
+										"created_at": "2019-08-06T20:42:35Z",
 										"tags": [],
-										"bytes": 979,
+										"bytes": 977,
 										"type": "upload",
-										"etag": "a432f9ffc1617bb10ebae77c03d28161",
+										"etag": "0525cf30b55aebcee6c044e0b6cad66e",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565124051/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_hSoc.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565124051/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_hSoc.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565124155/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_fNwR.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565124155/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro_en-US_fNwR.srt",
 										"access_mode": "public"
 									},
-									"isAttached": true
+									"isAttached": true,
+									"size": 24,
+									"color": {
+										"hex": "#ffffff",
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									}
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.mp4",
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565124121/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_pbykro_gSf3.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565121001/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_pbykro_gSf3"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_pbykro"
 								],
 								"embed": {
 									"width": 480,
