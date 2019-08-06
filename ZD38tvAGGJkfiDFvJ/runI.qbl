@@ -95,7 +95,133 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:00,600\nturn on I'm\n\n2\n00:00:00,600 --> 00:00:01,800\ntalking to a phone that is your\n\n3\n00:00:01,800 --> 00:00:02,500\nfrom the USA\n\n4\n00:00:02,500 --> 00:00:03,900\nwho specialises\n\n5\n00:00:03,900 --> 00:00:04,400\nin picking\n\n6\n00:00:04,400 --> 00:00:05,900\ncompanies with really\n\n7\n00:00:05,900 --> 00:00:06,600\nreally good\n\n8\n00:00:06,600 --> 00:00:07,800\nculture and\n\n9\n00:00:07,800 --> 00:00:08,800\nthey've been one of the best\n\n10\n00:00:08,800 --> 00:00:09,600\nperforming further\n\n11\n00:00:09,600 --> 00:00:10,800\njust in the world\n\n12\n00:00:10,800 --> 00:00:11,900\nmaybe we all should\n\n13\n00:00:11,900 --> 00:00:12,600\nbe investing\n\n14\n00:00:12,600 --> 00:00:13,500\nfollowing the royal commission\n\n15\n00:00:13,500 --> 00:00:14,800\nin companies that have\n\n16\n00:00:14,800 --> 00:00:15,400\nreally\n\n17\n00:00:15,400 --> 00:00:16,600\nreally good culture\n\n18\n00:00:16,600 --> 00:00:17,800\ntonight on\n\n19\n00:00:17,800 --> 00:00:18,600\nMoney Talks\n\n20\n00:00:18,600 --> 00:00:19,900\n730\n\n21\n00:00:19,900 --> 00:00:20,600\nyour money channel\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 600,
+											"text": "turn on I'm"
+										},
+										{
+											"start": 600,
+											"end": 1800,
+											"text": "talking to a phone that is your"
+										},
+										{
+											"start": 1800,
+											"end": 2500,
+											"text": "from the USA"
+										},
+										{
+											"start": 2500,
+											"end": 3900,
+											"text": "who specialises"
+										},
+										{
+											"start": 3900,
+											"end": 4400,
+											"text": "in picking"
+										},
+										{
+											"start": 4400,
+											"end": 5900,
+											"text": "companies with really"
+										},
+										{
+											"start": 5900,
+											"end": 6600,
+											"text": "really good"
+										},
+										{
+											"start": 6600,
+											"end": 7800,
+											"text": "culture and"
+										},
+										{
+											"start": 7800,
+											"end": 8800,
+											"text": "they've been one of the best"
+										},
+										{
+											"start": 8800,
+											"end": 9600,
+											"text": "performing further"
+										},
+										{
+											"start": 9600,
+											"end": 10800,
+											"text": "just in the world"
+										},
+										{
+											"start": 10800,
+											"end": 11900,
+											"text": "maybe we all should"
+										},
+										{
+											"start": 11900,
+											"end": 12600,
+											"text": "be investing"
+										},
+										{
+											"start": 12600,
+											"end": 13500,
+											"text": "following the royal commission"
+										},
+										{
+											"start": 13500,
+											"end": 14800,
+											"text": "in companies that have"
+										},
+										{
+											"start": 14800,
+											"end": 15400,
+											"text": "really"
+										},
+										{
+											"start": 15400,
+											"end": 16600,
+											"text": "really good culture"
+										},
+										{
+											"start": 16600,
+											"end": 17800,
+											"text": "tonight on"
+										},
+										{
+											"start": 17800,
+											"end": 18600,
+											"text": "Money Talks"
+										},
+										{
+											"start": 18600,
+											"end": 19900,
+											"text": "730"
+										},
+										{
+											"start": 19900,
+											"end": 20600,
+											"text": "your money channel"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_xjne.srt",
+										"version": 1565125625,
+										"signature": "ae6377166d3e5501933439505fb6155536eef539",
+										"resource_type": "raw",
+										"created_at": "2019-08-06T21:07:05Z",
+										"tags": [],
+										"bytes": 1060,
+										"type": "upload",
+										"etag": "e61e99c156eac27b8566c56c235fa32c",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565125625/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_xjne.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565125625/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_xjne.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4"
 								],
