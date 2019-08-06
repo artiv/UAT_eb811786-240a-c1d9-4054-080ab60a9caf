@@ -49,7 +49,75 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
+								"version": 1565125409,
+								"signature": "2aa18eff7d94e0c7f27336ef4f0aaf9debc798bb",
+								"width": 576,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-08-06T21:03:29Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 5154832,
+								"type": "upload",
+								"etag": "36b6d561da9d79a6055a32cec14217b9",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "128026",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "1815605",
+									"dar": "4:5"
+								},
+								"is_audio": false,
+								"frame_rate": 30,
+								"bit_rate": 1946688,
+								"duration": 21.141,
+								"rotation": 0,
+								"original_filename": "your-money_vjncph",
+								"path": "v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "your-money_vjncph"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
