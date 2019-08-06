@@ -51,27 +51,27 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_KP3q",
-								"version": 1565125654,
-								"signature": "632aebbfbf333c563f834c1f1cf1e90cf46f1082",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
+								"version": 1565125409,
+								"signature": "2aa18eff7d94e0c7f27336ef4f0aaf9debc798bb",
 								"width": 576,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-06T21:07:34Z",
+								"created_at": "2019-08-06T21:03:29Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3121546,
+								"bytes": 5154832,
 								"type": "upload",
-								"etag": "3fb22aa4cdd69e86aa0cbc4c80221b02",
+								"etag": "36b6d561da9d79a6055a32cec14217b9",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565125654/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_KP3q.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565125654/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_KP3q.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "128028",
+									"bit_rate": "128026",
 									"frequency": 48000,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -79,17 +79,17 @@
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
-									"level": 31,
-									"profile": "High",
-									"bit_rate": "1044006",
+									"level": 30,
+									"profile": "Constrained Baseline",
+									"bit_rate": "1815605",
 									"dar": "4:5"
 								},
 								"is_audio": false,
 								"frame_rate": 30,
-								"bit_rate": 1178831,
+								"bit_rate": 1946688,
 								"duration": 21.141,
 								"rotation": 0,
-								"original_filename": "en_cp_your-money_vjncph_pop8i4",
+								"original_filename": "your-money_vjncph",
 								"path": "v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.jpg",
 								"overlays": [],
@@ -223,12 +223,10 @@
 									"isAttached": true
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125654/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_KP3q.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_KP3q"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4"
 								],
 								"embed": {
 									"width": 576,
@@ -290,7 +288,288 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:05,900\nin\n\n2\n00:00:05,900 --> 00:00:06,800\nunderstanding cost of\n\n3\n00:00:06,800 --> 00:00:07,900\nhealthcare one is\n\n4\n00:00:07,900 --> 00:00:08,300\nable to\n\n5\n00:00:08,300 --> 00:00:09,800\ndo\n\n6\n00:00:09,800 --> 00:00:10,800\na number of things better\n\n7\n00:00:10,800 --> 00:00:12,900\nmanagement is\n\n8\n00:00:12,900 --> 00:00:13,800\nabsolutely\n\n9\n00:00:13,800 --> 00:00:14,800\nfundamental\n\n10\n00:00:14,800 --> 00:00:15,600\nto the New South\n\n11\n00:00:15,600 --> 00:00:16,000\nWales\n\n12\n00:00:16,000 --> 00:00:17,600\nhealth strategic\n\n13\n00:00:17,600 --> 00:00:18,100\nplan\n\n14\n00:00:18,100 --> 00:00:19,900\none of our\n\n15\n00:00:19,900 --> 00:00:20,700\npriorities\n\n16\n00:00:20,700 --> 00:00:21,800\nis better\n\n17\n00:00:21,800 --> 00:00:22,400\nvalue care\n\n18\n00:00:22,400 --> 00:00:23,700\nit's a rich\n\n19\n00:00:23,700 --> 00:00:24,600\ninformation\n\n20\n00:00:24,600 --> 00:00:25,500\nsource and it\n\n21\n00:00:25,500 --> 00:00:26,600\nlinks our\n\n22\n00:00:26,600 --> 00:00:27,900\nfinancial data from\n\n23\n00:00:27,900 --> 00:00:28,600\nour financial\n\n24\n00:00:28,600 --> 00:00:29,900\nsystems to our\n\n25\n00:00:29,900 --> 00:00:30,900\nclinical date of\n\n26\n00:00:30,900 --> 00:00:31,700\nfrom our patients\n\n27\n00:00:31,700 --> 00:00:32,900\nsystem is given\n\n28\n00:00:32,900 --> 00:00:33,900\nas a source of Truth\n\n29\n00:00:33,900 --> 00:00:36,800\nand\n\n30\n00:00:36,800 --> 00:00:37,900\nimprove collaboration across\n\n31\n00:00:37,900 --> 00:00:38,500\nthe system\n\n32\n00:00:38,500 --> 00:00:39,900\nthe last 5 years\n\n33\n00:00:39,900 --> 00:00:40,800\nhave been 5\n\n34\n00:00:40,800 --> 00:00:41,900\nyears of\n\n35\n00:00:41,900 --> 00:00:43,500\nExtraordinary\n\n36\n00:00:43,500 --> 00:00:44,400\ngrowth\n\n37\n00:00:44,400 --> 00:00:45,700\nin very\n\n38\n00:00:45,700 --> 00:00:46,300\nclose\n\n39\n00:00:46,300 --> 00:00:47,900\ndaily collaboration\n\n40\n00:00:47,900 --> 00:00:48,800\nwith my clinical\n\n41\n00:00:48,800 --> 00:00:49,800\nteams in the\n\n42\n00:00:49,800 --> 00:00:50,500\nway in which we\n\n43\n00:00:50,500 --> 00:00:51,200\njointly\n\n44\n00:00:51,200 --> 00:00:52,500\nrun the business\n\n45\n00:00:52,500 --> 00:00:53,900\nthe way in which\n\n46\n00:00:53,900 --> 00:00:54,600\nwe jointly\n\n47\n00:00:54,600 --> 00:00:55,900\ntalked about and care about\n\n48\n00:00:55,900 --> 00:00:56,800\nthe experience of\n\n49\n00:00:56,800 --> 00:00:57,900\npatient and the\n\n50\n00:00:57,900 --> 00:00:58,800\nway in which we are\n\n51\n00:00:58,800 --> 00:00:59,900\nimagining\n\n52\n00:01:00,000 --> 00:01:00,400\nfuture\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 5900,
+											"text": "in"
+										},
+										{
+											"start": 5900,
+											"end": 6800,
+											"text": "understanding cost of"
+										},
+										{
+											"start": 6800,
+											"end": 7900,
+											"text": "healthcare one is"
+										},
+										{
+											"start": 7900,
+											"end": 8300,
+											"text": "able to"
+										},
+										{
+											"start": 8300,
+											"end": 9800,
+											"text": "do"
+										},
+										{
+											"start": 9800,
+											"end": 10800,
+											"text": "a number of things better"
+										},
+										{
+											"start": 10800,
+											"end": 12900,
+											"text": "management is"
+										},
+										{
+											"start": 12900,
+											"end": 13800,
+											"text": "absolutely"
+										},
+										{
+											"start": 13800,
+											"end": 14800,
+											"text": "fundamental"
+										},
+										{
+											"start": 14800,
+											"end": 15600,
+											"text": "to the New South"
+										},
+										{
+											"start": 15600,
+											"end": 16000,
+											"text": "Wales"
+										},
+										{
+											"start": 16000,
+											"end": 17600,
+											"text": "health strategic"
+										},
+										{
+											"start": 17600,
+											"end": 18100,
+											"text": "plan"
+										},
+										{
+											"start": 18100,
+											"end": 19900,
+											"text": "one of our"
+										},
+										{
+											"start": 19900,
+											"end": 20700,
+											"text": "priorities"
+										},
+										{
+											"start": 20700,
+											"end": 21800,
+											"text": "is better"
+										},
+										{
+											"start": 21800,
+											"end": 22400,
+											"text": "value care"
+										},
+										{
+											"start": 22400,
+											"end": 23700,
+											"text": "it's a rich"
+										},
+										{
+											"start": 23700,
+											"end": 24600,
+											"text": "information"
+										},
+										{
+											"start": 24600,
+											"end": 25500,
+											"text": "source and it"
+										},
+										{
+											"start": 25500,
+											"end": 26600,
+											"text": "links our"
+										},
+										{
+											"start": 26600,
+											"end": 27900,
+											"text": "financial data from"
+										},
+										{
+											"start": 27900,
+											"end": 28600,
+											"text": "our financial"
+										},
+										{
+											"start": 28600,
+											"end": 29900,
+											"text": "systems to our"
+										},
+										{
+											"start": 29900,
+											"end": 30900,
+											"text": "clinical date of"
+										},
+										{
+											"start": 30900,
+											"end": 31700,
+											"text": "from our patients"
+										},
+										{
+											"start": 31700,
+											"end": 32900,
+											"text": "system is given"
+										},
+										{
+											"start": 32900,
+											"end": 33900,
+											"text": "as a source of Truth"
+										},
+										{
+											"start": 33900,
+											"end": 36800,
+											"text": "and"
+										},
+										{
+											"start": 36800,
+											"end": 37900,
+											"text": "improve collaboration across"
+										},
+										{
+											"start": 37900,
+											"end": 38500,
+											"text": "the system"
+										},
+										{
+											"start": 38500,
+											"end": 39900,
+											"text": "the last 5 years"
+										},
+										{
+											"start": 39900,
+											"end": 40800,
+											"text": "have been 5"
+										},
+										{
+											"start": 40800,
+											"end": 41900,
+											"text": "years of"
+										},
+										{
+											"start": 41900,
+											"end": 43500,
+											"text": "Extraordinary"
+										},
+										{
+											"start": 43500,
+											"end": 44400,
+											"text": "growth"
+										},
+										{
+											"start": 44400,
+											"end": 45700,
+											"text": "in very"
+										},
+										{
+											"start": 45700,
+											"end": 46300,
+											"text": "close"
+										},
+										{
+											"start": 46300,
+											"end": 47900,
+											"text": "daily collaboration"
+										},
+										{
+											"start": 47900,
+											"end": 48800,
+											"text": "with my clinical"
+										},
+										{
+											"start": 48800,
+											"end": 49800,
+											"text": "teams in the"
+										},
+										{
+											"start": 49800,
+											"end": 50500,
+											"text": "way in which we"
+										},
+										{
+											"start": 50500,
+											"end": 51200,
+											"text": "jointly"
+										},
+										{
+											"start": 51200,
+											"end": 52500,
+											"text": "run the business"
+										},
+										{
+											"start": 52500,
+											"end": 53900,
+											"text": "the way in which"
+										},
+										{
+											"start": 53900,
+											"end": 54600,
+											"text": "we jointly"
+										},
+										{
+											"start": 54600,
+											"end": 55900,
+											"text": "talked about and care about"
+										},
+										{
+											"start": 55900,
+											"end": 56800,
+											"text": "the experience of"
+										},
+										{
+											"start": 56800,
+											"end": 57900,
+											"text": "patient and the"
+										},
+										{
+											"start": 57900,
+											"end": 58800,
+											"text": "way in which we are"
+										},
+										{
+											"start": 58800,
+											"end": 59900,
+											"text": "imagining"
+										},
+										{
+											"start": 60000,
+											"end": 60400,
+											"text": "future"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/nsw_mhd8vp_en-AU_gCQi.srt",
+										"version": 1565125699,
+										"signature": "11bd702110e1c35161672cfdfe8a7a9865d62a98",
+										"resource_type": "raw",
+										"created_at": "2019-08-06T21:08:19Z",
+										"tags": [],
+										"bytes": 2467,
+										"type": "upload",
+										"etag": "470deeea76fcfcc62d0d71b990a29e64",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565125699/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/nsw_mhd8vp_en-AU_gCQi.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565125699/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/nsw_mhd8vp_en-AU_gCQi.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125534/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/nsw_mhd8vp.mp4"
 								],
