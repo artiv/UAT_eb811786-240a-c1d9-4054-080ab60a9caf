@@ -505,59 +505,7 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
-						"fieldValues": [
-							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y",
-								"captions": {
-									"captionString": "hello there",
-									"parsed": [
-										{}
-									]
-								},
-								"overlays": [],
-								"is_audio": true,
-								"embed": {
-									"width": 100,
-									"height": 100,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": ""
-								},
-								"version": 1565178081,
-								"signature": "59a03df672d9b26c47e5362dd11916b3da477800",
-								"width": 0,
-								"height": 0,
-								"format": "mp3",
-								"resource_type": "video",
-								"created_at": "2019-08-07T11:41:21Z",
-								"tags": [],
-								"pages": 0,
-								"bytes": 1056,
-								"type": "upload",
-								"etag": "c72e413d788701c49d4d69500a4bf458",
-								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565178081/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y.mp3",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565178081/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y.mp3",
-								"access_mode": "public",
-								"audio": {
-									"codec": "mp3",
-									"bit_rate": "32000",
-									"frequency": 24000,
-									"channels": 1,
-									"channel_layout": "mono"
-								},
-								"video": {},
-								"bit_rate": 32000,
-								"duration": 0.264
-							}
-						],
+						"fieldValues": [],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
