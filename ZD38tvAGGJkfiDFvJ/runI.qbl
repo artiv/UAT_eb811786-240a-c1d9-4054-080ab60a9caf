@@ -51,22 +51,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S",
-								"version": 1565177725,
-								"signature": "bc3e877a176986a5c3d84bb711226748a006d4b9",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_WzMB",
+								"version": 1565178088,
+								"signature": "a18a97ba4a12091cc86a233cd2f912710d91676f",
 								"width": 576,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-07T11:35:25Z",
+								"created_at": "2019-08-07T11:41:28Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3064380,
+								"bytes": 3122250,
 								"type": "upload",
-								"etag": "ed837c215f67f43af31811ef7ed16fdf",
+								"etag": "0925142ad360e78ca56b62bd8c8352c2",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565177725/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565177725/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565178088/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_WzMB.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565178088/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_WzMB.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -81,12 +81,12 @@
 									"codec": "h264",
 									"level": 31,
 									"profile": "High",
-									"bit_rate": "1022351",
+									"bit_rate": "1044273",
 									"dar": "4:5"
 								},
 								"is_audio": false,
 								"frame_rate": 30,
-								"bit_rate": 1157243,
+								"bit_rate": 1179097,
 								"duration": 21.141,
 								"rotation": 0,
 								"original_filename": "en_cp_your-money_vjncph_pop8i4",
@@ -97,32 +97,127 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nfrom the USA\n\n2\n00:00:06,600 --> 00:00:07,800\ncall Chuck and\n\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:00,600\nturn on I'm\n\n2\n00:00:00,600 --> 00:00:01,800\ntalking to a phone that is your\n\n3\n00:00:01,800 --> 00:00:02,500\nfrom the USA\n\n4\n00:00:02,500 --> 00:00:03,900\nwho specialises\n\n5\n00:00:03,900 --> 00:00:04,400\nin picking\n\n6\n00:00:04,400 --> 00:00:05,900\ncompanies with really\n\n7\n00:00:05,900 --> 00:00:06,600\nreally good\n\n8\n00:00:06,600 --> 00:00:07,800\nculture and\n\n9\n00:00:07,800 --> 00:00:08,800\nthey've been one of the best\n\n10\n00:00:08,800 --> 00:00:09,600\nperforming further\n\n11\n00:00:09,600 --> 00:00:10,800\njust in the world\n\n12\n00:00:10,800 --> 00:00:11,900\nmaybe we all should\n\n13\n00:00:11,900 --> 00:00:12,600\nbe investing\n\n14\n00:00:12,600 --> 00:00:13,500\nfollowing the royal commission\n\n15\n00:00:13,500 --> 00:00:14,800\nin companies that have\n\n16\n00:00:14,800 --> 00:00:15,400\nreally\n\n17\n00:00:15,400 --> 00:00:16,600\nreally good culture\n\n18\n00:00:16,600 --> 00:00:17,800\ntonight on\n\n19\n00:00:17,800 --> 00:00:18,600\nMoney Talks\n\n20\n00:00:18,600 --> 00:00:19,900\n730\n\n21\n00:00:19,900 --> 00:00:20,600\nyour money channel\n",
 									"parsed": [
 										{
 											"start": 0,
-											"end": 2600,
+											"end": 600,
+											"text": "turn on I'm"
+										},
+										{
+											"start": 600,
+											"end": 1800,
+											"text": "talking to a phone that is your"
+										},
+										{
+											"start": 1800,
+											"end": 2500,
 											"text": "from the USA"
+										},
+										{
+											"start": 2500,
+											"end": 3900,
+											"text": "who specialises"
+										},
+										{
+											"start": 3900,
+											"end": 4400,
+											"text": "in picking"
+										},
+										{
+											"start": 4400,
+											"end": 5900,
+											"text": "companies with really"
+										},
+										{
+											"start": 5900,
+											"end": 6600,
+											"text": "really good"
 										},
 										{
 											"start": 6600,
 											"end": 7800,
-											"text": "call Chuck and"
+											"text": "culture and"
+										},
+										{
+											"start": 7800,
+											"end": 8800,
+											"text": "they've been one of the best"
+										},
+										{
+											"start": 8800,
+											"end": 9600,
+											"text": "performing further"
+										},
+										{
+											"start": 9600,
+											"end": 10800,
+											"text": "just in the world"
+										},
+										{
+											"start": 10800,
+											"end": 11900,
+											"text": "maybe we all should"
+										},
+										{
+											"start": 11900,
+											"end": 12600,
+											"text": "be investing"
+										},
+										{
+											"start": 12600,
+											"end": 13500,
+											"text": "following the royal commission"
+										},
+										{
+											"start": 13500,
+											"end": 14800,
+											"text": "in companies that have"
+										},
+										{
+											"start": 14800,
+											"end": 15400,
+											"text": "really"
+										},
+										{
+											"start": 15400,
+											"end": 16600,
+											"text": "really good culture"
+										},
+										{
+											"start": 16600,
+											"end": 17800,
+											"text": "tonight on"
+										},
+										{
+											"start": 17800,
+											"end": 18600,
+											"text": "Money Talks"
+										},
+										{
+											"start": 18600,
+											"end": 19900,
+											"text": "730"
+										},
+										{
+											"start": 19900,
+											"end": 20600,
+											"text": "your money channel"
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_NRQZ_en-AU_Tgwx.srt",
-										"version": 1565177712,
-										"signature": "52bb1481b204d88385baf221eb39639fba43d358",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S_en-AU_krrb.srt",
+										"version": 1565178045,
+										"signature": "ab6ee0d8dcff6e452a526418c50ee2f6cc798055",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T11:35:12Z",
+										"created_at": "2019-08-07T11:40:45Z",
 										"tags": [],
-										"bytes": 94,
+										"bytes": 1060,
 										"type": "upload",
-										"etag": "66a1df3e81ea8d1f687c05fbe6cc6d72",
+										"etag": "e61e99c156eac27b8566c56c235fa32c",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565177712/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_NRQZ_en-AU_Tgwx.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565177712/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_NRQZ_en-AU_Tgwx.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565178045/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S_en-AU_krrb.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565178045/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S_en-AU_krrb.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
@@ -143,7 +238,8 @@
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565173959/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK.mp4",
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565174322/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs.mp4",
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565176684/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_NRQZ.mp4",
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565177725/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565177725/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S.mp4",
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565178088/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_WzMB.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
@@ -151,7 +247,8 @@
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK",
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs",
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_NRQZ",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_Py2S",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_WzMB"
 								],
 								"embed": {
 									"width": 576,
@@ -169,22 +266,22 @@
 								}
 							},
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P",
-								"version": 1565177728,
-								"signature": "089a8f7204a626bbf3790eb6724a219bd0641c88",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg",
+								"version": 1565178091,
+								"signature": "7a3c38c29fc47d4bf816f9dba1d7eb5eb65b2352",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-07T11:35:28Z",
+								"created_at": "2019-08-07T11:41:31Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 976028,
+								"bytes": 997960,
 								"type": "upload",
-								"etag": "82542dcf54d7fea42446294d6194c089",
+								"etag": "295994ee1325d84c1432b1a833387068",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565177728/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565177728/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565178091/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565178091/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -199,12 +296,12 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "157014",
+									"bit_rate": "162882",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 259065,
+								"bit_rate": 264886,
 								"duration": 30.139501,
 								"rotation": 0,
 								"original_filename": "en_cp_modernFamily_as4zun",
@@ -214,44 +311,146 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nanxiety\n\n2\n00:00:06,600 --> 00:00:07,800\ntesting\n\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:04,700\nmacaw\n\n2\n00:00:04,700 --> 00:00:05,900\nbird that starts my\n\n3\n00:00:05,900 --> 00:00:06,200\nphone\n\n4\n00:00:06,200 --> 00:00:07,900\nI'm here\n\n5\n00:00:07,900 --> 00:00:08,900\nbabe I saw the\n\n6\n00:00:08,900 --> 00:00:09,200\nway I\n\n7\n00:00:09,200 --> 00:00:10,500\ntext lol\n\n8\n00:00:10,500 --> 00:00:11,300\nlaugh out loud\n\n9\n00:00:11,300 --> 00:00:12,500\nOMG oh my\n\n10\n00:00:12,500 --> 00:00:13,100\ngod\n\n11\n00:00:13,100 --> 00:00:14,600\nWTF why the face\n\n12\n00:00:14,600 --> 00:00:16,900\nno I know\n\n13\n00:00:16,900 --> 00:00:17,600\nall the dances\n\n14\n00:00:17,600 --> 00:00:18,700\ntired school music all\n\n15\n00:00:18,700 --> 00:00:19,600\nso we'll\n\n16\n00:00:19,600 --> 00:00:21,400\nsee\n\n17\n00:00:21,400 --> 00:00:24,600\nwhere are\n\n18\n00:00:24,600 --> 00:00:25,100\nstars\n\n19\n00:00:25,100 --> 00:00:26,900\nformed you know\n\n20\n00:00:26,900 --> 00:00:27,600\nit\n",
 									"parsed": [
 										{
 											"start": 0,
-											"end": 2600,
-											"text": "anxiety"
+											"end": 4700,
+											"text": "macaw"
 										},
 										{
-											"start": 6600,
-											"end": 7800,
-											"text": "testing"
+											"start": 4700,
+											"end": 5900,
+											"text": "bird that starts my"
+										},
+										{
+											"start": 5900,
+											"end": 6200,
+											"text": "phone"
+										},
+										{
+											"start": 6200,
+											"end": 7900,
+											"text": "I'm here"
+										},
+										{
+											"start": 7900,
+											"end": 8900,
+											"text": "babe I saw the"
+										},
+										{
+											"start": 8900,
+											"end": 9200,
+											"text": "way I"
+										},
+										{
+											"start": 9200,
+											"end": 10500,
+											"text": "text lol"
+										},
+										{
+											"start": 10500,
+											"end": 11300,
+											"text": "laugh out loud"
+										},
+										{
+											"start": 11300,
+											"end": 12500,
+											"text": "OMG oh my"
+										},
+										{
+											"start": 12500,
+											"end": 13100,
+											"text": "god"
+										},
+										{
+											"start": 13100,
+											"end": 14600,
+											"text": "WTF why the face"
+										},
+										{
+											"start": 14600,
+											"end": 16900,
+											"text": "no I know"
+										},
+										{
+											"start": 16900,
+											"end": 17600,
+											"text": "all the dances"
+										},
+										{
+											"start": 17600,
+											"end": 18700,
+											"text": "tired school music all"
+										},
+										{
+											"start": 18700,
+											"end": 19600,
+											"text": "so we'll"
+										},
+										{
+											"start": 19600,
+											"end": 21400,
+											"text": "see"
+										},
+										{
+											"start": 21400,
+											"end": 24600,
+											"text": "where are"
+										},
+										{
+											"start": 24600,
+											"end": 25100,
+											"text": "stars"
+										},
+										{
+											"start": 25100,
+											"end": 26900,
+											"text": "formed you know"
+										},
+										{
+											"start": 26900,
+											"end": 27600,
+											"text": "it"
 										}
 									],
 									"font": "Noto Sans",
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_as4zun_en-AU_v8MF.srt",
-										"version": 1565177718,
-										"signature": "c9e60357d75b4dc348ef6d4b4e994df61483c9fc",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
+										"version": 1565178073,
+										"signature": "b053808c1f1a179c6d695343d4d085ee6d2dbb05",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T11:35:18Z",
+										"created_at": "2019-08-07T11:41:13Z",
 										"tags": [],
-										"bytes": 82,
+										"bytes": 883,
 										"type": "upload",
-										"etag": "d0a3ac6be6aa529e563cc1f4b1058efc",
+										"etag": "269662bc28bb131ce2d18d52201d7207",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565177718/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_as4zun_en-AU_v8MF.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565177718/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_as4zun_en-AU_v8MF.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565178073/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565178073/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
 										"access_mode": "public"
 									},
-									"isAttached": true
+									"isAttached": true,
+									"size": 24,
+									"color": {
+										"hex": "#ffffff",
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									}
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565177584/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_as4zun.mp4",
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565177728/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565177728/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P.mp4",
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565178091/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_as4zun",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg"
 								],
 								"embed": {
 									"width": 480,
@@ -306,7 +505,59 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y",
+								"captions": {
+									"captionString": "hello there",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1565178081,
+								"signature": "59a03df672d9b26c47e5362dd11916b3da477800",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-08-07T11:41:21Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1056,
+								"type": "upload",
+								"etag": "c72e413d788701c49d4d69500a4bf458",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565178081/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565178081/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/j9ela8nsgdcfqvbmti5y.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 0.264
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
