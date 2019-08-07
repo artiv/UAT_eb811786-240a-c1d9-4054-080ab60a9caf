@@ -51,22 +51,22 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK",
-								"version": 1565173959,
-								"signature": "c83ede118ede4cd018dc390234359002fe092016",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs",
+								"version": 1565174322,
+								"signature": "6419bb13805932b9bfa883014ae213b1d8350d04",
 								"width": 576,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-07T10:32:39Z",
+								"created_at": "2019-08-07T10:38:42Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3054953,
+								"bytes": 3064380,
 								"type": "upload",
-								"etag": "f18e6dd79f0cbc7beb0fc37dddd8d2e9",
+								"etag": "ed837c215f67f43af31811ef7ed16fdf",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565173959/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565173959/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565174322/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565174322/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -81,12 +81,12 @@
 									"codec": "h264",
 									"level": 31,
 									"profile": "High",
-									"bit_rate": "1018789",
+									"bit_rate": "1022351",
 									"dar": "4:5"
 								},
 								"is_audio": false,
 								"frame_rate": 30,
-								"bit_rate": 1153683,
+								"bit_rate": 1157243,
 								"duration": 21.141,
 								"rotation": 0,
 								"original_filename": "en_cp_your-money_vjncph_pop8i4",
@@ -111,18 +111,18 @@
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr_en-AU_TErg.srt",
-										"version": 1565173922,
-										"signature": "6b654f0fde79739909bf7dcd94a8667817745aa4",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK_en-AU_KLqT.srt",
+										"version": 1565174273,
+										"signature": "af6c21015f177f5f3b18c99b9e21d1904fce9275",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T10:32:02Z",
+										"created_at": "2019-08-07T10:37:53Z",
 										"tags": [],
 										"bytes": 94,
 										"type": "upload",
 										"etag": "66a1df3e81ea8d1f687c05fbe6cc6d72",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565173922/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr_en-AU_TErg.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565173922/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr_en-AU_TErg.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565174273/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK_en-AU_KLqT.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565174273/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK_en-AU_KLqT.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
@@ -140,12 +140,14 @@
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565173266/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr.mp4",
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565173959/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565173959/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK.mp4",
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565174322/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
 									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr",
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_DQCK",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_QTYs"
 								],
 								"embed": {
 									"width": 576,
@@ -223,18 +225,18 @@
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_7vhm_en-AU_gAEx.srt",
-										"version": 1565173927,
-										"signature": "079d394fbce24ff7c2515d309e807c1a456706ff",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_87dn.srt",
+										"version": 1565174280,
+										"signature": "44faae8e59fb2a7e8a9042efa417e44343c02bcb",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T10:32:07Z",
+										"created_at": "2019-08-07T10:38:00Z",
 										"tags": [],
 										"bytes": 82,
 										"type": "upload",
 										"etag": "d0a3ac6be6aa529e563cc1f4b1058efc",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565173927/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_7vhm_en-AU_gAEx.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565173927/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_7vhm_en-AU_gAEx.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565174280/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_87dn.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565174280/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_87dn.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
