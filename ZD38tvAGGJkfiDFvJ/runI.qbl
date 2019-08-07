@@ -505,7 +505,59 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/ixdtigvmbcxs979pmzjw",
+								"captions": {
+									"captionString": "hello there how is everything going",
+									"parsed": [
+										{}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								},
+								"version": 1565178644,
+								"signature": "9d4726213437f2e44bc1ac80dd827c8668a4ed91",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-08-07T11:50:44Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1152,
+								"type": "upload",
+								"etag": "9935ed12f8e940a55bfbf212a1a86662",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565178644/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/ixdtigvmbcxs979pmzjw.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565178644/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/ixdtigvmbcxs979pmzjw.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 0.288
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
