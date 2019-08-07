@@ -213,32 +213,32 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nanxiety\n\n2\n00:00:06,600 --> 00:00:07,800\ntesting\n\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nfrom the USA\n\n2\n00:00:06,600 --> 00:00:07,800\ncall Chuck and\n\n",
 									"parsed": [
 										{
 											"start": 0,
 											"end": 2600,
-											"text": "anxiety"
+											"text": "from the USA"
 										},
 										{
 											"start": 6600,
 											"end": 7800,
-											"text": "testing"
+											"text": "call Chuck and"
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_QeMe.srt",
-										"version": 1565176675,
-										"signature": "832379cafa97161ca4ced0862b8b25f7e8d7c1e0",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_EKWy.srt",
+										"version": 1565177359,
+										"signature": "811752b8cea17f37dfcbf6b030ffb38444914507",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T11:17:55Z",
+										"created_at": "2019-08-07T11:29:19Z",
 										"tags": [],
-										"bytes": 82,
+										"bytes": 94,
 										"type": "upload",
-										"etag": "d0a3ac6be6aa529e563cc1f4b1058efc",
+										"etag": "66a1df3e81ea8d1f687c05fbe6cc6d72",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565176675/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_QeMe.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565176675/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_QeMe.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565177359/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_EKWy.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565177359/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_anxiety_j3c1pd_Azek_en-AU_EKWy.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
