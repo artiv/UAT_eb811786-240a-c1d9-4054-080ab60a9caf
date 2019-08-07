@@ -177,6 +177,73 @@
 									"caption": "",
 									"seoSuffix": "your-money_vjncph"
 								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd",
+								"version": 1565158418,
+								"signature": "043b50d8321bd2662fa2121abe7194b456fa9f06",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-08-07T06:13:38Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 4483072,
+								"type": "upload",
+								"etag": "f585120e033e452691a1a1e9d64a791f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "125588",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1067728",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1196404,
+								"duration": 29.976956,
+								"rotation": 0,
+								"original_filename": "anxiety",
+								"path": "v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "anxiety"
+								}
 							}
 						],
 						"fieldChildren": []
