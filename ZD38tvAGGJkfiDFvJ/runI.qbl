@@ -51,27 +51,27 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
-								"version": 1565125409,
-								"signature": "2aa18eff7d94e0c7f27336ef4f0aaf9debc798bb",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr",
+								"version": 1565173266,
+								"signature": "4715b3c637b397655ff5b133f73c18105677ed56",
 								"width": 576,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-08-06T21:03:29Z",
+								"created_at": "2019-08-07T10:21:06Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 5154832,
+								"bytes": 3064380,
 								"type": "upload",
-								"etag": "36b6d561da9d79a6055a32cec14217b9",
+								"etag": "ed837c215f67f43af31811ef7ed16fdf",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1565173266/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1565173266/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "128026",
+									"bit_rate": "128028",
 									"frequency": 48000,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -79,17 +79,17 @@
 								"video": {
 									"pix_format": "yuv420p",
 									"codec": "h264",
-									"level": 30,
-									"profile": "Constrained Baseline",
-									"bit_rate": "1815605",
+									"level": 31,
+									"profile": "High",
+									"bit_rate": "1022351",
 									"dar": "4:5"
 								},
 								"is_audio": false,
 								"frame_rate": 30,
-								"bit_rate": 1946688,
+								"bit_rate": 1157243,
 								"duration": 21.141,
 								"rotation": 0,
-								"original_filename": "your-money_vjncph",
+								"original_filename": "en_cp_your-money_vjncph_pop8i4",
 								"path": "v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.jpg",
 								"overlays": [],
@@ -97,7 +97,7 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nfrom the USA\n\n2\n00:00:06,600 --> 00:00:07,800\ncall Chuck and\n\n3\n00:00:07,800 --> 00:00:08,700\nI've been one of the best\n\n4\n00:00:08,700 --> 00:00:09,600\nperforming funds\n\n5\n00:00:09,600 --> 00:00:10,900\nin the world\n\n6\n00:00:10,900 --> 00:00:20,900\n7:30 your money Channel\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nfrom the USA\n\n2\n00:00:06,600 --> 00:00:07,800\ncall Chuck and\n\n",
 									"parsed": [
 										{
 											"start": 0,
@@ -108,41 +108,21 @@
 											"start": 6600,
 											"end": 7800,
 											"text": "call Chuck and"
-										},
-										{
-											"start": 7800,
-											"end": 8700,
-											"text": "I've been one of the best"
-										},
-										{
-											"start": 8700,
-											"end": 9600,
-											"text": "performing funds"
-										},
-										{
-											"start": 9600,
-											"end": 10900,
-											"text": "in the world"
-										},
-										{
-											"start": 10900,
-											"end": 20900,
-											"text": "7:30 your money Channel"
 										}
 									],
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-US_rbcP.srt",
-										"version": 1565127460,
-										"signature": "60cbda50b355997417b4c1f0d3430fbd800176d6",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_HsXD.srt",
+										"version": 1565173212,
+										"signature": "421d6cb6f4f8b4fa8019c5d375a01a9141d916f8",
 										"resource_type": "raw",
-										"created_at": "2019-08-06T21:37:40Z",
+										"created_at": "2019-08-07T10:20:12Z",
 										"tags": [],
-										"bytes": 305,
+										"bytes": 94,
 										"type": "upload",
-										"etag": "bacfa727f30b706023d4aaf99323a81c",
+										"etag": "66a1df3e81ea8d1f687c05fbe6cc6d72",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565127460/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-US_rbcP.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565127460/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-US_rbcP.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565173212/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_HsXD.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565173212/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4_en-AU_HsXD.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
@@ -158,10 +138,12 @@
 									}
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565125409/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4.mp4",
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1565173266/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4"
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/your-money_vjncph_pop8i4",
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_your-money_vjncph_pop8i4_GPFr"
 								],
 								"embed": {
 									"width": 576,
@@ -223,7 +205,38 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,600\nanxiety\n\n2\n00:00:06,600 --> 00:00:07,800\ntesting\n\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2600,
+											"text": "anxiety"
+										},
+										{
+											"start": 6600,
+											"end": 7800,
+											"text": "testing"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd_en-AU_GXeb.srt",
+										"version": 1565173218,
+										"signature": "9f363dfba8412291e1b518beabc5aebf0468f94a",
+										"resource_type": "raw",
+										"created_at": "2019-08-07T10:20:18Z",
+										"tags": [],
+										"bytes": 82,
+										"type": "upload",
+										"etag": "d0a3ac6be6aa529e563cc1f4b1058efc",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565173218/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd_en-AU_GXeb.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565173218/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd_en-AU_GXeb.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1565158418/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/anxiety_j3c1pd.mp4"
 								],
