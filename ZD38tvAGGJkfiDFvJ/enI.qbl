@@ -75,6 +75,33 @@
 									"caption": "",
 									"seoSuffix": ""
 								}
+							},
+							{
+								"public_id": "s1.mp4",
+								"extension": "mp4",
+								"secure_url": "https://storage.googleapis.com/video-translator-store/gdSXyn6tjBZ5rqLxD%2Fvideos%2Fs1.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/video-translator-store/gdSXyn6tjBZ5rqLxD%2Fvideos%2Fs1.mp4"
+								],
+								"transformedPublicIds": [
+									"s1.mp4"
+								],
+								"embed": {
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
 							}
 						],
 						"fieldChildren": []
