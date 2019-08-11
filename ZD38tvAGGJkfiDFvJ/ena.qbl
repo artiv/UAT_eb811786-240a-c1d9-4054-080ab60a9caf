@@ -49,7 +49,44 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "s1.mp4",
+								"size": 1010664,
+								"lastModified": 1556615253856,
+								"lastModifiedDate": "2019-04-30T09:07:33.856Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.14,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/video-translator-store/gdSXyn6tjBZ5rqLxD%2Fvideos%2Fs1.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/video-translator-store/gdSXyn6tjBZ5rqLxD%2Fvideos%2Fs1.mp4"
+								],
+								"transformedPublicIds": [
+									"s1.mp4"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
