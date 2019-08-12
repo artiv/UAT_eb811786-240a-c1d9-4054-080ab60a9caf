@@ -51,8 +51,8 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "s1",
-								"size": 1010664,
+								"public_id": "s1_kdtW.webm",
+								"size": "1004594",
 								"lastModified": 1556615253856,
 								"lastModifiedDate": "2019-04-30T09:07:33.856Z",
 								"type": "video/mp4",
@@ -60,16 +60,18 @@
 								"duration": 30.14,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/video-translator-store/UAT_gdSXyn6tjBZ5rqLxD%2Fs1.mp4",
+								"secure_url": "",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/video-translator-store/UAT_gdSXyn6tjBZ5rqLxD%2Fs1.mp4"
+									"https://storage.googleapis.com/video-translator-store/UAT_gdSXyn6tjBZ5rqLxD%2Fs1.mp4",
+									""
 								],
 								"transformedPublicIds": [
-									"s1"
+									"s1",
+									"s1_kdtW.webm"
 								],
 								"embed": {
 									"width": 480,
@@ -84,7 +86,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": ""
-								}
+								},
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/video-translator-store/o/s1_kdtW.webm?generation=1565629848542173&alt=media"
 							}
 						],
 						"fieldChildren": []
