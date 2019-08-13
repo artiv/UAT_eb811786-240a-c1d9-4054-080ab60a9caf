@@ -51,16 +51,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb",
-								"size": "998271",
+								"public_id": "UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_qeq4",
+								"size": "977497",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-08-13T17:51:35.832Z",
+								"lastModifiedDate": "2019-08-13T19:43:13.392Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_qeq4.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -113,11 +113,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_qeq4.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily",
-									"UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb"
+									"UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_8Gyb",
+									"UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_qeq4"
 								],
 								"embed": {
 									"width": 480,
@@ -133,7 +135,7 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_8Gyb.mp4?generation=1565718695833009&alt=media",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_qeq4.mp4?generation=1565725393392596&alt=media",
 								"contentType": "video/mp4"
 							}
 						],
