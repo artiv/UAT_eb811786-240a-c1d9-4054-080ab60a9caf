@@ -96,123 +96,38 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"captionString": "1\n00:00:00,000 --> 00:00:04,700\nmacaw\n\n2\n00:00:04,700 --> 00:00:05,900\nbird that starts my\n\n3\n00:00:05,900 --> 00:00:06,200\nphone\n\n4\n00:00:06,200 --> 00:00:07,900\nI'm here\n\n5\n00:00:07,900 --> 00:00:08,900\nbabe I saw the\n\n6\n00:00:08,900 --> 00:00:09,200\nway I\n\n7\n00:00:09,200 --> 00:00:10,500\ntext lol\n\n8\n00:00:10,500 --> 00:00:11,300\nlaugh out loud\n\n9\n00:00:11,300 --> 00:00:12,500\nOMG oh my\n\n10\n00:00:12,500 --> 00:00:13,100\ngod\n\n11\n00:00:13,100 --> 00:00:14,600\nWTF why the face\n\n12\n00:00:14,600 --> 00:00:16,900\nno I know\n\n13\n00:00:16,900 --> 00:00:17,600\nall the dances\n\n14\n00:00:17,600 --> 00:00:18,700\ntired school music all\n\n15\n00:00:18,700 --> 00:00:19,600\nso we'll\n\n16\n00:00:19,600 --> 00:00:21,400\nsee\n\n17\n00:00:21,400 --> 00:00:24,600\nwhere are\n\n18\n00:00:24,600 --> 00:00:25,100\nstars\n\n19\n00:00:25,100 --> 00:00:26,900\nformed you know\n\n20\n00:00:26,900 --> 00:00:27,600\nit\n",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.\n",
 									"parsed": [
 										{
-											"start": 0,
-											"end": 4700,
-											"text": "macaw"
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
 										},
 										{
-											"start": 4700,
+											"start": 4800,
 											"end": 5900,
-											"text": "bird that starts my"
+											"text": "guy. that's my"
 										},
 										{
 											"start": 5900,
-											"end": 6200,
-											"text": "phone"
-										},
-										{
-											"start": 6200,
-											"end": 7900,
-											"text": "I'm here"
-										},
-										{
-											"start": 7900,
-											"end": 8900,
-											"text": "babe I saw the"
-										},
-										{
-											"start": 8900,
-											"end": 9200,
-											"text": "way I"
-										},
-										{
-											"start": 9200,
-											"end": 10500,
-											"text": "text lol"
-										},
-										{
-											"start": 10500,
-											"end": 11300,
-											"text": "laugh out loud"
-										},
-										{
-											"start": 11300,
-											"end": 12500,
-											"text": "OMG oh my"
-										},
-										{
-											"start": 12500,
-											"end": 13100,
-											"text": "god"
-										},
-										{
-											"start": 13100,
-											"end": 14600,
-											"text": "WTF why the face"
-										},
-										{
-											"start": 14600,
-											"end": 16900,
-											"text": "no I know"
-										},
-										{
-											"start": 16900,
-											"end": 17600,
-											"text": "all the dances"
-										},
-										{
-											"start": 17600,
-											"end": 18700,
-											"text": "tired school music all"
-										},
-										{
-											"start": 18700,
-											"end": 19600,
-											"text": "so we'll"
-										},
-										{
-											"start": 19600,
-											"end": 21400,
-											"text": "see"
-										},
-										{
-											"start": 21400,
-											"end": 24600,
-											"text": "where are"
-										},
-										{
-											"start": 24600,
-											"end": 25100,
-											"text": "stars"
-										},
-										{
-											"start": 25100,
-											"end": 26900,
-											"text": "formed you know"
-										},
-										{
-											"start": 26900,
-											"end": 27600,
-											"text": "it"
+											"end": 6300,
+											"text": "thing."
 										}
 									],
 									"font": "Noto Sans",
 									"asset": {
-										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
-										"version": 1565178073,
-										"signature": "b053808c1f1a179c6d695343d4d085ee6d2dbb05",
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg_en_MYBP.srt",
+										"version": 1565770392,
+										"signature": "074f8bee880c111a9bd6d45484f290f1b236215a",
 										"resource_type": "raw",
-										"created_at": "2019-08-07T11:41:13Z",
+										"created_at": "2019-08-14T08:13:12Z",
 										"tags": [],
-										"bytes": 883,
+										"bytes": 131,
 										"type": "upload",
-										"etag": "269662bc28bb131ce2d18d52201d7207",
+										"etag": "f90b98f7739cdd190e2c3457b8544c54",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565178073/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
-										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565178073/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_iF7P_en-AU_3pc4.srt",
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1565770392/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg_en_MYBP.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1565770392/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/en_cp_modernFamily_as4zun_ZrSg_en_MYBP.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true,
