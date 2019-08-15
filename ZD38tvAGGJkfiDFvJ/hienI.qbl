@@ -49,16 +49,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily",
-								"size": "977394",
+								"public_id": "hi_cp_modernFamily_ApaT",
+								"size": "978903",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-08-15T11:57:59.698Z",
+								"lastModifiedDate": "2019-08-15T12:02:31.998Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_modernFamily_ApaT.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -107,9 +107,11 @@
 									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.\n"
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_modernFamily_ApaT.mp4"
 								],
 								"transformedPublicIds": [
+									"modernFamily",
 									"modernFamily"
 								],
 								"embed": {
@@ -126,7 +128,7 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_wneK.mp4?generation=1565870279699357&alt=media",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fhi_cp_modernFamily_ApaT.mp4?generation=1565870552000471&alt=media",
 								"contentType": "video/mp4",
 								"url": "http://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4"
 							}
