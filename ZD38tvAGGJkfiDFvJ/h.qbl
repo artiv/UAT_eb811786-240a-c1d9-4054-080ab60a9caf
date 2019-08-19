@@ -316,7 +316,8 @@
 									},
 									"matchText": true
 								},
-								"viewSelection": 150
+								"viewSelection": 150,
+								"isMuted": false
 							}
 						],
 						"fieldChildren": []
