@@ -61,12 +61,453 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_6BW6.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "I'm a cool",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4ur85",
+													"text": "I'm a cool",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "guy that's that's my",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2neov",
+													"text": "guy that's that's my",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "thing",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "705f0",
+													"text": "thing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "I'm",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8l61v",
+													"text": "I'm",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "here 5 i surf",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7uejr",
+													"text": "here 5 i surf",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "the web I",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a0n2s",
+													"text": "the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "text LOL",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "egq7m",
+													"text": "text LOL",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "laugh out loud",
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "aen7l",
+													"text": "laugh out loud",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n",
 									"parsed": [
 										{
 											"start": 3000,
@@ -81,7 +522,7 @@
 										{
 											"start": 5900,
 											"end": 6300,
-											"text": "Fang"
+											"text": "thing"
 										},
 										{
 											"start": 7400,
@@ -107,76 +548,6 @@
 											"start": 10600,
 											"end": 11400,
 											"text": "laugh out loud"
-										},
-										{
-											"start": 11400,
-											"end": 12700,
-											"text": "OMG oh my"
-										},
-										{
-											"start": 12700,
-											"end": 13700,
-											"text": "God WTF"
-										},
-										{
-											"start": 13700,
-											"end": 14700,
-											"text": "why the FaZe"
-										},
-										{
-											"start": 14700,
-											"end": 16800,
-											"text": "you know I"
-										},
-										{
-											"start": 16800,
-											"end": 17900,
-											"text": "know all the dances High"
-										},
-										{
-											"start": 17900,
-											"end": 18800,
-											"text": "School Musical"
-										},
-										{
-											"start": 18800,
-											"end": 19900,
-											"text": "We're All"
-										},
-										{
-											"start": 19900,
-											"end": 20800,
-											"text": "in This"
-										},
-										{
-											"start": 20800,
-											"end": 21600,
-											"text": "Together"
-										},
-										{
-											"start": 21600,
-											"end": 23800,
-											"text": "yes we are"
-										},
-										{
-											"start": 23800,
-											"end": 24700,
-											"text": "we're all"
-										},
-										{
-											"start": 24700,
-											"end": 25900,
-											"text": "stars and"
-										},
-										{
-											"start": 25900,
-											"end": 26800,
-											"text": "you"
-										},
-										{
-											"start": 26800,
-											"end": 27700,
-											"text": "know it"
 										}
 									],
 									"asset": {
@@ -194,7 +565,7 @@
 										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1566199099/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_en-US_96Ra.srt",
 										"access_mode": "public"
 									},
-									"isAttached": true
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily.mp4",
@@ -219,7 +590,21 @@
 									"seoSuffix": ""
 								},
 								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_6BW6.mp4?generation=1566199105284805&alt=media",
-								"contentType": "video/mp4"
+								"contentType": "video/mp4",
+								"underlay": {
+									"show": "stripe",
+									"gravity": "north",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
+								}
 							}
 						],
 						"fieldChildren": []
