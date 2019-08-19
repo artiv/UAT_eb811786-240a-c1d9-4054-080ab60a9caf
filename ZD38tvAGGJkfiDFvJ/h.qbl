@@ -315,7 +315,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"viewSelection": 125
 							}
 						],
 						"fieldChildren": []
