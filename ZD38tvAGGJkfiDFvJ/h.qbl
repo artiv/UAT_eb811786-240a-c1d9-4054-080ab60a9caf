@@ -259,7 +259,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": false,
+									"isAttached": true,
 									"asset": {
 										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_en_wxXc.srt",
 										"version": 1566237574,
