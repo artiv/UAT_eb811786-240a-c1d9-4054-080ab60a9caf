@@ -51,16 +51,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_cp_modernFamily_WTKE_vani",
-								"size": "995839",
+								"public_id": "en_cp_modernFamily_WTKE_vani_Gqze",
+								"size": "1018035",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-08-20T19:57:44.088Z",
+								"lastModifiedDate": "2019-08-20T20:08:45.760Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani.webm",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -122,7 +122,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_6uoD.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_29kZ.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani.webm"
+									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani.webm",
+									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily",
@@ -136,7 +137,8 @@
 									"en_modernFamily_6uoD",
 									"en_modernFamily_29kZ",
 									"en_cp_modernFamily_WTKE",
-									"en_cp_modernFamily_WTKE_vani"
+									"en_cp_modernFamily_WTKE_vani",
+									"en_cp_modernFamily_WTKE_vani_Gqze"
 								],
 								"embed": {
 									"width": 480,
@@ -152,8 +154,8 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/PROD_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_WTKE_vani.webm?generation=1566331064088329&alt=media",
-								"contentType": "video/webm",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/PROD_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_WTKE_vani_Gqze.mp4?generation=1566331725760306&alt=media",
+								"contentType": "video/mp4",
 								"underlay": {
 									"show": false
 								},
