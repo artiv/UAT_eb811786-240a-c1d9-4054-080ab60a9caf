@@ -51,16 +51,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_modernFamily_HLnC",
-								"size": "1407173",
+								"public_id": "en_cp_modernFamily_tZgc",
+								"size": "977394",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-08-20T04:46:19.882Z",
+								"lastModifiedDate": "2019-08-20T04:57:09.443Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_HLnC.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_tZgc.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -116,7 +116,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_5YYG.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_pK2q.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_LQEC.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_HLnC.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_HLnC.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_tZgc.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily",
@@ -124,7 +125,8 @@
 									"en_modernFamily_5YYG",
 									"en_cp_modernFamily_pK2q",
 									"en_modernFamily_LQEC",
-									"en_modernFamily_HLnC"
+									"en_modernFamily_HLnC",
+									"en_cp_modernFamily_tZgc"
 								],
 								"embed": {
 									"width": 480,
@@ -140,7 +142,7 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_HLnC.mp4?generation=1566276379884373&alt=media",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_tZgc.mp4?generation=1566277029443782&alt=media",
 								"contentType": "video/mp4",
 								"underlay": {
 									"show": false
