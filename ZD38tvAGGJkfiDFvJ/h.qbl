@@ -51,16 +51,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_cp_modernFamily_WTKE_vani_Gqze_gGnH",
-								"size": "1668084",
+								"public_id": "en_cp_modernFamily_WTKE_vani_Gqze_gGnH_tuBN",
+								"size": "1098833",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-08-20T20:11:21.239Z",
+								"lastModifiedDate": "2019-08-20T20:18:13.118Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze_gGnH.flv",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze_gGnH_tuBN.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -124,7 +124,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani.webm",
 									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze_gGnH.flv"
+									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze_gGnH.flv",
+									"https://storage.googleapis.com/qbl-media-prod/PROD_gdSXyn6tjBZ5rqLxD/en_cp_modernFamily_WTKE_vani_Gqze_gGnH_tuBN.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily",
@@ -140,7 +141,8 @@
 									"en_cp_modernFamily_WTKE",
 									"en_cp_modernFamily_WTKE_vani",
 									"en_cp_modernFamily_WTKE_vani_Gqze",
-									"en_cp_modernFamily_WTKE_vani_Gqze_gGnH"
+									"en_cp_modernFamily_WTKE_vani_Gqze_gGnH",
+									"en_cp_modernFamily_WTKE_vani_Gqze_gGnH_tuBN"
 								],
 								"embed": {
 									"width": 480,
@@ -156,8 +158,8 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/PROD_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_WTKE_vani_Gqze_gGnH.flv?generation=1566331881239359&alt=media",
-								"contentType": "video/x-flv",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/PROD_gdSXyn6tjBZ5rqLxD%2Fen_cp_modernFamily_WTKE_vani_Gqze_gGnH_tuBN.mp4?generation=1566332293118394&alt=media",
+								"contentType": "video/mp4",
 								"underlay": {
 									"show": false
 								},
