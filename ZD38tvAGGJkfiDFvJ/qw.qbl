@@ -85,6 +85,42 @@
 									"caption": "",
 									"seoSuffix": ""
 								}
+							},
+							{
+								"public_id": "PROD_8mMPGjXdXFvzxKsds_antler_org",
+								"size": 4281335,
+								"lastModified": 1566375724636,
+								"lastModifiedDate": "2019-08-21T08:22:04.636Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 70.333243,
+								"width": 640,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FPROD_8mMPGjXdXFvzxKsds_antler_org.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FPROD_8mMPGjXdXFvzxKsds_antler_org.mp4"
+								],
+								"transformedPublicIds": [
+									"PROD_8mMPGjXdXFvzxKsds_antler_org"
+								],
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "prod_8mmpgjxdxfvzxksds_antler"
+								}
 							}
 						],
 						"fieldChildren": []
