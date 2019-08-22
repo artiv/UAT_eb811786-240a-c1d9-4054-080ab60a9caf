@@ -61,7 +61,21 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_apac.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_whodgq",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/images/w_1152,h_648,//v1566499105/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_whodgq/black.png",
+										"x": "0",
+										"y": "0",
+										"width": "50",
+										"height": "50",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "3",
+										"end_offset": "8"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
