@@ -106,27 +106,29 @@
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "anxiety_RJ25_zXRK",
-								"size": "4102622",
+								"public_id": "anxiety_RJ25_zXRK_nSQK",
+								"size": "1214512",
 								"lastModified": 1539593721130,
-								"lastModifiedDate": "2019-08-22T18:24:49.179Z",
+								"lastModifiedDate": "2019-08-22T18:48:30.888Z",
 								"type": "video/mp4",
 								"format": "webm",
 								"duration": 29.976961,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm"
 								],
 								"transformedPublicIds": [
 									"anxiety_RJ25",
-									"anxiety_RJ25_zXRK"
+									"anxiety_RJ25_zXRK",
+									"anxiety_RJ25_zXRK_nSQK"
 								],
 								"embed": {
 									"width": 1280,
@@ -142,8 +144,8 @@
 									"caption": "",
 									"seoSuffix": "anxiety"
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25_zXRK.flv?generation=1566498289179969&alt=media",
-								"contentType": "video/x-flv"
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25_zXRK_nSQK.webm?generation=1566499710889074&alt=media",
+								"contentType": "video/webm"
 							}
 						],
 						"fieldChildren": []
