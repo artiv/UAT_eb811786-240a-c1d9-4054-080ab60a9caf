@@ -157,6 +157,42 @@
 									"caption": "",
 									"seoSuffix": "abstract"
 								}
+							},
+							{
+								"public_id": "Abstract_KxMW",
+								"size": 1786965,
+								"lastModified": 1527684208475,
+								"lastModifiedDate": "2018-05-30T12:43:28.475Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 4.249252,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAbstract_KxMW.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAbstract_KxMW.mp4"
+								],
+								"transformedPublicIds": [
+									"Abstract_KxMW"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "abstract"
+								}
 							}
 						],
 						"fieldChildren": []
