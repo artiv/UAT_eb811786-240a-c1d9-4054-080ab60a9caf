@@ -51,16 +51,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily_apac",
-								"size": 1398635,
+								"public_id": "en_modernFamily_apac_xn4S",
+								"size": "974976",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"lastModifiedDate": "2019-08-22T18:39:43.143Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_apac.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_apac_xn4S.mp4",
 								"overlays": [
 									{
 										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_whodgq",
@@ -73,17 +73,20 @@
 										"gravity": "north_west",
 										"crop": "scale",
 										"start_offset": "3",
-										"end_offset": "8"
+										"end_offset": "8",
+										"fileName": "black_whodgq.png"
 									}
 								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_apac.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_apac.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_apac_xn4S.mp4"
 								],
 								"transformedPublicIds": [
-									"modernFamily_apac"
+									"modernFamily_apac",
+									"en_modernFamily_apac_xn4S"
 								],
 								"embed": {
 									"width": 480,
@@ -98,7 +101,9 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfamily"
-								}
+								},
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_apac_xn4S.mp4?generation=1566499183143929&alt=media",
+								"contentType": "video/mp4"
 							},
 							{
 								"public_id": "anxiety_RJ25_zXRK",
