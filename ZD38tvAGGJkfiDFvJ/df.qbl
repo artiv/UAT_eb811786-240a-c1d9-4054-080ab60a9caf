@@ -87,25 +87,27 @@
 								}
 							},
 							{
-								"public_id": "anxiety_RJ25",
-								"size": 4483072,
+								"public_id": "anxiety_RJ25_zXRK",
+								"size": "4102622",
 								"lastModified": 1539593721130,
-								"lastModifiedDate": "2018-10-15T08:55:21.130Z",
+								"lastModifiedDate": "2019-08-22T18:24:49.179Z",
 								"type": "video/mp4",
 								"format": "flv",
 								"duration": 29.976961,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv"
 								],
 								"transformedPublicIds": [
-									"anxiety_RJ25"
+									"anxiety_RJ25",
+									"anxiety_RJ25_zXRK"
 								],
 								"embed": {
 									"width": 1280,
@@ -120,7 +122,9 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "anxiety"
-								}
+								},
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25_zXRK.flv?generation=1566498289179969&alt=media",
+								"contentType": "video/x-flv"
 							}
 						],
 						"fieldChildren": []
