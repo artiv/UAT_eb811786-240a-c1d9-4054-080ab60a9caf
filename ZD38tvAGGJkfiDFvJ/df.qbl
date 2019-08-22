@@ -106,16 +106,16 @@
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "anxiety_RJ25_zXRK_nSQK",
-								"size": "1214512",
+								"public_id": "en_anxiety_RJ25_xi6L",
+								"size": "2707404",
 								"lastModified": 1539593721130,
-								"lastModifiedDate": "2019-08-22T18:48:30.888Z",
+								"lastModifiedDate": "2019-08-22T18:51:45.534Z",
 								"type": "video/mp4",
 								"format": "webm",
 								"duration": 29.976961,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L.mp4",
 								"overlays": [
 									{
 										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_whodgq",
@@ -128,7 +128,8 @@
 										"gravity": "north_west",
 										"crop": "scale",
 										"start_offset": "0",
-										"end_offset": "10"
+										"end_offset": "10",
+										"fileName": "black_whodgq.png"
 									}
 								],
 								"videoOverlays": [],
@@ -137,12 +138,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L.mp4"
 								],
 								"transformedPublicIds": [
 									"anxiety_RJ25",
 									"anxiety_RJ25_zXRK",
-									"anxiety_RJ25_zXRK_nSQK"
+									"anxiety_RJ25_zXRK_nSQK",
+									"en_anxiety_RJ25_xi6L"
 								],
 								"embed": {
 									"width": 1280,
@@ -158,8 +161,8 @@
 									"caption": "",
 									"seoSuffix": "anxiety"
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25_zXRK_nSQK.webm?generation=1566499710889074&alt=media",
-								"contentType": "video/webm"
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_anxiety_RJ25_xi6L.mp4?generation=1566499905535284&alt=media",
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
