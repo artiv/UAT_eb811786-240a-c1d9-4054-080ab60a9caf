@@ -193,6 +193,42 @@
 									"caption": "",
 									"seoSuffix": "abstract"
 								}
+							},
+							{
+								"public_id": "sea_waves_QFXM",
+								"size": 692720,
+								"lastModified": 1528348353064,
+								"lastModifiedDate": "2018-06-07T05:12:33.064Z",
+								"type": "video/webm",
+								"format": "webm",
+								"duration": 13.04,
+								"width": 538,
+								"height": 216,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsea_waves_QFXM.webm",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsea_waves_QFXM.webm"
+								],
+								"transformedPublicIds": [
+									"sea_waves_QFXM"
+								],
+								"embed": {
+									"width": 538,
+									"height": 216,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sea_waves"
+								}
 							}
 						],
 						"fieldChildren": []
