@@ -79,7 +79,26 @@
 								],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_apac.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_apac_xn4S.mp4"
