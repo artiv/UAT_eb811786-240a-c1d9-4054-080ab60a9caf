@@ -175,16 +175,16 @@
 								"contentType": "video/ogg"
 							},
 							{
-								"public_id": "en_anxiety_RJ25_xi6L",
-								"size": "2707404",
+								"public_id": "en_anxiety_RJ25_xi6L_JGMW",
+								"size": "3660447",
 								"lastModified": 1539593721130,
-								"lastModifiedDate": "2019-08-22T18:51:45.534Z",
+								"lastModifiedDate": "2019-08-23T03:30:00.329Z",
 								"type": "video/mp4",
 								"format": "flv",
 								"duration": 29.976961,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L_JGMW.flv",
 								"overlays": [
 									{
 										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_whodgq",
@@ -208,13 +208,15 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_RJ25.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK.flv",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/anxiety_RJ25_zXRK_nSQK.webm",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_anxiety_RJ25_xi6L_JGMW.flv"
 								],
 								"transformedPublicIds": [
 									"anxiety_RJ25",
 									"anxiety_RJ25_zXRK",
 									"anxiety_RJ25_zXRK_nSQK",
-									"en_anxiety_RJ25_xi6L"
+									"en_anxiety_RJ25_xi6L",
+									"en_anxiety_RJ25_xi6L_JGMW"
 								],
 								"embed": {
 									"width": 1280,
@@ -230,8 +232,8 @@
 									"caption": "",
 									"seoSuffix": "anxiety"
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_anxiety_RJ25_xi6L.mp4?generation=1566499905535284&alt=media",
-								"contentType": "video/mp4"
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_anxiety_RJ25_xi6L_JGMW.flv?generation=1566531000329704&alt=media",
+								"contentType": "video/x-flv"
 							}
 						],
 						"fieldChildren": []
