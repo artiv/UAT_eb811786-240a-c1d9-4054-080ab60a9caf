@@ -75,6 +75,54 @@
 										"start_offset": "3",
 										"end_offset": "8",
 										"fileName": "black_whodgq.png"
+									},
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 24,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": false,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4o7i2",
+													"text": "how are you",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "how are you"
 									}
 								],
 								"videoOverlays": [],
