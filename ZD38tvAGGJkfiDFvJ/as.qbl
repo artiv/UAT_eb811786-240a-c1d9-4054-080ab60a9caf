@@ -49,7 +49,44 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "sea_waves_xksw",
+								"size": 692720,
+								"lastModified": 1528348353064,
+								"lastModifiedDate": "2018-06-07T05:12:33.064Z",
+								"type": "video/webm",
+								"format": "webm",
+								"duration": 13.04,
+								"width": 538,
+								"height": 216,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsea_waves_xksw.webm",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsea_waves_xksw.webm"
+								],
+								"transformedPublicIds": [
+									"sea_waves_xksw"
+								],
+								"embed": {
+									"width": 538,
+									"height": 216,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sea_waves"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
