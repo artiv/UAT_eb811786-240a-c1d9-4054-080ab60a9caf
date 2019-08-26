@@ -49,16 +49,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily_fFTR",
-								"size": 1398635,
+								"public_id": "hi_modernFamily_fFTR_s6Zk",
+								"size": "1407173",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"lastModifiedDate": "2019-08-26T07:17:44.302Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_modernFamily_fFTR_s6Zk.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -107,10 +107,12 @@
 									}
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_modernFamily_fFTR_s6Zk.mp4"
 								],
 								"transformedPublicIds": [
-									"modernFamily_fFTR"
+									"modernFamily_fFTR",
+									"hi_modernFamily_fFTR_s6Zk"
 								],
 								"embed": {
 									"width": 480,
@@ -126,7 +128,9 @@
 									"caption": "",
 									"seoSuffix": "modernfamily"
 								},
-								"url": "http://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4"
+								"url": "http://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fhi_modernFamily_fFTR_s6Zk.mp4?generation=1566803864302983&alt=media",
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
