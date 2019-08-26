@@ -131,6 +131,42 @@
 								"url": "http://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_fFTR.mp4",
 								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fhi_modernFamily_fFTR_s6Zk.mp4?generation=1566803864302983&alt=media",
 								"contentType": "video/mp4"
+							},
+							{
+								"public_id": "back to school nsw_FcKE",
+								"size": 4748492,
+								"lastModified": 1566810291233,
+								"lastModifiedDate": "2019-08-26T09:04:51.233Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 56.262,
+								"width": 640,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fback%20to%20school%20nsw_FcKE.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fback%20to%20school%20nsw_FcKE.mp4"
+								],
+								"transformedPublicIds": [
+									"back to school nsw_FcKE"
+								],
+								"embed": {
+									"width": 640,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "back-to-school-nsw"
+								}
 							}
 						],
 						"fieldChildren": []
