@@ -133,25 +133,73 @@
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "back to school nsw_FcKE",
-								"size": 4748492,
+								"public_id": "hi_cp_back to school nsw_FcKE_eZEH",
+								"size": "5752875",
 								"lastModified": 1566810291233,
-								"lastModifiedDate": "2019-08-26T09:04:51.233Z",
+								"lastModifiedDate": "2019-08-26T09:07:36.471Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 56.262,
 								"width": 640,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fback%20to%20school%20nsw_FcKE.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_back to school nsw_FcKE_eZEH.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans Devanagari",
+									"captionString": "1\n00:00:04,100 --> 00:00:06,800\nसमझदार\n\n2\n00:00:06,800 --> 00:00:09,300\nको\n\n3\n00:00:09,300 --> 00:00:18,000\nपहचानो\n\n4\n00:00:18,000 --> 00:00:28,600\nसिंह\n\n5\n00:00:28,600 --> 00:00:40,600\nलाइसेंस\n",
+									"parsed": [
+										{
+											"start": 4100,
+											"end": 6800,
+											"text": "समझदार"
+										},
+										{
+											"start": 6800,
+											"end": 9300,
+											"text": "को"
+										},
+										{
+											"start": 9300,
+											"end": 18000,
+											"text": "पहचानो"
+										},
+										{
+											"start": 18000,
+											"end": 28600,
+											"text": "सिंह"
+										},
+										{
+											"start": 28600,
+											"end": 40600,
+											"text": "लाइसेंस"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/back to school nsw_FcKE_hi-IN_smD3.srt",
+										"version": 1566810443,
+										"signature": "c38a81dd2b8bcdc6cf795144123c5e5d4b5edc12",
+										"resource_type": "raw",
+										"created_at": "2019-08-26T09:07:23Z",
+										"tags": [],
+										"bytes": 244,
+										"type": "upload",
+										"etag": "22b0c4b3bd0782e78aab60505640e51a",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm-prod/raw/upload/v1566810443/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/back%20to%20school%20nsw_FcKE_hi-IN_smD3.srt",
+										"secure_url": "https://res.cloudinary.com/qblm-prod/raw/upload/v1566810443/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/back%20to%20school%20nsw_FcKE_hi-IN_smD3.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fback%20to%20school%20nsw_FcKE.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fback%20to%20school%20nsw_FcKE.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_back to school nsw_FcKE_eZEH.mp4"
 								],
 								"transformedPublicIds": [
-									"back to school nsw_FcKE"
+									"back to school nsw_FcKE",
+									"hi_cp_back to school nsw_FcKE_eZEH"
 								],
 								"embed": {
 									"width": 640,
@@ -166,7 +214,9 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "back-to-school-nsw"
-								}
+								},
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fhi_cp_back%20to%20school%20nsw_FcKE_eZEH.mp4?generation=1566810456472469&alt=media",
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
