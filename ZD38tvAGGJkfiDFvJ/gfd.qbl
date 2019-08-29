@@ -163,7 +163,22 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Text?",
 						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"blocks": [
+									{
+										"key": "bovi5",
+										"text": "test",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									}
+								],
+								"entityMap": {}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
