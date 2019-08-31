@@ -65,6 +65,7 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
+										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
@@ -74,20 +75,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "enmf2",
+													"key": "b1qu",
 													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
@@ -102,7 +103,10 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
@@ -113,7 +117,7 @@
 										"originalState": {
 											"blocks": [
 												{
-													"key": "6g4lh",
+													"key": "2sam",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -140,20 +144,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5rr6b",
+													"key": "1clfm",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -182,7 +186,7 @@
 										"originalState": {
 											"blocks": [
 												{
-													"key": "bv8af",
+													"key": "9k6ff",
 													"text": "guy. that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -209,20 +213,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d1u22",
+													"key": "7462l",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -251,7 +255,7 @@
 										"originalState": {
 											"blocks": [
 												{
-													"key": "138ag",
+													"key": "9frrk",
 													"text": "thing.",
 													"type": "unstyled",
 													"depth": 0,
@@ -278,20 +282,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3fuk9",
+													"key": "86mjq",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -333,20 +337,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "533o6",
+													"key": "psoa",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -388,20 +392,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1blf0",
+													"key": "47apr",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -443,20 +447,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4v4v0",
+													"key": "19gfm",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -498,20 +502,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c23ep",
+													"key": "9baaj",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -553,20 +557,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9q6a2",
+													"key": "c3dti",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -608,20 +612,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3eraq",
+													"key": "9nmuh",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -663,20 +667,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "er6c4",
+													"key": "5m7vq",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -718,20 +722,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4q833",
+													"key": "f36t0",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -773,20 +777,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2dekp",
+													"key": "2e4b3",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -828,20 +832,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8s40r",
+													"key": "9k0me",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -883,20 +887,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "19em3",
+													"key": "3thhb",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -938,20 +942,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c8rvk",
+													"key": "c8ifg",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -993,20 +997,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "domhi",
+													"key": "2pt7b",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1048,20 +1052,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3q032",
+													"key": "dbsdm",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1103,20 +1107,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3nlal",
+													"key": "32bor",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1158,20 +1162,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b1hh5",
+													"key": "7r0tt",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -1213,20 +1217,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "agp4a",
+													"key": "bdpol",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -1268,20 +1272,20 @@
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
+											"hex": "#ffffff",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 255,
+												"g": 255,
+												"b": 255,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "455i8",
+													"key": "d908e",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
