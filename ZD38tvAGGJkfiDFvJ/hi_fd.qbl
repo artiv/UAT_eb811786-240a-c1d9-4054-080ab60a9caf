@@ -65,13 +65,12 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 3,
 										"end_offset": 4.8,
-										"text": "I ' ma शांत",
+										"text": " शांत",
 										"font": "Noto Sans",
 										"size": 24,
 										"color": {
@@ -89,7 +88,7 @@
 											"blocks": [
 												{
 													"key": "b1qu",
-													"text": "I ' ma शांत",
+													"text": " शांत",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -103,10 +102,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
