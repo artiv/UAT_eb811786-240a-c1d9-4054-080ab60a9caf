@@ -61,7 +61,56 @@
 								"width": 1920,
 								"height": 1080,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_cp_Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ_ecng.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": false,
+										"gravity": "north",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "28dta",
+													"text": "text overlay",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "text overlay"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
