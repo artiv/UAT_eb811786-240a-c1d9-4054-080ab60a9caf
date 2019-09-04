@@ -362,7 +362,48 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "e6a95df3-f66a-aa94-e4e3-a916591a3c98",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. That's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. That's that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing."
+										}
+									],
+									"isAttached": false
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
