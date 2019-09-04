@@ -281,8 +281,8 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
+									"altText": "white alternative",
+									"caption": "wow",
 									"seoSuffix": "black"
 								}
 							}
