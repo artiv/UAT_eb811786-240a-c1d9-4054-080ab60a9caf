@@ -270,7 +270,54 @@
 								"original_filename": "black",
 								"path": "v1567597165/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_i67xbq.png",
 								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/image/upload/c_limit,h_60,w_90/v1567597165/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/black_i67xbq.png",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": false,
+										"gravity": "north",
+										"crop": "scale",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c9qjg",
+													"text": "white on black",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "white on black"
+									}
+								],
 								"embed": {
 									"width": 1152,
 									"height": 648,
