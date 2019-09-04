@@ -49,16 +49,16 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ",
-								"size": "45185732",
+								"public_id": "hi_cp_Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ_rGMP",
+								"size": "44559677",
 								"lastModified": 1567055675611,
-								"lastModifiedDate": "2019-09-03T06:31:23.482Z",
+								"lastModifiedDate": "2019-09-04T07:05:39.483Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 411.35,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FGoogle%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20%26%20Configuring%20Event%20Tracking_MvYQ.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ_rGMP.mp4",
 								"overlays": [
 									{
 										"isText": true,
@@ -86,7 +86,7 @@
 											"blocks": [
 												{
 													"key": "28dta",
-													"text": "text overlay",
+													"text": "पाठ अधिव्यापन",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -100,25 +100,42 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "text overlay"
+										"text": "पाठ अधिव्यापन",
+										"originalState": {
+											"blocks": [
+												{
+													"key": "28dta",
+													"text": "text overlay",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									}
 								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:00,700\nin this special very very\n",
+									"font": "Noto Sans Devanagari",
+									"captionString": "1\n00:00:00,000 --> 00:00:00,700\nइस विशेष में बहुत बहुत\n",
 									"parsed": [
 										{
 											"start": 0,
 											"end": 700,
-											"text": "in this special very very"
+											"text": "इस विशेष में बहुत बहुत"
 										}
 									],
 									"isAttached": true,
@@ -131,13 +148,18 @@
 											"b": 255,
 											"a": 1
 										}
-									}
+									},
+									"translatedString": "इस विशेष में बहुत बहुत",
+									"alignment": "0:1-9:11 3:6-0:1 8:14-3:7 16:19-13:16 21:24-18:21",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:00,700\nin this special very very\n"
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FGoogle%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20%26%20Configuring%20Event%20Tracking_MvYQ.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FGoogle%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20%26%20Configuring%20Event%20Tracking_MvYQ.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/hi_cp_Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ_rGMP.mp4"
 								],
 								"transformedPublicIds": [
-									"Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ"
+									"Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ",
+									"hi_cp_Google Tag Manager Tutorial - Installing Google Analytics & Configuring Event Tracking_MvYQ_rGMP"
 								],
 								"embed": {
 									"width": 1920,
@@ -153,7 +175,7 @@
 									"caption": "description",
 									"seoSuffix": "google-tag-manager-tutorial---installing-google-analytics-&-configuring-event-tracking"
 								},
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_cp_Google%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20&%20Configuring%20Event%20Tracking_MvYQ_ecng.mp4?generation=1567492283483368&alt=media",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fhi_cp_Google%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20&%20Configuring%20Event%20Tracking_MvYQ_rGMP.mp4?generation=1567580739483889&alt=media",
 								"contentType": "video/mp4",
 								"viewSelection": 50,
 								"url": "http://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FGoogle%20Tag%20Manager%20Tutorial%20-%20Installing%20Google%20Analytics%20%26%20Configuring%20Event%20Tracking_MvYQ.mp4"
