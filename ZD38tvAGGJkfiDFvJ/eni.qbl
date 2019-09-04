@@ -364,7 +364,7 @@
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
 						"fieldValues": [
 							{
-								"public_id": "e6a95df3-f66a-aa94-e4e3-a916591a3c98",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/rruftlqlijs7q4dmklaw",
 								"captions": {
 									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. That's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.",
 									"parsed": [
@@ -401,7 +401,33 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": ""
-								}
+								},
+								"version": 1567622342,
+								"signature": "ba8aa4836de273ce545ccbccdf5c46b4dfff8107",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-04T18:39:02Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 11424,
+								"type": "upload",
+								"etag": "369666339901d553525fcdd80371dd17",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1567622342/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/rruftlqlijs7q4dmklaw.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1567622342/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/rruftlqlijs7q4dmklaw.mp3",
+								"access_mode": "public",
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "32000",
+									"frequency": 24000,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {},
+								"bit_rate": 32000,
+								"duration": 2.856
 							}
 						],
 						"fieldChildren": []
