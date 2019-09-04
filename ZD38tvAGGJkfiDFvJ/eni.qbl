@@ -115,12 +115,21 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:00,700\nin this special very very",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\n\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.",
 									"parsed": [
 										{
-											"start": 0,
-											"end": 700,
-											"text": "in this special very very"
+											"start": 3000,
+											"end": 4800
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing."
 										}
 									],
 									"isAttached": true,
