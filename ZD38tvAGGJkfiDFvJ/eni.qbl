@@ -173,16 +173,16 @@
 								"viewSelection": 50
 							},
 							{
-								"public_id": "en_modernFamily_c9vy_R39D",
-								"size": "978140",
+								"public_id": "en_modernFamily_c9vy_Wj4P",
+								"size": "1407173",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-09-09T14:25:50.704Z",
+								"lastModifiedDate": "2019-09-09T14:28:07.325Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_R39D.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_Wj4P.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -217,7 +217,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_FW3K.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_QCgZ.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_FpMi.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_R39D.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_R39D.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_Wj4P.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily_c9vy",
@@ -228,7 +229,8 @@
 									"en_modernFamily_c9vy_FW3K",
 									"en_modernFamily_c9vy_QCgZ",
 									"en_modernFamily_c9vy_FpMi",
-									"en_modernFamily_c9vy_R39D"
+									"en_modernFamily_c9vy_R39D",
+									"en_modernFamily_c9vy_Wj4P"
 								],
 								"embed": {
 									"width": 480,
@@ -247,20 +249,20 @@
 								"underlay": {
 									"show": false
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_c9vy_R39D.mp4?generation=1568039150704593&alt=media",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_c9vy_Wj4P.mp4?generation=1568039287325687&alt=media",
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "en_Little Hands V2_47Gh_hTwn",
+								"public_id": "en_Little Hands V2_47Gh_gXMB",
 								"size": "136252207",
 								"lastModified": 1568009687111,
-								"lastModifiedDate": "2019-09-09T10:24:11.113Z",
+								"lastModifiedDate": "2019-09-09T14:28:16.526Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 258.84,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_hTwn.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_gXMB.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
@@ -895,14 +897,16 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_ghDF.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_wRCW.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_LpNp.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_hTwn.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_hTwn.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_gXMB.mp4"
 								],
 								"transformedPublicIds": [
 									"Little Hands V2_47Gh",
 									"en_Little Hands V2_47Gh_ghDF",
 									"en_Little Hands V2_47Gh_wRCW",
 									"en_Little Hands V2_47Gh_LpNp",
-									"en_Little Hands V2_47Gh_hTwn"
+									"en_Little Hands V2_47Gh_hTwn",
+									"en_Little Hands V2_47Gh_gXMB"
 								],
 								"embed": {
 									"width": 1920,
@@ -921,7 +925,7 @@
 								"underlay": {
 									"show": false
 								},
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_Little%20Hands%20V2_47Gh_hTwn.mp4?generation=1568024651113916&alt=media",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_Little%20Hands%20V2_47Gh_gXMB.mp4?generation=1568039296526422&alt=media",
 								"contentType": "video/mp4"
 							}
 						],
