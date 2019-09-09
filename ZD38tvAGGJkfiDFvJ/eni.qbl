@@ -193,8 +193,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7,
-										"end_offset": 7.3,
 										"text": "Hello.",
 										"font": "Noto Sans",
 										"size": 30,
@@ -212,7 +210,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1gcj2",
+													"key": "3sa86",
 													"text": "Hello.",
 													"type": "unstyled",
 													"depth": 0,
@@ -237,6 +235,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7,
+										"end_offset": 7.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -248,8 +248,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.3,
-										"end_offset": 8.7,
 										"text": "Here are some fun",
 										"font": "Noto Sans",
 										"size": 30,
@@ -267,7 +265,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fs2ci",
+													"key": "b982",
 													"text": "Here are some fun",
 													"type": "unstyled",
 													"depth": 0,
@@ -292,6 +290,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.3,
+										"end_offset": 8.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -303,8 +303,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.7,
-										"end_offset": 9.4,
 										"text": "activity ideas",
 										"font": "Noto Sans",
 										"size": 30,
@@ -322,7 +320,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bclve",
+													"key": "d3i89",
 													"text": "activity ideas",
 													"type": "unstyled",
 													"depth": 0,
@@ -347,6 +345,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.7,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									}
 								],
