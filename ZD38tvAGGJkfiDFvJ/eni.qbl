@@ -183,7 +183,6828 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_QCgZ.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 7,
+										"end_offset": 7.3,
+										"text": "Hello.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5c238",
+													"text": "Hello.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 7.3,
+										"end_offset": 8.7,
+										"text": "Here are some fun",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "avlan",
+													"text": "Here are some fun",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 8.7,
+										"end_offset": 9.4,
+										"text": "activity ideas",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ah5hu",
+													"text": "activity ideas",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 9.4,
+										"end_offset": 10.7,
+										"text": "that will help your child",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1ouj8",
+													"text": "that will help your child",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 10.7,
+										"end_offset": 11.5,
+										"text": "learn how to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ouq7",
+													"text": "learn how to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 11.5,
+										"end_offset": 12.8,
+										"text": "hold and use a",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "eoeen",
+													"text": "hold and use a",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 12.8,
+										"end_offset": 13.6,
+										"text": "pencil.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2cha5",
+													"text": "pencil.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 13.8,
+										"end_offset": 15.5,
+										"text": "Pencil use develops",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "90eiq",
+													"text": "Pencil use develops",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 15.5,
+										"end_offset": 17.6,
+										"text": "is stages as children develop.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1qqcf",
+													"text": "is stages as children develop.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 17.6,
+										"end_offset": 18.9,
+										"text": "Children need",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1ih6n",
+													"text": "Children need",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 18.9,
+										"end_offset": 19.8,
+										"text": "to practice these skills",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1df6k",
+													"text": "to practice these skills",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 19.8,
+										"end_offset": 20.8,
+										"text": "to learn what",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b80f9",
+													"text": "to learn what",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 20.8,
+										"end_offset": 21.1,
+										"text": "to do.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "eropq",
+													"text": "to do.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 22.1,
+										"end_offset": 24,
+										"text": "Every child develops differently.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9dr5b",
+													"text": "Every child develops differently.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 24.4,
+										"end_offset": 26.9,
+										"text": "Children start holding markers",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8s9mq",
+													"text": "Children start holding markers",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 26.9,
+										"end_offset": 28.2,
+										"text": "as early as one. ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8f9t8",
+													"text": "as early as one. ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 28.2,
+										"end_offset": 29.9,
+										"text": "They usually start",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dhsh9",
+													"text": "They usually start",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 29.9,
+										"end_offset": 30.4,
+										"text": "with a fist.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9lqkb",
+													"text": "with a fist.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 30.4,
+										"end_offset": 31.8,
+										"text": "Then they",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5qkr8",
+													"text": "Then they",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 31.8,
+										"end_offset": 32.6,
+										"text": "use a grip like this.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8eats",
+													"text": "use a grip like this.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 32.6,
+										"end_offset": 34.8,
+										"text": "Between age three and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6d75h",
+													"text": "Between age three and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 34.8,
+										"end_offset": 35,
+										"text": "four they grip with their",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2fc2h",
+													"text": "four they grip with their",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 35,
+										"end_offset": 37.9,
+										"text": "fingers. Then by four to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "163pk",
+													"text": "fingers. Then by four to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 37.9,
+										"end_offset": 39.9,
+										"text": "five they are using a",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9r8it",
+													"text": "five they are using a",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 39.9,
+										"end_offset": 41.4,
+										"text": "tripod style grip.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9v0ci",
+													"text": "tripod style grip.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 41.4,
+										"end_offset": 42.7,
+										"text": "They then",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8rkbj",
+													"text": "They then",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 42.7,
+										"end_offset": 43.6,
+										"text": "start to use more",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "12l8a",
+													"text": "start to use more",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 43.6,
+										"end_offset": 44.6,
+										"text": "individual finger",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d79cu",
+													"text": "individual finger",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 44.6,
+										"end_offset": 45.9,
+										"text": "movements rather",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a5c3o",
+													"text": "movements rather",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 45.9,
+										"end_offset": 46.8,
+										"text": "than whole hand",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7j96a",
+													"text": "than whole hand",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 46.8,
+										"end_offset": 47.3,
+										"text": "movements.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9h66e",
+													"text": "movements.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 47.3,
+										"end_offset": 49.8,
+										"text": "The activities we are going to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4ad33",
+													"text": "The activities we are going to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 49.8,
+										"end_offset": 50.8,
+										"text": "show you will help",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3nq2b",
+													"text": "show you will help",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 50.8,
+										"end_offset": 51.9,
+										"text": "your child develop their",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6olno",
+													"text": "your child develop their",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 51.9,
+										"end_offset": 52.9,
+										"text": "hands in order to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fiifb",
+													"text": "hands in order to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 52.9,
+										"end_offset": 53.8,
+										"text": "hold a pencil",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bon6a",
+													"text": "hold a pencil",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 53.8,
+										"end_offset": 55.8,
+										"text": "using the tripod style.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1uskg",
+													"text": "using the tripod style.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 55.8,
+										"end_offset": 57.9,
+										"text": "Lets start with",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "87k64",
+													"text": "Lets start with",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 57.9,
+										"end_offset": 59.1,
+										"text": "whole hand activities.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1e3pv",
+													"text": "whole hand activities.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 59.9,
+										"end_offset": 60.6,
+										"text": "Open your",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3s6jj",
+													"text": "Open your",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 60.6,
+										"end_offset": 61.8,
+										"text": "hands as wide as you",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7r180",
+													"text": "hands as wide as you",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 61.8,
+										"end_offset": 62.9,
+										"text": "can and then",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d19n3",
+													"text": "can and then",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 62.9,
+										"end_offset": 63.9,
+										"text": "close your hand to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "eorma",
+													"text": "close your hand to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 63.9,
+										"end_offset": 64.7,
+										"text": "make a fist.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4aegu",
+													"text": "make a fist.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 64.7,
+										"end_offset": 66.9,
+										"text": "Say simple words that ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3qg77",
+													"text": "Say simple words that ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 66.9,
+										"end_offset": 67.9,
+										"text": "match the action.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b9pvd",
+													"text": "match the action.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 67.9,
+										"end_offset": 69.3,
+										"text": "For example,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4ud7f",
+													"text": "For example,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 69.3,
+										"end_offset": 73.2,
+										"text": "open, close, open, close,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "e1ukg",
+													"text": "open, close, open, close,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 73.2,
+										"end_offset": 75.6,
+										"text": "open, close.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1g3nd",
+													"text": "open, close.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 75.6,
+										"end_offset": 78.2,
+										"text": "Repeat this 10 times. ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6uenv",
+													"text": "Repeat this 10 times. ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 78.2,
+										"end_offset": 79.7,
+										"text": "Encourage your child",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dq8jt",
+													"text": "Encourage your child",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 79.7,
+										"end_offset": 80.5,
+										"text": "to open their",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9kjje",
+													"text": "to open their",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 80.5,
+										"end_offset": 81.9,
+										"text": "hands as wide as they can",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ani3p",
+													"text": "hands as wide as they can",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 81.9,
+										"end_offset": 83.6,
+										"text": "so all the muscles are",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "31bd4",
+													"text": "so all the muscles are",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 83.6,
+										"end_offset": 84.5,
+										"text": "getting a work out.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "43bsv",
+													"text": "getting a work out.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 84.5,
+										"end_offset": 90.5,
+										"text": "Squeeze, squeeze, squeeze.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9afst",
+													"text": "Squeeze, squeeze, squeeze.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 90.5,
+										"end_offset": 91.8,
+										"text": "Scrunch, scrunch, scrunch.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8r6ae",
+													"text": "Scrunch, scrunch, scrunch.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 91.8,
+										"end_offset": 95.7,
+										"text": "Squeeze, squeeze, squeeze",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1p28c",
+													"text": "Squeeze, squeeze, squeeze",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 95.7,
+										"end_offset": 99.1,
+										"text": "and wash, wash, wash.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3cagj",
+													"text": "and wash, wash, wash.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 99.1,
+										"end_offset": 103.7,
+										"text": "Scoop, scoop, scoop. ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6mh84",
+													"text": "Scoop, scoop, scoop. ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 103.7,
+										"end_offset": 105.7,
+										"text": "Playdoh is",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4lqcm",
+													"text": "Playdoh is",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 105.7,
+										"end_offset": 106.3,
+										"text": "fantastic for hand",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9m2qb",
+													"text": "fantastic for hand",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 106.3,
+										"end_offset": 107.7,
+										"text": "and finger strength",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "34hkp",
+													"text": "and finger strength",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 107.7,
+										"end_offset": 108.8,
+										"text": "and coordination.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9gj1m",
+													"text": "and coordination.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 108.8,
+										"end_offset": 113.2,
+										"text": "Squish, squish, squish.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "57t61",
+													"text": "Squish, squish, squish.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 113.2,
+										"end_offset": 116.2,
+										"text": "Roll, roll, roll.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5d10n",
+													"text": "Roll, roll, roll.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 116.2,
+										"end_offset": 120.9,
+										"text": "Squish, squash, squish, squash,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ccj5h",
+													"text": "Squish, squash, squish, squash,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 120.9,
+										"end_offset": 122.6,
+										"text": "squish, squash.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "80r72",
+													"text": "squish, squash.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 122.6,
+										"end_offset": 126.1,
+										"text": "Squash, squash, squash.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5h150",
+													"text": "Squash, squash, squash.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 126.1,
+										"end_offset": 128.9,
+										"text": "Push, push, push.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "17abp",
+													"text": "Push, push, push.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 128.9,
+										"end_offset": 132.8,
+										"text": "Poke, poke, poke.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "58d2q",
+													"text": "Poke, poke, poke.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 132.8,
+										"end_offset": 135.8,
+										"text": "Roll, roll, roll.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4rlb6",
+													"text": "Roll, roll, roll.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 135.8,
+										"end_offset": 138.9,
+										"text": "The next activities",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bu7e",
+													"text": "The next activities",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 138.9,
+										"end_offset": 140.6,
+										"text": "will help develop finger movement",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9oaa7",
+													"text": "will help develop finger movement",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 140.6,
+										"end_offset": 143.7,
+										"text": "and a good pinch, or pincer grip.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bnbf",
+													"text": "and a good pinch, or pincer grip.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 143.7,
+										"end_offset": 144.2,
+										"text": "It helps children",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cu1hi",
+													"text": "It helps children",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 144.2,
+										"end_offset": 145.9,
+										"text": "control the pencil.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a2qgg",
+													"text": "control the pencil.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 145.9,
+										"end_offset": 148.9,
+										"text": "To help your child to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2d4dg",
+													"text": "To help your child to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 148.9,
+										"end_offset": 150.9,
+										"text": "develop a pinch, make a circle",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1svd7",
+													"text": "develop a pinch, make a circle",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 150.9,
+										"end_offset": 151.9,
+										"text": "by touching the",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "qjd6",
+													"text": "by touching the",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 151.9,
+										"end_offset": 152.7,
+										"text": "tip of the thumb",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5n34i",
+													"text": "tip of the thumb",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 152.7,
+										"end_offset": 154.5,
+										"text": "to the tip of the index finger.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8tiuv",
+													"text": "to the tip of the index finger.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 154.5,
+										"end_offset": 156.4,
+										"text": "Curl their middle, ring ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b6o9e",
+													"text": "Curl their middle, ring ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 156.4,
+										"end_offset": 159.2,
+										"text": "and little fingers into the palm.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2bkn2",
+													"text": "and little fingers into the palm.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 159.2,
+										"end_offset": 161.7,
+										"text": "Pinch, pinch, pinch.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8tlhk",
+													"text": "Pinch, pinch, pinch.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 161.7,
+										"end_offset": 165.8,
+										"text": "Otherwise hold a coin in the palm ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1bq4j",
+													"text": "Otherwise hold a coin in the palm ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 165.8,
+										"end_offset": 166,
+										"text": "with the ring and middle fingers",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "891ve",
+													"text": "with the ring and middle fingers",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 166,
+										"end_offset": 170.6,
+										"text": "while doing pinching activities.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "12p9",
+													"text": "while doing pinching activities.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 170.6,
+										"end_offset": 173.5,
+										"text": "Pinch, pinch, pinch. ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cvi3u",
+													"text": "Pinch, pinch, pinch. ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 173.5,
+										"end_offset": 175.5,
+										"text": "We'll call these our",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4q4qh",
+													"text": "We'll call these our",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 175.5,
+										"end_offset": 176.7,
+										"text": "pinching fingers.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "hgl5",
+													"text": "pinching fingers.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 176.7,
+										"end_offset": 178.9,
+										"text": "Here are some activities",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4q5sm",
+													"text": "Here are some activities",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 178.9,
+										"end_offset": 182.8,
+										"text": "that use pinching fingers.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dr8un",
+													"text": "that use pinching fingers.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 182.8,
+										"end_offset": 183.6,
+										"text": "Pinch, pinch, pinch.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dfej6",
+													"text": "Pinch, pinch, pinch.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 183.6,
+										"end_offset": 187.1,
+										"text": "Small items are a choking hazard",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5tr5g",
+													"text": "Small items are a choking hazard",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 187.1,
+										"end_offset": 197.9,
+										"text": "so please choose carefully.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5hgs9",
+													"text": "so please choose carefully.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 197.9,
+										"end_offset": 198.3,
+										"text": "When scrunching and rolling, ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7u46m",
+													"text": "When scrunching and rolling, ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 198.3,
+										"end_offset": 199.5,
+										"text": "use the thumb,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1q008",
+													"text": "use the thumb,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 199.5,
+										"end_offset": 201.3,
+										"text": "index and middle fingers.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2ibl4",
+													"text": "index and middle fingers.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 201.3,
+										"end_offset": 203.9,
+										"text": "Scrunch, scrunch, scrunch.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3qt4i",
+													"text": "Scrunch, scrunch, scrunch.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 203.9,
+										"end_offset": 206.7,
+										"text": "Peel and stick.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4sdv8",
+													"text": "Peel and stick.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 206.7,
+										"end_offset": 210.5,
+										"text": "Pinch and squeeze.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8aiib",
+													"text": "Pinch and squeeze.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 210.5,
+										"end_offset": 213.6,
+										"text": "Pick up three or four small objects,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8o292",
+													"text": "Pick up three or four small objects,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 213.6,
+										"end_offset": 215.3,
+										"text": "one at a time in one hand,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "811it",
+													"text": "one at a time in one hand,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 215.3,
+										"end_offset": 216.7,
+										"text": "then try moving",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "24eko",
+													"text": "then try moving",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 216.7,
+										"end_offset": 218.7,
+										"text": "them back to the fingers and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8bscg",
+													"text": "them back to the fingers and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 218.7,
+										"end_offset": 220.7,
+										"text": "dropping them into a small box.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "58brp",
+													"text": "dropping them into a small box.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 220.7,
+										"end_offset": 223.5,
+										"text": "Bring your child's",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bc8is",
+													"text": "Bring your child's",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 223.5,
+										"end_offset": 224.3,
+										"text": "awareness to their hands, ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9m4h0",
+													"text": "awareness to their hands, ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 224.3,
+										"end_offset": 225.7,
+										"text": "fingers,",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b7f97",
+													"text": "fingers,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 225.7,
+										"end_offset": 226.6,
+										"text": "and pinching",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "at0p3",
+													"text": "and pinching",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 226.6,
+										"end_offset": 227.7,
+										"text": "fingers when they're doing",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "51vbi",
+													"text": "fingers when they're doing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 227.7,
+										"end_offset": 229.4,
+										"text": "everyday activities.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "48kn7",
+													"text": "everyday activities.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 229.4,
+										"end_offset": 231.9,
+										"text": "For instance they may",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7p3ko",
+													"text": "For instance they may",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 231.9,
+										"end_offset": 232.6,
+										"text": "pickup small",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ad4gb",
+													"text": "pickup small",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 232.6,
+										"end_offset": 234.4,
+										"text": "items with zip up clothing.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a9692",
+													"text": "items with zip up clothing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 234.4,
+										"end_offset": 237.7,
+										"text": "Short thick markers and pencils",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "90bg3",
+													"text": "Short thick markers and pencils",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 237.7,
+										"end_offset": 239.6,
+										"text": "are easier for little hands to hold.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f1np5",
+													"text": "are easier for little hands to hold.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 239.9,
+										"end_offset": 241.8,
+										"text": "We hope you've enjoyed",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bm0ft",
+													"text": "We hope you've enjoyed",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 241.8,
+										"end_offset": 243.9,
+										"text": "the video and have fun doing",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dqi8",
+													"text": "the video and have fun doing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 243.9,
+										"end_offset": 245.3,
+										"text": "these activities with your child.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "frhia",
+													"text": "these activities with your child.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 245.3,
+										"end_offset": 247.7,
+										"text": "If you are concerned about how",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fn9me",
+													"text": "If you are concerned about how",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 247.7,
+										"end_offset": 248.9,
+										"text": "your child is developing",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ahstd",
+													"text": "your child is developing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 248.9,
+										"end_offset": 251.1,
+										"text": "contact an occupational therapist.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "crkcj",
+													"text": "contact an occupational therapist.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -846,7 +7667,18 @@
 									"seoSuffix": "modernfamily"
 								},
 								"underlay": {
-									"show": false
+									"show": "stripe",
+									"gravity": "south",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								},
 								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_c9vy_QCgZ.mp4?generation=1568024638776674&alt=media",
 								"contentType": "video/mp4"
