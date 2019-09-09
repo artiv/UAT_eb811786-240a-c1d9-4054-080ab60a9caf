@@ -335,7 +335,225 @@
 								"width": 1920,
 								"height": 1080,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FLittle%20Hands%20V2_47Gh.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "Hello.\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n4\n00:00:09,400 --> 00:00:10,700\nthat will help your child\n5\n00:00:10,700 --> 00:00:11,500\nlearn how to\n6\n00:00:11,500 --> 00:00:12,800\nhold and use a\n7\n00:00:12,800 --> 00:00:13,600\npencil.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cadnp",
+													"text": "Hello.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "a4g9r",
+													"text": "2",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "8nsu5",
+													"text": "00:00:07,300 --> 00:00:08,700",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "drbqd",
+													"text": "Here are some fun",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "fl2qj",
+													"text": "3",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "91ehn",
+													"text": "00:00:08,700 --> 00:00:09,400",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "dlbmv",
+													"text": "activity ideas",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "70eve",
+													"text": "4",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "82kp4",
+													"text": "00:00:09,400 --> 00:00:10,700",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "bqteo",
+													"text": "that will help your child",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "a5uaf",
+													"text": "5",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "fg22b",
+													"text": "00:00:10,700 --> 00:00:11,500",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "7rlb1",
+													"text": "learn how to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "4uucp",
+													"text": "6",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "4pfm0",
+													"text": "00:00:11,500 --> 00:00:12,800",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "2kd9m",
+													"text": "hold and use a",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "5uisk",
+													"text": "7",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "cbsln",
+													"text": "00:00:12,800 --> 00:00:13,600",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												},
+												{
+													"key": "82gp",
+													"text": "pencil.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7,
+										"end_offset": 7.3,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -346,7 +564,8 @@
 											"end": 7300,
 											"text": "Hello.\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n4\n00:00:09,400 --> 00:00:10,700\nthat will help your child\n5\n00:00:10,700 --> 00:00:11,500\nlearn how to\n6\n00:00:11,500 --> 00:00:12,800\nhold and use a\n7\n00:00:12,800 --> 00:00:13,600\npencil."
 										}
-									]
+									],
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FLittle%20Hands%20V2_47Gh.mp4"
@@ -367,6 +586,20 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "little-hands-v2"
+								},
+								"underlay": {
+									"show": false,
+									"gravity": "south",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								}
 							}
 						],
