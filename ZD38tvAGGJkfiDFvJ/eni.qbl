@@ -7702,20 +7702,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4jl5b",
+													"key": "dlpsh",
 													"text": "Hello.",
 													"type": "unstyled",
 													"depth": 0,
@@ -7757,20 +7757,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3thva",
+													"key": "c3dj5",
 													"text": "Here are some fun",
 													"type": "unstyled",
 													"depth": 0,
@@ -7812,20 +7812,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f8tql",
+													"key": "ntcg",
 													"text": "activity ideas",
 													"type": "unstyled",
 													"depth": 0,
@@ -7867,20 +7867,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4en1h",
+													"key": "88rmo",
 													"text": "that will help your child",
 													"type": "unstyled",
 													"depth": 0,
@@ -7922,20 +7922,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "n4qp",
+													"key": "6kun1",
 													"text": "learn how to",
 													"type": "unstyled",
 													"depth": 0,
@@ -7977,20 +7977,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c7f79",
+													"key": "3tkj5",
 													"text": "hold and use a",
 													"type": "unstyled",
 													"depth": 0,
@@ -8032,20 +8032,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "96iao",
+													"key": "9r5tb",
 													"text": "pencil.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8087,20 +8087,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "13db4",
+													"key": "2hv59",
 													"text": "Pencil use develops",
 													"type": "unstyled",
 													"depth": 0,
@@ -8142,20 +8142,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6mj9j",
+													"key": "enhfg",
 													"text": "is stages as children develop.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8197,20 +8197,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4g3li",
+													"key": "5bs8r",
 													"text": "Children need",
 													"type": "unstyled",
 													"depth": 0,
@@ -8252,20 +8252,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "chpeh",
+													"key": "6qsvr",
 													"text": "to practice these skills",
 													"type": "unstyled",
 													"depth": 0,
@@ -8307,20 +8307,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cn7t",
+													"key": "c39gr",
 													"text": "to learn what",
 													"type": "unstyled",
 													"depth": 0,
@@ -8362,20 +8362,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "alq1a",
+													"key": "deueu",
 													"text": "to do.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8417,20 +8417,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "afegm",
+													"key": "ds6nd",
 													"text": "Every child develops differently.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8472,20 +8472,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fpkep",
+													"key": "a482p",
 													"text": "Children start holding markers",
 													"type": "unstyled",
 													"depth": 0,
@@ -8527,20 +8527,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ss7i",
+													"key": "78u9g",
 													"text": "as early as one. ",
 													"type": "unstyled",
 													"depth": 0,
@@ -8582,20 +8582,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2ea2n",
+													"key": "3aghd",
 													"text": "They usually start",
 													"type": "unstyled",
 													"depth": 0,
@@ -8637,20 +8637,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "nq7t",
+													"key": "5gs5s",
 													"text": "with a fist.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8692,20 +8692,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1upgq",
+													"key": "p580",
 													"text": "Then they",
 													"type": "unstyled",
 													"depth": 0,
@@ -8747,20 +8747,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ems93",
+													"key": "7g9pg",
 													"text": "use a grip like this.",
 													"type": "unstyled",
 													"depth": 0,
@@ -8802,20 +8802,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d33nq",
+													"key": "1f52q",
 													"text": "Between age three and",
 													"type": "unstyled",
 													"depth": 0,
@@ -8857,20 +8857,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5kvlk",
+													"key": "76gbg",
 													"text": "four they grip with their",
 													"type": "unstyled",
 													"depth": 0,
@@ -8912,20 +8912,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3dnnl",
+													"key": "armr9",
 													"text": "fingers. Then by four to",
 													"type": "unstyled",
 													"depth": 0,
@@ -8967,20 +8967,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7tfqu",
+													"key": "ae1lk",
 													"text": "five they are using a",
 													"type": "unstyled",
 													"depth": 0,
@@ -9022,20 +9022,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bbe9f",
+													"key": "agrk",
 													"text": "tripod style grip.",
 													"type": "unstyled",
 													"depth": 0,
@@ -9077,20 +9077,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9a3r4",
+													"key": "f8e32",
 													"text": "They then",
 													"type": "unstyled",
 													"depth": 0,
@@ -9132,20 +9132,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "er359",
+													"key": "1ldh",
 													"text": "start to use more",
 													"type": "unstyled",
 													"depth": 0,
@@ -9187,20 +9187,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "efqhh",
+													"key": "eb1t",
 													"text": "individual finger",
 													"type": "unstyled",
 													"depth": 0,
@@ -9242,20 +9242,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6o3m2",
+													"key": "9glrt",
 													"text": "movements rather",
 													"type": "unstyled",
 													"depth": 0,
@@ -9297,20 +9297,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "430nn",
+													"key": "8h6qm",
 													"text": "than whole hand",
 													"type": "unstyled",
 													"depth": 0,
@@ -9352,20 +9352,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2ht20",
+													"key": "9g8fn",
 													"text": "movements.",
 													"type": "unstyled",
 													"depth": 0,
@@ -9407,20 +9407,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "17p72",
+													"key": "fu0kb",
 													"text": "The activities we are going to",
 													"type": "unstyled",
 													"depth": 0,
@@ -9462,20 +9462,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "eplvt",
+													"key": "1p3ng",
 													"text": "show you will help",
 													"type": "unstyled",
 													"depth": 0,
@@ -9517,20 +9517,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "duq62",
+													"key": "3u49j",
 													"text": "your child develop their",
 													"type": "unstyled",
 													"depth": 0,
@@ -9572,20 +9572,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cg80v",
+													"key": "faukh",
 													"text": "hands in order to",
 													"type": "unstyled",
 													"depth": 0,
@@ -9627,20 +9627,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "63o86",
+													"key": "etsn8",
 													"text": "hold a pencil",
 													"type": "unstyled",
 													"depth": 0,
@@ -9682,20 +9682,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fsmhs",
+													"key": "cc583",
 													"text": "using the tripod style.",
 													"type": "unstyled",
 													"depth": 0,
@@ -9737,20 +9737,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4pk9r",
+													"key": "bvdfb",
 													"text": "Lets start with",
 													"type": "unstyled",
 													"depth": 0,
@@ -9792,20 +9792,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6rtah",
+													"key": "24fgg",
 													"text": "whole hand activities.",
 													"type": "unstyled",
 													"depth": 0,
@@ -9847,20 +9847,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "apo3l",
+													"key": "89tni",
 													"text": "Open your",
 													"type": "unstyled",
 													"depth": 0,
@@ -9902,20 +9902,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3laub",
+													"key": "aot2s",
 													"text": "hands as wide as you",
 													"type": "unstyled",
 													"depth": 0,
@@ -9957,20 +9957,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5tbt",
+													"key": "2tbm8",
 													"text": "can and then",
 													"type": "unstyled",
 													"depth": 0,
@@ -10012,20 +10012,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "237fu",
+													"key": "8ni8c",
 													"text": "close your hand to",
 													"type": "unstyled",
 													"depth": 0,
@@ -10067,20 +10067,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5vkuo",
+													"key": "5q0lv",
 													"text": "make a fist.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10122,20 +10122,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6fa2",
+													"key": "61omr",
 													"text": "Say simple words that ",
 													"type": "unstyled",
 													"depth": 0,
@@ -10177,20 +10177,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6cjcg",
+													"key": "667om",
 													"text": "match the action.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10232,20 +10232,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3r8h6",
+													"key": "1hv4c",
 													"text": "For example,",
 													"type": "unstyled",
 													"depth": 0,
@@ -10287,20 +10287,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6inji",
+													"key": "e1p85",
 													"text": "open, close, open, close,",
 													"type": "unstyled",
 													"depth": 0,
@@ -10342,20 +10342,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dojvj",
+													"key": "8qlfq",
 													"text": "open, close.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10397,20 +10397,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "65llj",
+													"key": "6su8i",
 													"text": "Repeat this 10 times. ",
 													"type": "unstyled",
 													"depth": 0,
@@ -10452,20 +10452,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cj94m",
+													"key": "1e8pn",
 													"text": "Encourage your child",
 													"type": "unstyled",
 													"depth": 0,
@@ -10507,20 +10507,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "48edh",
+													"key": "9i5sr",
 													"text": "to open their",
 													"type": "unstyled",
 													"depth": 0,
@@ -10562,20 +10562,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8bkd4",
+													"key": "2iqph",
 													"text": "hands as wide as they can",
 													"type": "unstyled",
 													"depth": 0,
@@ -10617,20 +10617,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5bg4l",
+													"key": "385b9",
 													"text": "so all the muscles are",
 													"type": "unstyled",
 													"depth": 0,
@@ -10672,20 +10672,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9k9q9",
+													"key": "4jfmb",
 													"text": "getting a work out.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10727,20 +10727,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2r1rd",
+													"key": "8e2s1",
 													"text": "Squeeze, squeeze, squeeze.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10782,20 +10782,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "14u2h",
+													"key": "c7qte",
 													"text": "Scrunch, scrunch, scrunch.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10837,20 +10837,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7pn6c",
+													"key": "d5cod",
 													"text": "Squeeze, squeeze, squeeze",
 													"type": "unstyled",
 													"depth": 0,
@@ -10892,20 +10892,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7gu4i",
+													"key": "ak4va",
 													"text": "and wash, wash, wash.",
 													"type": "unstyled",
 													"depth": 0,
@@ -10947,20 +10947,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7r90",
+													"key": "7eict",
 													"text": "Scoop, scoop, scoop. ",
 													"type": "unstyled",
 													"depth": 0,
@@ -11002,20 +11002,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8u2al",
+													"key": "eigfo",
 													"text": "Playdoh is",
 													"type": "unstyled",
 													"depth": 0,
@@ -11057,20 +11057,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b7rmi",
+													"key": "1le2f",
 													"text": "fantastic for hand",
 													"type": "unstyled",
 													"depth": 0,
@@ -11112,20 +11112,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1gima",
+													"key": "1elt5",
 													"text": "and finger strength",
 													"type": "unstyled",
 													"depth": 0,
@@ -11167,20 +11167,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "baumu",
+													"key": "52mkq",
 													"text": "and coordination.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11222,20 +11222,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "35rl9",
+													"key": "6r8ka",
 													"text": "Squish, squish, squish.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11277,20 +11277,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f4qd8",
+													"key": "ai1it",
 													"text": "Roll, roll, roll.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11332,20 +11332,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1teo9",
+													"key": "chnrq",
 													"text": "Squish, squash, squish, squash,",
 													"type": "unstyled",
 													"depth": 0,
@@ -11387,20 +11387,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "duhsc",
+													"key": "du6ov",
 													"text": "squish, squash.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11442,20 +11442,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "78qp3",
+													"key": "6s896",
 													"text": "Squash, squash, squash.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11497,20 +11497,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a3812",
+													"key": "2q2c7",
 													"text": "Push, push, push.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11552,20 +11552,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2bg2t",
+													"key": "bdtob",
 													"text": "Poke, poke, poke.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11607,20 +11607,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "51dpb",
+													"key": "45d0d",
 													"text": "Roll, roll, roll.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11662,20 +11662,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "634hg",
+													"key": "9k0f0",
 													"text": "The next activities",
 													"type": "unstyled",
 													"depth": 0,
@@ -11717,20 +11717,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b7mfd",
+													"key": "1bid9",
 													"text": "will help develop finger movement",
 													"type": "unstyled",
 													"depth": 0,
@@ -11772,20 +11772,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d6cki",
+													"key": "blov6",
 													"text": "and a good pinch, or pincer grip.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11827,20 +11827,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3nb24",
+													"key": "ar4lm",
 													"text": "It helps children",
 													"type": "unstyled",
 													"depth": 0,
@@ -11882,20 +11882,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8kklq",
+													"key": "5ac5k",
 													"text": "control the pencil.",
 													"type": "unstyled",
 													"depth": 0,
@@ -11937,20 +11937,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "71b29",
+													"key": "fi40o",
 													"text": "To help your child to",
 													"type": "unstyled",
 													"depth": 0,
@@ -11992,20 +11992,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "favsj",
+													"key": "9ot8q",
 													"text": "develop a pinch, make a circle",
 													"type": "unstyled",
 													"depth": 0,
@@ -12047,20 +12047,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6smj9",
+													"key": "7dh78",
 													"text": "by touching the",
 													"type": "unstyled",
 													"depth": 0,
@@ -12102,20 +12102,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8pime",
+													"key": "bdrt2",
 													"text": "tip of the thumb",
 													"type": "unstyled",
 													"depth": 0,
@@ -12157,20 +12157,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2kugn",
+													"key": "fftua",
 													"text": "to the tip of the index finger.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12212,20 +12212,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2120b",
+													"key": "bc8td",
 													"text": "Curl their middle, ring ",
 													"type": "unstyled",
 													"depth": 0,
@@ -12267,20 +12267,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e8fj3",
+													"key": "51i36",
 													"text": "and little fingers into the palm.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12322,20 +12322,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "388ah",
+													"key": "10mqr",
 													"text": "Pinch, pinch, pinch.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12377,20 +12377,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a52ku",
+													"key": "7am8k",
 													"text": "Otherwise hold a coin in the palm ",
 													"type": "unstyled",
 													"depth": 0,
@@ -12432,20 +12432,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ao1em",
+													"key": "aj77j",
 													"text": "with the ring and middle fingers",
 													"type": "unstyled",
 													"depth": 0,
@@ -12487,20 +12487,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6c1is",
+													"key": "cot1u",
 													"text": "while doing pinching activities.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12542,20 +12542,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ctqka",
+													"key": "5770u",
 													"text": "Pinch, pinch, pinch. ",
 													"type": "unstyled",
 													"depth": 0,
@@ -12597,20 +12597,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ar662",
+													"key": "416gh",
 													"text": "We'll call these our",
 													"type": "unstyled",
 													"depth": 0,
@@ -12652,20 +12652,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3cph0",
+													"key": "8qmkb",
 													"text": "pinching fingers.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12707,20 +12707,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "avl56",
+													"key": "ce2me",
 													"text": "Here are some activities",
 													"type": "unstyled",
 													"depth": 0,
@@ -12762,20 +12762,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fkmm2",
+													"key": "3o90a",
 													"text": "that use pinching fingers.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12817,20 +12817,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "75qe2",
+													"key": "88fvo",
 													"text": "Pinch, pinch, pinch.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12872,20 +12872,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3qn6b",
+													"key": "4me3l",
 													"text": "Small items are a choking hazard",
 													"type": "unstyled",
 													"depth": 0,
@@ -12927,20 +12927,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "49u08",
+													"key": "drbis",
 													"text": "so please choose carefully.",
 													"type": "unstyled",
 													"depth": 0,
@@ -12982,20 +12982,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4f5vo",
+													"key": "5h2hb",
 													"text": "When scrunching and rolling, ",
 													"type": "unstyled",
 													"depth": 0,
@@ -13037,20 +13037,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6ppgs",
+													"key": "cv3m0",
 													"text": "use the thumb,",
 													"type": "unstyled",
 													"depth": 0,
@@ -13092,20 +13092,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1h26o",
+													"key": "9ol3a",
 													"text": "index and middle fingers.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13147,20 +13147,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bm2m3",
+													"key": "e2h33",
 													"text": "Scrunch, scrunch, scrunch.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13202,20 +13202,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "75aq3",
+													"key": "8fe57",
 													"text": "Peel and stick.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13257,20 +13257,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c4g04",
+													"key": "e9qq1",
 													"text": "Pinch and squeeze.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13312,20 +13312,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b3kga",
+													"key": "3o4g8",
 													"text": "Pick up three or four small objects,",
 													"type": "unstyled",
 													"depth": 0,
@@ -13367,20 +13367,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bltnv",
+													"key": "38opt",
 													"text": "one at a time in one hand,",
 													"type": "unstyled",
 													"depth": 0,
@@ -13422,20 +13422,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a705p",
+													"key": "d1je5",
 													"text": "then try moving",
 													"type": "unstyled",
 													"depth": 0,
@@ -13477,20 +13477,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "26k48",
+													"key": "d9eas",
 													"text": "them back to the fingers and",
 													"type": "unstyled",
 													"depth": 0,
@@ -13532,20 +13532,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b9j9q",
+													"key": "avvh5",
 													"text": "dropping them into a small box.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13587,20 +13587,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bqep8",
+													"key": "eovo7",
 													"text": "Bring your child's",
 													"type": "unstyled",
 													"depth": 0,
@@ -13642,20 +13642,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9ruej",
+													"key": "26vpu",
 													"text": "awareness to their hands, ",
 													"type": "unstyled",
 													"depth": 0,
@@ -13697,20 +13697,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d2eub",
+													"key": "9cacu",
 													"text": "fingers,",
 													"type": "unstyled",
 													"depth": 0,
@@ -13752,20 +13752,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "edrk5",
+													"key": "41lub",
 													"text": "and pinching",
 													"type": "unstyled",
 													"depth": 0,
@@ -13807,20 +13807,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ctbg7",
+													"key": "5ra3r",
 													"text": "fingers when they're doing",
 													"type": "unstyled",
 													"depth": 0,
@@ -13862,20 +13862,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "kvci",
+													"key": "3t9cg",
 													"text": "everyday activities.",
 													"type": "unstyled",
 													"depth": 0,
@@ -13917,20 +13917,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "81m34",
+													"key": "9jvpl",
 													"text": "For instance they may",
 													"type": "unstyled",
 													"depth": 0,
@@ -13972,20 +13972,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1unc7",
+													"key": "533ov",
 													"text": "pickup small",
 													"type": "unstyled",
 													"depth": 0,
@@ -14027,20 +14027,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e5j72",
+													"key": "du8hm",
 													"text": "items with zip up clothing.",
 													"type": "unstyled",
 													"depth": 0,
@@ -14082,20 +14082,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6r7ll",
+													"key": "e3rpi",
 													"text": "Short thick markers and pencils",
 													"type": "unstyled",
 													"depth": 0,
@@ -14137,20 +14137,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bnshs",
+													"key": "9pa5f",
 													"text": "are easier for little hands to hold.",
 													"type": "unstyled",
 													"depth": 0,
@@ -14192,20 +14192,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4dbj",
+													"key": "ekp0j",
 													"text": "We hope you've enjoyed",
 													"type": "unstyled",
 													"depth": 0,
@@ -14247,20 +14247,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b1868",
+													"key": "2amsc",
 													"text": "the video and have fun doing",
 													"type": "unstyled",
 													"depth": 0,
@@ -14302,20 +14302,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "arvg6",
+													"key": "1l3rl",
 													"text": "these activities with your child.",
 													"type": "unstyled",
 													"depth": 0,
@@ -14357,20 +14357,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c6o0l",
+													"key": "18d1m",
 													"text": "If you are concerned about how",
 													"type": "unstyled",
 													"depth": 0,
@@ -14412,20 +14412,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1prn8",
+													"key": "3jgjm",
 													"text": "your child is developing",
 													"type": "unstyled",
 													"depth": 0,
@@ -14467,20 +14467,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#ff0000",
 											"rgb": {
-												"r": 255,
+												"r": 0,
 												"g": 0,
 												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8d4lg",
+													"key": "9tuq9",
 													"text": "contact an occupational therapist.",
 													"type": "unstyled",
 													"depth": 0,
