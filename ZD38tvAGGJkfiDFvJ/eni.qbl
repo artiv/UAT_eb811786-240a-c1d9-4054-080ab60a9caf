@@ -323,6 +323,42 @@
 									"caption": "",
 									"seoSuffix": "modernfamily"
 								}
+							},
+							{
+								"public_id": "Little Hands V2_47Gh",
+								"size": 136222539,
+								"lastModified": 1568009687111,
+								"lastModifiedDate": "2019-09-09T06:14:47.111Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 258.84,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FLittle%20Hands%20V2_47Gh.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FLittle%20Hands%20V2_47Gh.mp4"
+								],
+								"transformedPublicIds": [
+									"Little Hands V2_47Gh"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "little-hands-v2"
+								}
 							}
 						],
 						"fieldChildren": []
