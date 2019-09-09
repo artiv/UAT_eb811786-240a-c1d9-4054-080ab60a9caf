@@ -338,7 +338,16 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:07,000 --> 00:00:07,300\nHello.\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n4\n00:00:09,400 --> 00:00:10,700\nthat will help your child\n5\n00:00:10,700 --> 00:00:11,500\nlearn how to\n6\n00:00:11,500 --> 00:00:12,800\nhold and use a\n7\n00:00:12,800 --> 00:00:13,600\npencil.\n",
+									"parsed": [
+										{
+											"start": 7000,
+											"end": 7300,
+											"text": "Hello.\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n4\n00:00:09,400 --> 00:00:10,700\nthat will help your child\n5\n00:00:10,700 --> 00:00:11,500\nlearn how to\n6\n00:00:11,500 --> 00:00:12,800\nhold and use a\n7\n00:00:12,800 --> 00:00:13,600\npencil."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FLittle%20Hands%20V2_47Gh.mp4"
 								],
