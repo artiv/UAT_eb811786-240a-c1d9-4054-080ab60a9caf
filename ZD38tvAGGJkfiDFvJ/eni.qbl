@@ -173,16 +173,16 @@
 								"viewSelection": 50
 							},
 							{
-								"public_id": "en_modernFamily_c9vy_imb9",
-								"size": "1025437",
+								"public_id": "en_modernFamily_c9vy_KppP",
+								"size": "1026834",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-09-09T08:05:39.845Z",
+								"lastModifiedDate": "2019-09-09T09:02:42.176Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_imb9.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_KppP.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -7637,12 +7637,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_c9vy.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_MjQP.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_imb9.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_imb9.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_c9vy_KppP.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily_c9vy",
 									"en_modernFamily_c9vy_MjQP",
-									"en_modernFamily_c9vy_imb9"
+									"en_modernFamily_c9vy_imb9",
+									"en_modernFamily_c9vy_KppP"
 								],
 								"embed": {
 									"width": 480,
@@ -7672,7 +7674,7 @@
 									},
 									"matchText": true
 								},
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_c9vy_imb9.mp4?generation=1568016339845803&alt=media",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_c9vy_KppP.mp4?generation=1568019762176652&alt=media",
 								"contentType": "video/mp4"
 							},
 							{
