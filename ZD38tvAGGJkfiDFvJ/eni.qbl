@@ -253,16 +253,16 @@
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "en_Little Hands V2_47Gh_KikK",
-								"size": "136252207",
+								"public_id": "en_Little Hands V2_47Gh_bCxh",
+								"size": "98985117",
 								"lastModified": 1568009687111,
-								"lastModifiedDate": "2019-09-09T14:45:10.873Z",
+								"lastModifiedDate": "2019-09-09T15:28:07.892Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 258.84,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_KikK.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_bCxh.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -7719,7 +7719,8 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_wRCW.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_LpNp.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_hTwn.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_KikK.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_KikK.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_Little Hands V2_47Gh_bCxh.mp4"
 								],
 								"transformedPublicIds": [
 									"Little Hands V2_47Gh",
@@ -7727,7 +7728,8 @@
 									"en_Little Hands V2_47Gh_wRCW",
 									"en_Little Hands V2_47Gh_LpNp",
 									"en_Little Hands V2_47Gh_hTwn",
-									"en_Little Hands V2_47Gh_KikK"
+									"en_Little Hands V2_47Gh_KikK",
+									"en_Little Hands V2_47Gh_bCxh"
 								],
 								"embed": {
 									"width": 1920,
@@ -7757,7 +7759,7 @@
 									},
 									"matchText": true
 								},
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_Little%20Hands%20V2_47Gh_KikK.mp4?generation=1568040310873860&alt=media",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_Little%20Hands%20V2_47Gh_bCxh.mp4?generation=1568042887893242&alt=media",
 								"contentType": "video/mp4"
 							}
 						],
