@@ -66,12 +66,12 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:07,000 --> 00:00:07,300\nHello.\n\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n",
+									"captionString": "1\n00:00:07,000 --> 00:00:07,300\nHello. there \n\n2\n00:00:07,300 --> 00:00:08,700\nHere are some fun\n\n3\n00:00:08,700 --> 00:00:09,400\nactivity ideas\n",
 									"parsed": [
 										{
 											"start": 7000,
 											"end": 7300,
-											"text": "Hello."
+											"text": "Hello. there "
 										},
 										{
 											"start": 7300,
@@ -84,7 +84,7 @@
 											"text": "activity ideas"
 										}
 									],
-									"isAttached": false
+									"isAttached": true
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_c9vy.mp4",
@@ -7639,42 +7639,6 @@
 								},
 								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_Little%20Hands%20V2_47Gh_bCxh.mp4?generation=1568042887893242&alt=media",
 								"contentType": "video/mp4"
-							},
-							{
-								"public_id": "modernFamily_kEj6",
-								"size": 1398635,
-								"lastModified": 1530767227603,
-								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
-								"type": "video/mp4",
-								"format": "mp4",
-								"duration": 30.139501,
-								"width": 480,
-								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_kEj6.mp4",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [],
-								"captions": {},
-								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_kEj6.mp4"
-								],
-								"transformedPublicIds": [
-									"modernFamily_kEj6"
-								],
-								"embed": {
-									"width": 480,
-									"height": 360,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "modernfamily"
-								}
 							}
 						],
 						"fieldChildren": []
