@@ -247,6 +247,42 @@
 									"caption": "",
 									"seoSuffix": "anxiety"
 								}
+							},
+							{
+								"public_id": "your-money_G27z",
+								"size": 5154832,
+								"lastModified": 1559028114375,
+								"lastModifiedDate": "2019-05-28T07:21:54.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_G27z"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "your-money"
+								}
 							}
 						],
 						"fieldChildren": []
