@@ -226,7 +226,32 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"font": "Noto Sans",
+									"size": 30,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool very"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_9r9r.mp4"
 								],
@@ -283,7 +308,8 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "your-money"
-								}
+								},
+								"viewSelection": 50
 							}
 						],
 						"fieldChildren": []
