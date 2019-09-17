@@ -77,7 +77,7 @@
 											"a": 1
 										}
 									},
-									"isAttached": true,
+									"isAttached": false,
 									"parsed": [
 										{
 											"start": 3000,
