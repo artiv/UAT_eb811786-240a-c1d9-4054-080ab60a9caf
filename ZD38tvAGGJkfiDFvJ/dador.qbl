@@ -226,7 +226,72 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,500\nTurn on I'm talking to a phone that has your from the USA\n\n2\n00:00:02,500 --> 00:00:03,100\nwho\n\n3\n00:00:03,100 --> 00:00:04,400\nspecialises in picking\n\n4\n00:00:04,400 --> 00:00:07,100\ncompanies with really really good culture,\n\n5\n00:00:07,100 --> 00:00:10,800\nand they've been one of the best performing further just in the world.\n\n6\n00:00:10,800 --> 00:00:12,000\nMaybe we all should be\n\n7\n00:00:12,000 --> 00:00:13,500\ninvesting following the royal commission\n\n8\n00:00:13,500 --> 00:00:14,800\nin companies that have\n\n9\n00:00:14,800 --> 00:00:15,400\nreally\n\n10\n00:00:15,400 --> 00:00:16,600\nreally good culture\n\n11\n00:00:16,600 --> 00:00:18,600\ntonight on Money Talks\n\n12\n00:00:18,600 --> 00:00:20,600\n7:30 your money channel.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2500,
+											"text": "Turn on I'm talking to a phone that has your from the USA"
+										},
+										{
+											"start": 2500,
+											"end": 3100,
+											"text": "who"
+										},
+										{
+											"start": 3100,
+											"end": 4400,
+											"text": "specialises in picking"
+										},
+										{
+											"start": 4400,
+											"end": 7100,
+											"text": "companies with really really good culture,"
+										},
+										{
+											"start": 7100,
+											"end": 10800,
+											"text": "and they've been one of the best performing further just in the world."
+										},
+										{
+											"start": 10800,
+											"end": 12000,
+											"text": "Maybe we all should be"
+										},
+										{
+											"start": 12000,
+											"end": 13500,
+											"text": "investing following the royal commission"
+										},
+										{
+											"start": 13500,
+											"end": 14800,
+											"text": "in companies that have"
+										},
+										{
+											"start": 14800,
+											"end": 15400,
+											"text": "really"
+										},
+										{
+											"start": 15400,
+											"end": 16600,
+											"text": "really good culture"
+										},
+										{
+											"start": 16600,
+											"end": 18600,
+											"text": "tonight on Money Talks"
+										},
+										{
+											"start": 18600,
+											"end": 20600,
+											"text": "7:30 your money channel."
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4"
 								],
