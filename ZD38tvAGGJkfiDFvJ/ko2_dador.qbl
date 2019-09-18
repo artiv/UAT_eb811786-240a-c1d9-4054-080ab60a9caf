@@ -1,0 +1,490 @@
+{
+	"fileName": "ko2_dador.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "abad21f6-555e-7a9d-1a99-6afe7ca1ab4d",
+			"fileItemDate": "2019-09-18T17:38:06.294Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "KHW5qGuD9v2QAEREf",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_WtrN",
+								"size": 1398635,
+								"lastModified": 1530767227603,
+								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_WtrN.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:05,900\n나는 멋진 아주 사람이야. \n\n2\n00:00:05,900 --> 00:00:06,300\n그건 내 일이야. \n\n3\n00:00:07,850 --> 00:00:09,400\n 나는 웹 서핑. 나는 \n\n4\n00:00:06,300 --> 00:00:07,850\n행복해.\n\n5\n00:00:09,400 --> 00:00:10,600\nLOL을 \n\n6\n00:00:10,600 --> 00:00:11,400\n텍스트, 큰 소리로 웃음; \n\n7\n00:00:11,400 --> 00:00:12,700\nOMG, 오 세상에\n\n8\n00:00:12,700 --> 00:00:13,700\n; WTF, \n\n9\n00:00:13,700 --> 00:00:14,700\n왜 FaZe. \n\n10\n00:00:14,700 --> 00:00:16,800\n당신은 내가 \n\n11\n00:00:16,800 --> 00:00:18,300\n고등학교 뮤지컬에 모든 \n\n12\n00:00:18,300 --> 00:00:18,300\n춤을 알고있다. \n\n13\n00:00:18,300 --> 00:00:19,900\n우리는 모두 \n\n14\n00:00:19,900 --> 00:00:20,700\n함께, \n\n15\n00:00:20,700 --> 00:00:23,800\n그래 우리는. \n\n16\n00:00:23,800 --> 00:00:24,700\n우리는 모두 \n\n17\n00:00:24,700 --> 00:00:25,900\n별이고 \n\n18\n00:00:25,900 --> 00:00:27,700\n당신은 그것을 알고\n",
+									"font": "Noto Sans Devanagari",
+									"size": 18,
+									"color": {
+										"hex": "#e6dede",
+										"rgb": {
+											"r": 230,
+											"g": 222,
+											"b": 222,
+											"a": 1
+										}
+									},
+									"isAttached": false,
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 5900,
+											"text": "나는 멋진 아주 사람이야. "
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "그건 내 일이야. "
+										},
+										{
+											"start": 7850,
+											"end": 9400,
+											"text": " 나는 웹 서핑. 나는 "
+										},
+										{
+											"start": 6300,
+											"end": 7850,
+											"text": "행복해."
+										},
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "LOL을 "
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "텍스트, 큰 소리로 웃음; "
+										},
+										{
+											"start": 11400,
+											"end": 12700,
+											"text": "OMG, 오 세상에"
+										},
+										{
+											"start": 12700,
+											"end": 13700,
+											"text": "; WTF, "
+										},
+										{
+											"start": 13700,
+											"end": 14700,
+											"text": "왜 FaZe. "
+										},
+										{
+											"start": 14700,
+											"end": 16800,
+											"text": "당신은 내가 "
+										},
+										{
+											"start": 16800,
+											"end": 18300,
+											"text": "고등학교 뮤지컬에 모든 "
+										},
+										{
+											"start": 18300,
+											"end": 18300,
+											"text": "춤을 알고있다. "
+										},
+										{
+											"start": 18300,
+											"end": 19900,
+											"text": "우리는 모두 "
+										},
+										{
+											"start": 19900,
+											"end": 20700,
+											"text": "함께, "
+										},
+										{
+											"start": 20700,
+											"end": 23800,
+											"text": "그래 우리는. "
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "우리는 모두 "
+										},
+										{
+											"start": 24700,
+											"end": 25900,
+											"text": "별이고 "
+										},
+										{
+											"start": 25900,
+											"end": 27700,
+											"text": "당신은 그것을 알고"
+										}
+									],
+									"translatedString": "나는 멋진 아주 사람이야. 그건 내 일이야. 행복해. 나는 웹 서핑. 나는 LOL을 텍스트, 큰 소리로 웃음; OMG, 오 세상에; WTF, 왜 FaZe. 당신은 내가 고등학교 뮤지컬에 모든 춤을 알고있다. 우리는 모두 함께, 그래 우리는. 우리는 모두 별이고 당신은 그것을 알고",
+									"alignment": "0:2-0:1 0:2-12:12 6:9-3:4 11:14-6:7 16:19-13:13 16:19-9:11 21:26-15:16 28:29-18:18 28:29-22:22 31:36-23:23 31:36-20:21 49:49-30:31 56:58-35:36 60:63-33:33 60:63-37:37 65:65-39:40 67:70-47:49 67:70-45:45 72:75-50:50 72:75-42:44 77:81-58:59 87:91-60:60 87:91-54:56 93:96-63:64 93:96-65:65 93:96-62:62 98:99-67:67 101:102-69:71 104:107-72:72 109:112-75:76 109:112-77:77 109:112-74:74 114:116-79:79 122:126-83:84 122:126-85:85 122:126-81:82 128:130-87:89 137:137-91:92 139:142-110:113 144:146-104:105 148:150-102:102 152:157-107:108 162:165-94:97 174:181-99:101 174:181-114:114 183:187-116:118 189:191-120:121 196:199-123:124 196:199-125:125 211:213-127:128 215:216-130:132 218:221-133:133 223:227-135:137 229:231-139:140 233:237-142:142 239:241-143:144 243:245-146:148 247:250-154:155 252:253-150:152",
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing.\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy. I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web. I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL,\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud;\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG, oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod; WTF,\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe.\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances to High\n\n14\n00:00:17,900 --> 00:00:18,300\nSchool Musical.\n\n15\n00:00:18,300 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,700\nin This\n\n17\n00:00:20,700 --> 00:00:21,600\nTogether,\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are.\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_WtrN.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_WtrN"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "모던패밀리"
+								}
+							},
+							{
+								"public_id": "your-money_G27z",
+								"size": 5154832,
+								"lastModified": 1559028114375,
+								"lastModifiedDate": "2019-05-28T07:21:54.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"font": "Noto Sans Devanagari",
+									"captionString": "1\n00:00:03,550 --> 00:00:07,100\n문화를 가진 회사를 따기 전문 미국에서 당신의 전화얘기를 켜\n\n2\n00:00:00,000 --> 00:00:03,550\n정말 좋은 \n\n3\n00:00:08,950 --> 00:00:10,800\n은 단지 세계에서 더 수행 중 하나\n\n4\n00:00:07,100 --> 00:00:08,950\n고, 그들\n\n5\n00:00:10,800 --> 00:00:20,600\n되었습니다. 어쩌면 우리 모두는 돈 회담 7:30 당신의 돈 채널에 오늘 밤 정말 좋은 문화를 가지고 회사의 왕실 수수료에 따라 투자해야한다.\n",
+									"parsed": [
+										{
+											"start": 3550,
+											"end": 7100,
+											"text": "문화를 가진 회사를 따기 전문 미국에서 당신의 전화얘기를 켜"
+										},
+										{
+											"start": 0,
+											"end": 3550,
+											"text": "정말 좋은 "
+										},
+										{
+											"start": 8950,
+											"end": 10800,
+											"text": "은 단지 세계에서 더 수행 중 하나"
+										},
+										{
+											"start": 7100,
+											"end": 8950,
+											"text": "고, 그들"
+										},
+										{
+											"start": 10800,
+											"end": 20600,
+											"text": "되었습니다. 어쩌면 우리 모두는 돈 회담 7:30 당신의 돈 채널에 오늘 밤 정말 좋은 문화를 가지고 회사의 왕실 수수료에 따라 투자해야한다."
+										}
+									],
+									"translatedString": "정말 좋은 문화를 가진 회사를 따기 전문 미국에서 당신의 전화얘기를 켜고, 그들은 단지 세계에서 더 수행 중 하나되었습니다. 어쩌면 우리 모두는 돈 회담 7:30 당신의 돈 채널에 오늘 밤 정말 좋은 문화를 가지고 회사의 왕실 수수료에 따라 투자해야한다.",
+									"alignment": "0:3-38:38 0:3-39:39 8:10-0:1 12:18-34:35 40:43-28:30 54:56-23:26 62:72-20:21 77:83-17:18 85:93-13:15 95:98-10:11 114:117-3:4 119:126-6:8 119:126-40:40 132:138-42:44 140:143-63:67 145:147-61:62 156:159-56:57 156:159-59:59 172:178-54:54 180:183-46:47 192:197-68:68 192:197-49:52 199:203-70:72 205:206-74:75 208:210-77:79 212:217-137:140 222:230-135:136 232:240-132:133 246:250-124:125 252:261-127:129 266:274-120:122 281:284-116:118 286:291-106:107 293:298-109:110 305:311-112:114 313:319-101:102 313:319-104:104 321:322-130:130 321:322-99:99 324:328-81:81 330:334-83:84 336:339-89:89 336:339-88:88 336:339-86:86 336:339-87:87 341:344-91:93 346:350-95:95 352:359-141:141 352:359-97:98",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:02,500\nTurn on I'm talking to a phone that has your from the USA\n\n2\n00:00:02,500 --> 00:00:03,100\nwho\n\n3\n00:00:03,100 --> 00:00:04,400\nspecialises in picking\n\n4\n00:00:04,400 --> 00:00:07,100\ncompanies with really really good culture,\n\n5\n00:00:07,100 --> 00:00:10,800\nand they've been one of the best performing further just in the world.\n\n6\n00:00:10,800 --> 00:00:12,000\nMaybe we all should be\n\n7\n00:00:12,000 --> 00:00:13,500\ninvesting following the royal commission\n\n8\n00:00:13,500 --> 00:00:14,800\nin companies that have\n\n9\n00:00:14,800 --> 00:00:15,400\nreally\n\n10\n00:00:15,400 --> 00:00:16,600\nreally good culture\n\n11\n00:00:16,600 --> 00:00:18,600\ntonight on Money Talks\n\n12\n00:00:18,600 --> 00:00:20,600\n7:30 your money channel.\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_G27z"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "당신의-돈"
+								},
+								"viewSelection": 75
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [
+							{
+								"public_id": "a1b62d98-d94b-a8bd-a1da-8be89c424361",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool very"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf",
+								"version": 1568565008,
+								"signature": "cd0537d8afe27f3444af4dce1c4b72261d35023e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-15T16:30:08Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 483088,
+								"type": "upload",
+								"etag": "076f48a058b58496208b8ce893590c0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128091,
+								"duration": 30.171429,
+								"original_filename": "modernFamily",
+								"path": "v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.jpg",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf"
+								],
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
