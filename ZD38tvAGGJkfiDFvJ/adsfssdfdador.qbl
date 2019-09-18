@@ -1,0 +1,495 @@
+{
+	"fileName": "adsfssdfdador.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "5bb5c175-7b13-c623-efc3-fce968ac472e",
+			"fileItemDate": "2019-09-18T06:10:54.696Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "KHW5qGuD9v2QAEREf",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_WtrN",
+								"size": 1398635,
+								"lastModified": 1530767227603,
+								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_WtrN.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nमैं एक अच्छा\n\n2\n00:00:04,800 --> 00:00:05,900\nलड़का हूँ. यही\n\n3\n00:00:05,900 --> 00:00:06,300\nमेरे लिए मायने\n\n4\n00:00:06,300 --> 00:00:09,400\nरखता है. \n\n5\n00:00:09,400 --> 00:00:09,400\nमैं ख़ुश हूँ.\n\n6\n00:00:09,400 --> 00:00:10,600\nमैं वेब सर्फ.\n\n7\n00:00:10,600 --> 00:00:11,400\nITV पाठ मुस्कान,\n\n8\n00:00:11,400 --> 00:00:13,700\nजोर से हँस;\n\n9\n00:00:13,700 --> 00:00:14,700\n हे भगवान!\n\n10\n00:00:14,700 --> 00:00:16,800\n ऐसा क्यों\n\n11\n00:00:16,800 --> 00:00:18,300\nहै?  तुम्हें\n\n12\n00:00:18,300 --> 00:00:18,300\nपता है मैं\n\n13\n00:00:18,300 --> 00:00:21,600\nसभी नृत्य हाई\n\n14\n00:00:21,600 --> 00:00:23,800\nस्कूल Museans पता\n\n15\n00:00:23,800 --> 00:00:24,700\nहै.  हम\n\n16\n00:00:24,700 --> 00:00:25,900\nसब एक साथ\n\n17\n00:00:25,900 --> 00:00:27,700\nहैं, हाँ, हमकर रहे हैं.  हम सभी सितारे हैं और आप यह जानते हैं\n",
+									"font": "Noto Sans Devanagari",
+									"size": 18,
+									"color": {
+										"hex": "#e6dede",
+										"rgb": {
+											"r": 230,
+											"g": 222,
+											"b": 222,
+											"a": 1
+										}
+									},
+									"isAttached": false,
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "मैं एक अच्छा"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "लड़का हूँ. यही"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "मेरे लिए मायने"
+										},
+										{
+											"start": 6300,
+											"end": 9400,
+											"text": "रखता है. "
+										},
+										{
+											"start": 9400,
+											"end": 9400,
+											"text": "मैं ख़ुश हूँ."
+										},
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "मैं वेब सर्फ."
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "ITV पाठ मुस्कान,"
+										},
+										{
+											"start": 11400,
+											"end": 13700,
+											"text": "जोर से हँस;"
+										},
+										{
+											"start": 13700,
+											"end": 14700,
+											"text": " हे भगवान!"
+										},
+										{
+											"start": 14700,
+											"end": 16800,
+											"text": " ऐसा क्यों"
+										},
+										{
+											"start": 16800,
+											"end": 18300,
+											"text": "है?  तुम्हें"
+										},
+										{
+											"start": 18300,
+											"end": 18300,
+											"text": "पता है मैं"
+										},
+										{
+											"start": 18300,
+											"end": 21600,
+											"text": "सभी नृत्य हाई"
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "स्कूल Museans पता"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "है.  हम"
+										},
+										{
+											"start": 24700,
+											"end": 25900,
+											"text": "सब एक साथ"
+										},
+										{
+											"start": 25900,
+											"end": 27700,
+											"text": "हैं, हाँ, हमकर रहे हैं.  हम सभी सितारे हैं और आप यह जानते हैं"
+										}
+									],
+									"translatedString": "मैं एक अच्छा लड़का हूँ. यही मेरे लिए मायने रखता है.  मैं ख़ुश हूँ. मैं वेब सर्फ. ITV पाठ मुस्कान, जोर से हँस;  हे भगवान!  ऐसा क्यों है?  तुम्हें पता है मैं सभी नृत्य हाई स्कूल Museans पता है.  हम सब एक साथ हैं, हाँ, हम कर रहे हैं.  हम सभी सितारे हैं और आप यह जानते हैं",
+									"alignment": "",
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nআমি একজন শীতল খুব \n\n2\n00:00:04,800 --> 00:00:05,900\nলোক । এটাই আমার \n\n3\n00:00:05,900 --> 00:00:06,300\nব্যাপার । \n\n4\n00:00:06,300 --> 00:00:09,400\nআমি খুশি. আমি ওয়েব সার্ফ \n\n5\n00:00:09,400 --> 00:00:09,400\nকরি । আই \n\n6\n00:00:09,400 --> 00:00:10,600\nটেক্সট হাসি, \n\n7\n00:00:10,600 --> 00:00:11,400\nজোরে হাসুন; \n\n8\n00:00:11,400 --> 00:00:13,700\nহায় খোদা! \n\n9\n00:00:13,700 --> 00:00:14,700\nএটা কেন? \n\n10\n00:00:14,700 --> 00:00:16,800\nতুমি জানো আমি \n\n11\n00:00:16,800 --> 00:00:18,300\nসব নাচ হাই স্কুল মিউজিশিয়ানদের কাছে \n\n12\n00:00:18,300 --> 00:00:18,300\nজানি । \n\n13\n00:00:18,300 --> 00:00:21,600\nআমরা সবাই একসাথে আছি, \n\n14\n00:00:21,600 --> 00:00:23,800\nহ্যাঁ আমরা । \n\n15\n00:00:23,800 --> 00:00:24,700\nআমরা সবাই \n\n16\n00:00:24,700 --> 00:00:25,900\nতারকা এবং \n\n17\n00:00:25,900 --> 00:00:27,700\nআপনি এটা জানেন\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_WtrN.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_WtrN"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "आधुनिक-परिवार"
+								}
+							},
+							{
+								"public_id": "your-money_G27z",
+								"size": 5154832,
+								"lastModified": 1559028114375,
+								"lastModifiedDate": "2019-05-28T07:21:54.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 21.184,
+								"width": 576,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"font": "Noto Sans Devanagari",
+									"captionString": "1\n00:00:00,000 --> 00:00:02,500\nमैं एक फोन है कि आप संयुक्त राज्य अमेरिका\n\n2\n00:00:02,500 --> 00:00:07,100\nजो वास्तव में अच्छी संस्कृति के साथ कंपनियों उठा\n\n3\n00:00:07,100 --> 00:00:10,800\nमें विशेषज्ञता से बात कर रहा हूँ, और वे\n\n4\n00:00:10,800 --> 00:00:13,500\nदुनिया में सबसे अच्छा प्रदर्शन में से एक रहा\n\n5\n00:00:13,500 --> 00:00:16,600\nहै.  शायद हम सभी को इस शाही आयोग\n\n6\n00:00:16,600 --> 00:00:18,600\nजो वास्तव में बहुत अच्छी संस्कृति के लिए पैसे\n\n7\n00:00:18,600 --> 00:00:20,600\nआज रात 7:30 अपने पैसे चैनल पर चर्चा केबाद में निवेश करना चाहिए.\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 2500,
+											"text": "मैं एक फोन है कि आप संयुक्त राज्य अमेरिका"
+										},
+										{
+											"start": 2500,
+											"end": 7100,
+											"text": "जो वास्तव में अच्छी संस्कृति के साथ कंपनियों उठा"
+										},
+										{
+											"start": 7100,
+											"end": 10800,
+											"text": "में विशेषज्ञता से बात कर रहा हूँ, और वे"
+										},
+										{
+											"start": 10800,
+											"end": 13500,
+											"text": "दुनिया में सबसे अच्छा प्रदर्शन में से एक रहा"
+										},
+										{
+											"start": 13500,
+											"end": 16600,
+											"text": "है.  शायद हम सभी को इस शाही आयोग"
+										},
+										{
+											"start": 16600,
+											"end": 18600,
+											"text": "जो वास्तव में बहुत अच्छी संस्कृति के लिए पैसे"
+										},
+										{
+											"start": 18600,
+											"end": 20600,
+											"text": "आज रात 7:30 अपने पैसे चैनल पर चर्चा केबाद में निवेश करना चाहिए."
+										}
+									],
+									"translatedString": "मैं एक फोन है कि आप संयुक्त राज्य अमेरिका जो वास्तव में अच्छी संस्कृति के साथ कंपनियों उठा में विशेषज्ञता से बात कर रहा हूँ, और वे दुनिया में सबसे अच्छा प्रदर्शन में से एक रहा है.  शायद हम सभी को इस शाही आयोग जो वास्तव में बहुत अच्छी संस्कृति के लिए पैसे आज रात 7:30 अपने पैसे चैनल पर चर्चा के बाद में निवेश करना चाहिए.",
+									"alignment": "",
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:02,500\nআমি এমন একটি ফোনের সাথে কথা বলছি, যে মার্কিন যুক্তরাষ্ট্র থেকে আপনার কাছে আছে \n\n2\n00:00:02,500 --> 00:00:07,100\nযারা সত্যিই সত্যিই ভাল সংস্কৃতি সঙ্গে কোম্পানি বাছাই করতে বিশেষজ্ঞ, \n\n3\n00:00:07,100 --> 00:00:10,800\nএবং তারা বিশ্বের মধ্যে আরো সেরা সম্পাদন এক হয়েছে. \n\n4\n00:00:10,800 --> 00:00:13,500\nহয়তো আমাদের সবারই এই রাজকীয় কমিশন অনুসরণ করে বিনিয়োগ করা উচিত \n\n5\n00:00:13,500 --> 00:00:16,600\nযা সত্যিই সত্যিই ভাল সংস্কৃতি \n\n6\n00:00:16,600 --> 00:00:18,600\nআজ রাতে অর্থ আলোচনা \n\n7\n00:00:18,600 --> 00:00:20,600\n7:30 আপনার টাকা চ্যানেল.\n"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fyour-money_G27z.mp4"
+								],
+								"transformedPublicIds": [
+									"your-money_G27z"
+								],
+								"embed": {
+									"width": 576,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "आपका-पैसा"
+								},
+								"viewSelection": 75
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [
+							{
+								"public_id": "a1b62d98-d94b-a8bd-a1da-8be89c424361",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool very"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf",
+								"version": 1568565008,
+								"signature": "cd0537d8afe27f3444af4dce1c4b72261d35023e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-15T16:30:08Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 483088,
+								"type": "upload",
+								"etag": "076f48a058b58496208b8ce893590c0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128091,
+								"duration": 30.171429,
+								"original_filename": "modernFamily",
+								"path": "v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.jpg",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf"
+								],
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
