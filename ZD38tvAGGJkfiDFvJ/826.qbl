@@ -64,7 +64,97 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n\n5\n00:00:10,600 --> 00:00:11,400\nLaugh out loud\n\n6\n00:00:11,400 --> 00:00:13,100\nOMG. Oh my God\n\n7\n00:00:13,100 --> 00:00:14,700\nWTF why the FaZe?\n\n8\n00:00:14,700 --> 00:00:18,800\nYou know, I know all the dances High School Musical\n\n9\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n10\n00:00:19,900 --> 00:00:20,800\nin This\n\n11\n00:00:20,800 --> 00:00:21,600\nTogether.\n\n12\n00:00:21,600 --> 00:00:23,800\nYes, we are\n\n13\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n14\n00:00:24,700 --> 00:00:25,300\nstars\n\n15\n00:00:25,300 --> 00:00:25,900\nand\n\n16\n00:00:25,900 --> 00:00:27,000\nyou know\n\n17\n00:00:27,000 --> 00:00:27,700\nit\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 6300,
+											"text": "I'm a cool guy. That's that's my Fang."
+										},
+										{
+											"start": 7400,
+											"end": 9400,
+											"text": "I'm here 5 i surf the web I"
+										},
+										{
+											"start": 9400,
+											"end": 10000,
+											"text": "text"
+										},
+										{
+											"start": 10000,
+											"end": 10600,
+											"text": "LOL."
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "Laugh out loud"
+										},
+										{
+											"start": 11400,
+											"end": 13100,
+											"text": "OMG. Oh my God"
+										},
+										{
+											"start": 13100,
+											"end": 14700,
+											"text": "WTF why the FaZe?"
+										},
+										{
+											"start": 14700,
+											"end": 18800,
+											"text": "You know, I know all the dances High School Musical"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "We're All"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "in This"
+										},
+										{
+											"start": 20800,
+											"end": 21600,
+											"text": "Together."
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "Yes, we are"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "we're all"
+										},
+										{
+											"start": 24700,
+											"end": 25300,
+											"text": "stars"
+										},
+										{
+											"start": 25300,
+											"end": 25900,
+											"text": "and"
+										},
+										{
+											"start": 25900,
+											"end": 27000,
+											"text": "you know"
+										},
+										{
+											"start": 27000,
+											"end": 27700,
+											"text": "it"
+										}
+									]
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_gH4w.mp4"
 								],
