@@ -61,7 +61,56 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_WtrN.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ece5e5",
+											"rgb": {
+												"r": 236,
+												"g": 229,
+												"b": 229,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "3",
+										"end_offset": "5",
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f61t7",
+													"text": "3 to 5",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "3 to 5"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
