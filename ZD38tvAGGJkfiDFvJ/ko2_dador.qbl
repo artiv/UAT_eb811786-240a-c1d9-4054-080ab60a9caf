@@ -262,6 +262,42 @@
 									"seoSuffix": "당신의-돈"
 								},
 								"viewSelection": 75
+							},
+							{
+								"public_id": "modernFamily_zPb2",
+								"size": 686472,
+								"lastModified": 1557474712590,
+								"lastModifiedDate": "2019-05-10T07:51:52.590Z",
+								"type": "video/quicktime",
+								"format": "mov",
+								"duration": 30.232381,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_zPb2.mov",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_zPb2.mov"
+								],
+								"transformedPublicIds": [
+									"modernFamily_zPb2"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
 							}
 						],
 						"fieldChildren": []
