@@ -1,0 +1,462 @@
+{
+	"fileName": "ja_dador.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "8e2011e2-11ba-0d7a-2a0c-f4959f36b892",
+			"fileItemDate": "2019-09-23T07:37:14.502Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "b5Rogy97xejkfoBAE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_ZnkE_sbYq",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_ZnkE_sbYq.mp4?generation=1569219013584601&alt=media",
+								"size": "977007",
+								"lastModified": 1557474712590,
+								"lastModifiedDate": "2019-09-23T06:10:13.584Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:12,800 --> 00:00:19,000\nブランドの忠誠心は衰退しています。消費者は、アクセシビリティ対応データの変革的な時代を取\n\n2\n00:00:19,000 --> 00:00:29,500\nり入れています。これは、意思決定に時間を費やす意欲を高め、ブランドの差別化をこれまで以上に困難にするステータスを大幅に減らす情報を収集する能力を高める世代\n\n3\n00:00:29,500 --> 00:00:38,700\nです。プレミアム製品のために知られていることは、あまり影響を与えはありません。小売のBMWの将来に目立\n\n4\n00:00:38,700 --> 00:00:38,700\nつために、店舗体験でプレミアム顧客に焦点を当てることを\n\n5\n00:00:38,700 --> 00:00:48,800\n選択しました。これは、小売基準を再考し、顧客と対話し、ロイヤルティを維持するための新しい方法を見つけることを意味\n\n6\n00:00:48,800 --> 00:00:49,700\nしました。EYはBMWを目的地まで導くことを任\n\n7\n00:00:49,700 --> 00:00:59,900\nされた。EYは、BMWが劇的に高まる顧客の要求に対応できるように、新しいサービスイニシアチブを提供する責任\n\n8\n00:00:59,900 --> 00:01:03,500\nを負いました。販売目標ではなく専門知識に焦点を当てた製品の天才のような新しいディーラーの役割。\n\n9\n00:01:03,500 --> 00:01:03,500\n仮想製品\n\n10\n00:01:03,500 --> 00:01:06,700\nプレゼンテーションと、評価と\n\n11\n00:01:06,700 --> 00:01:07,800\nレポートを含むモバイルカスタマイザーアプリ。\n\n12\n00:01:07,800 --> 00:01:12,200\nEYチームは、世界40カ国以上でこれらの革新的なアプローチを実施\n\n13\n00:01:12,200 --> 00:01:16,700\nしました。結果は明らかな製品の天才は、\n\n14\n00:01:16,700 --> 00:01:16,700\n収益の増加につながり、\n\n15\n00:01:16,700 --> 00:01:19,900\n顧客の治療コーチングは、謎の買い物客の結果を改善\n\n16\n00:01:19,900 --> 00:01:19,900\nしました。\n\n17\n00:01:19,900 --> 00:01:22,100\nディーラーは、将来の小売プログラムを信\n\n18\n00:01:22,100 --> 00:01:33,500\nじていました。BMWは、顧客がBMWを信じるのと同じ方法でEYを信\n\n19\n00:01:33,500 --> 00:01:33,500\nじていました。彼らは製品の口径を知\n\n20\n00:01:33,500 --> 00:01:44,100\nり、信頼しています。BMWが変革の時代をナビゲートする必要があるとき。\n\n21\n00:01:44,100 --> 00:01:46,900\n彼らはより良い接続コンサルタントに見えます。\n",
+									"parsed": [
+										{
+											"start": 12800,
+											"end": 19000,
+											"text": "ブランドの忠誠心は衰退しています。消費者は、アクセシビリティ対応データの変革的な時代を取"
+										},
+										{
+											"start": 19000,
+											"end": 29500,
+											"text": "り入れています。これは、意思決定に時間を費やす意欲を高め、ブランドの差別化をこれまで以上に困難にするステータスを大幅に減らす情報を収集する能力を高める世代"
+										},
+										{
+											"start": 29500,
+											"end": 38700,
+											"text": "です。プレミアム製品のために知られていることは、あまり影響を与えはありません。小売のBMWの将来に目立"
+										},
+										{
+											"start": 38700,
+											"end": 38700,
+											"text": "つために、店舗体験でプレミアム顧客に焦点を当てることを"
+										},
+										{
+											"start": 38700,
+											"end": 48800,
+											"text": "選択しました。これは、小売基準を再考し、顧客と対話し、ロイヤルティを維持するための新しい方法を見つけることを意味"
+										},
+										{
+											"start": 48800,
+											"end": 49700,
+											"text": "しました。EYはBMWを目的地まで導くことを任"
+										},
+										{
+											"start": 49700,
+											"end": 59900,
+											"text": "された。EYは、BMWが劇的に高まる顧客の要求に対応できるように、新しいサービスイニシアチブを提供する責任"
+										},
+										{
+											"start": 59900,
+											"end": 63500,
+											"text": "を負いました。販売目標ではなく専門知識に焦点を当てた製品の天才のような新しいディーラーの役割。"
+										},
+										{
+											"start": 63500,
+											"end": 63500,
+											"text": "仮想製品"
+										},
+										{
+											"start": 63500,
+											"end": 66700,
+											"text": "プレゼンテーションと、評価と"
+										},
+										{
+											"start": 66700,
+											"end": 67800,
+											"text": "レポートを含むモバイルカスタマイザーアプリ。"
+										},
+										{
+											"start": 67800,
+											"end": 72200,
+											"text": "EYチームは、世界40カ国以上でこれらの革新的なアプローチを実施"
+										},
+										{
+											"start": 72200,
+											"end": 76700,
+											"text": "しました。結果は明らかな製品の天才は、"
+										},
+										{
+											"start": 76700,
+											"end": 76700,
+											"text": "収益の増加につながり、"
+										},
+										{
+											"start": 76700,
+											"end": 79900,
+											"text": "顧客の治療コーチングは、謎の買い物客の結果を改善"
+										},
+										{
+											"start": 79900,
+											"end": 79900,
+											"text": "しました。"
+										},
+										{
+											"start": 79900,
+											"end": 82100,
+											"text": "ディーラーは、将来の小売プログラムを信"
+										},
+										{
+											"start": 82100,
+											"end": 93500,
+											"text": "じていました。BMWは、顧客がBMWを信じるのと同じ方法でEYを信"
+										},
+										{
+											"start": 93500,
+											"end": 93500,
+											"text": "じていました。彼らは製品の口径を知"
+										},
+										{
+											"start": 93500,
+											"end": 104100,
+											"text": "り、信頼しています。BMWが変革の時代をナビゲートする必要があるとき。"
+										},
+										{
+											"start": 104100,
+											"end": 106900,
+											"text": "彼らはより良い接続コンサルタントに見えます。"
+										}
+									],
+									"translatedString": "ブランドの忠誠心は衰退しています。消費者は、アクセシビリティ対応データの変革的な時代を取り入れています。これは、意思決定に時間を費やす意欲を高め、ブランドの差別化をこれまで以上に困難にするステータスを大幅に減らす情報を収集する能力を高める世代です。プレミアム製品のために知られていることは、あまり影響を与えはありません。小売のBMWの将来に目立つために、店舗体験でプレミアム顧客に焦点を当てることを選択しました。これは、小売基準を再考し、顧客と対話し、ロイヤルティを維持するための新しい方法を見つけることを意味しました。EYはBMWを目的地まで導くことを任された。EYは、BMWが劇的に高まる顧客の要求に対応できるように、新しいサービスイニシアチブを提供する責任を負いました。販売目標ではなく専門知識に焦点を当てた製品の天才のような新しいディーラーの役割。仮想製品プレゼンテーションと、評価とレポートを含むモバイルカスタマイザーアプリ。EYチームは、世界40カ国以上でこれらの革新的なアプローチを実施しました。結果は明らかな製品の天才は、収益の増加につながり、顧客の治療コーチングは、謎の買い物客の結果を改善しました。ディーラーは、将来の小売プログラムを信じていました。BMWは、顧客がBMWを信じるのと同じ方法でEYを信じていました。彼らは製品の口径を知り、信頼しています。BMWが変革の時代をナビゲートする必要があるとき。彼らはより良い接続コンサルタントに見えます。",
+									"alignment": "0:4-0:3 6:12-5:7 6:12-4:4 14:15-8:8 17:18-11:15 20:27-16:16 20:27-9:10 29:37-17:19 39:41-20:20 39:41-21:21 43:51-43:43 43:51-42:42 55:68-39:39 55:68-36:37 70:72-40:41 74:75-35:35 77:86-26:29 77:86-22:23 77:86-25:25 77:86-24:24 77:86-30:31 88:92-51:51 88:92-32:34 94:97-52:54 99:100-55:55 104:113-119:120 120:128-113:114 120:128-116:116 133:141-109:110 143:153-106:107 160:166-67:68 171:175-64:64 171:175-65:66 177:180-61:62 202:210-102:102 212:215-103:103 212:215-100:101 212:215-104:105 217:222-94:98 231:236-92:93 238:242-73:76 244:258-78:80 260:265-89:90 267:270-86:87 272:276-123:123 272:276-82:85 284:288-135:135 284:288-136:140 290:292-131:134 294:294-150:150 296:302-124:128 304:310-129:130 312:314-141:143 316:319-145:147 316:319-144:144 316:319-153:158 316:319-152:152 321:330-159:159 321:330-148:149 335:339-170:171 345:346-169:169 352:357-167:168 352:357-163:165 359:360-166:166 362:367-160:161 369:371-162:162 369:371-176:176 373:377-199:200 373:377-201:204 379:380-172:175 379:380-195:198 382:386-190:191 382:386-194:194 388:389-189:189 388:389-192:192 393:399-182:186 401:408-187:188 410:411-181:181 413:417-177:178 419:429-205:205 419:429-179:180 431:434-206:208 436:440-253:254 436:440-209:209 436:440-255:258 442:451-215:216 453:458-210:211 460:469-212:213 460:469-218:218 471:477-247:252 471:477-246:246 479:481-240:240 479:481-241:242 483:486-243:244 488:489-235:239 488:489-232:232 488:489-245:245 491:498-222:223 500:503-221:221 505:513-219:220 515:517-224:224 519:526-233:234 528:535-259:259 528:535-226:229 537:538-260:261 540:542-262:262 544:549-277:277 551:554-266:266 556:562-272:272 564:566-263:265 568:569-270:271 571:573-273:276 575:586-281:281 575:586-267:269 588:589-282:283 591:594-284:284 591:594-285:285 596:609-329:330 615:624-325:326 626:628-312:313 626:628-311:311 630:636-314:317 638:648-318:323 650:651-304:309 650:651-310:310 650:651-301:301 658:660-286:288 662:668-302:303 670:671-327:328 673:684-290:291 673:684-292:292 686:691-293:293 686:691-294:295 693:700-296:297 702:709-337:337 702:709-299:300 711:713-367:368 711:713-366:366 715:724-369:373 726:730-375:376 737:738-362:365 740:742-353:353 744:750-357:358 752:757-360:361 752:757-359:359 765:770-355:356 772:778-351:352 772:778-354:354 780:781-350:350 783:791-346:349 793:795-342:345 797:801-338:339 803:810-377:377 803:810-340:341 815:821-378:379 823:829-380:381 831:842-382:390 844:846-391:391 844:846-395:395 850:855-403:406 857:866-412:413 857:866-408:409 868:870-414:416 872:875-402:402 872:875-401:401 872:875-400:400 877:886-393:394 877:886-392:392 892:901-396:399 892:901-417:417 903:904-418:419 906:910-420:422 906:910-423:423 912:922-448:449 912:922-424:424 924:928-434:437 930:939-438:440 930:939-441:441 941:950-442:446 952:953-433:433 960:963-431:432 965:966-428:428 965:966-427:427 968:976-430:430 968:976-429:429 978:987-454:454 978:987-425:426 990:992-457:457 990:992-455:456 1002:1005-467:467 1007:1011-459:461 1007:1011-458:458 1013:1019-462:463 1021:1026-465:466 1028:1031-475:478 1028:1031-474:474 1033:1034-471:471 1036:1044-472:473 1046:1052-469:470 1046:1052-468:468 1054:1056-479:479 1058:1065-480:481 1067:1075-483:484 1067:1075-482:482 1077:1084-485:489 1077:1084-490:490 1086:1093-502:503 1086:1093-501:501 1095:1101-492:492 1095:1101-491:491 1103:1109-495:495 1111:1118-499:500 1111:1118-508:508 1120:1126-509:513 1120:1126-514:514 1128:1135-527:527 1128:1135-528:533 1137:1138-518:518 1140:1140-526:526 1142:1147-516:517 1142:1147-515:515 1149:1154-519:520 1156:1165-534:534 1156:1165-521:525 1167:1169-535:537 1171:1178-560:560 1171:1178-561:566 1171:1178-538:538 1180:1181-546:546 1180:1181-542:542 1183:1184-557:558 1186:1187-556:556 1186:1187-551:551 1189:1191-550:550 1193:1196-552:552 1193:1196-553:553 1198:1200-554:555 1202:1210-540:541 1212:1218-547:547 1212:1218-548:549 1220:1221-559:559 1223:1226-567:567 1223:1226-543:545 1228:1231-569:570 1228:1231-568:568 1233:1236-577:577 1238:1240-578:578 1238:1240-579:579 1242:1246-580:581 1251:1253-573:573 1251:1253-576:576 1255:1261-574:575 1266:1268-582:586 1270:1277-587:587 1270:1277-571:572 1279:1282-591:591 1279:1282-611:611 1284:1286-588:590 1288:1293-605:606 1295:1296-603:604 1295:1296-597:597 1298:1305-598:602 1311:1324-592:593 1311:1324-594:594 1326:1329-612:612 1326:1329-595:596 1331:1334-614:615 1331:1334-613:613 1336:1339-630:630 1336:1339-631:633 1341:1346-618:618 1341:1346-619:619 1341:1346-616:617 1348:1356-620:621 1358:1369-634:634 1358:1369-629:629 1358:1369-622:628",
+									"originalCaptionString": "1\n00:00:12,800 --> 00:00:17,000\nBrand loyalty is in decline. Consumers are embracing a\n\n2\n00:00:17,000 --> 00:00:19,000\ntransformative age of accessible data.\n\n3\n00:00:19,000 --> 00:00:21,800\nThis is a generation more competent at gathering information\n\n4\n00:00:21,800 --> 00:00:23,700\nmore willing to spend time\n\n5\n00:00:23,700 --> 00:00:24,400\ndecision making\n\n6\n00:00:24,400 --> 00:00:25,700\nand crucially\n\n7\n00:00:25,700 --> 00:00:26,800\nless status driven\n\n8\n00:00:26,800 --> 00:00:28,100\nmaking brand differentiation\n\n9\n00:00:28,100 --> 00:00:29,500\nharder than ever.\n\n10\n00:00:29,500 --> 00:00:35,100\nBeing known for a premium product has less influence. To stand out in the future of retail\n\n11\n00:00:35,100 --> 00:00:38,700\nBMW chose to focus on a premium customer in store experience.\n\n12\n00:00:38,700 --> 00:00:41,400\nThis meant rethinking retail standards,\n\n13\n00:00:41,400 --> 00:00:43,900\nfinding new ways to interact with customers and\n\n14\n00:00:43,900 --> 00:00:48,800\nmaintain loyalty. EY was tasked with guiding BMW\n\n15\n00:00:48,800 --> 00:00:49,700\nto its destination.\n\n16\n00:00:49,700 --> 00:00:51,100\nEY took responsibility\n\n17\n00:00:51,100 --> 00:00:52,200\nfor delivering new\n\n18\n00:00:52,200 --> 00:00:54,100\nservice initiatives to help\n\n19\n00:00:54,100 --> 00:00:55,200\nBMW respond to dramatically rising\n\n20\n00:00:55,200 --> 00:00:59,900\ncustomer demands. New dealership roles such as the product genius \n\n21\n00:00:59,900 --> 00:01:01,100\nwhich helped focused on expertise\n\n22\n00:01:01,100 --> 00:01:03,500\nnot sales targets. A virtual product\n\n23\n00:01:03,500 --> 00:01:05,200\npresentation and a mobile\n\n24\n00:01:05,200 --> 00:01:06,700\ncustomizer app with evaluation\n\n25\n00:01:06,700 --> 00:01:07,800\nand reporting.\n\n26\n00:01:07,800 --> 00:01:09,900\nEY Teams  implemented these innovative\n\n27\n00:01:09,900 --> 00:01:11,600\napproaches in more than 40 countries\n\n28\n00:01:11,600 --> 00:01:12,200\nworldwide.\n\n29\n00:01:12,200 --> 00:01:14,000\nThe results were clear\n\n30\n00:01:14,000 --> 00:01:16,700\nproduct genius lead to increased revenue and\n\n31\n00:01:16,700 --> 00:01:18,500\ncustomer treatment coaching improved\n\n32\n00:01:18,500 --> 00:01:19,900\nmystery shopper results.\n\n33\n00:01:19,900 --> 00:01:22,100\nDealers believed in a future retail programme.\n\n34\n00:01:26,700 --> 00:01:30,500\nBMW believed in EY in the same way customers believe in\n\n35\n00:01:30,500 --> 00:01:33,500\nBMW. They know and trust in the calibre of the product.\n\n36\n00:01:41,000 --> 00:01:43,200\nWhen BMW needed to navigate the\n\n37\n00:01:43,200 --> 00:01:44,100\ntransformative age.\n\n38\n00:01:44,100 --> 00:01:46,900\nThey look better connected consultants.\n",
+									"font": "Noto Sans"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_ZnkE_sbYq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "モダンファミリー_znke"
+								}
+							},
+							{
+								"public_id": "IMG_2625_emqo_immK",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FIMG_2625_emqo_immK.mp4?generation=1569222370375789&alt=media",
+								"size": "33676189",
+								"lastModified": 1568791124907,
+								"lastModifiedDate": "2019-09-23T07:06:10.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 77.811,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4"
+								],
+								"transformedPublicIds": [
+									"IMG_2625_emqo_immK"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "img_2625_emqo"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [
+							{
+								"public_id": "a1b62d98-d94b-a8bd-a1da-8be89c424361",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool very"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf",
+								"version": 1568565008,
+								"signature": "cd0537d8afe27f3444af4dce1c4b72261d35023e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-15T16:30:08Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 483088,
+								"type": "upload",
+								"etag": "076f48a058b58496208b8ce893590c0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128091,
+								"duration": 30.171429,
+								"original_filename": "modernFamily",
+								"path": "v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.jpg",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf"
+								],
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
