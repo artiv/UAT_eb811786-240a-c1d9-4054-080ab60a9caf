@@ -1,0 +1,547 @@
+{
+	"fileName": "zh-Hans_dador_September-26th_11-17 am.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "0a5566ae-5275-3b61-d812-5a20659c8fa2",
+			"fileItemDate": "2019-09-26T05:47:21.953Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "Aigy7eAPHdGywwXxE",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_ZnkE_sbYq",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_ZnkE_sbYq.mp4?generation=1569219013584601&alt=media",
+								"size": "977007",
+								"lastModified": 1557474712590,
+								"lastModifiedDate": "2019-09-23T06:10:13.584Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:12,800 --> 00:00:17,000\nBrand loyalty is in decline. Consumers are embracing a\n\n2\n00:00:17,000 --> 00:00:19,000\ntransformative age of accessible data.\n\n3\n00:00:19,000 --> 00:00:21,800\nThis is a generation more competent at gathering information\n\n4\n00:00:21,800 --> 00:00:23,700\nmore willing to spend time\n\n5\n00:00:23,700 --> 00:00:24,400\ndecision making\n\n6\n00:00:24,400 --> 00:00:25,700\nand crucially\n\n7\n00:00:25,700 --> 00:00:26,800\nless status driven\n\n8\n00:00:26,800 --> 00:00:28,100\nmaking brand differentiation\n\n9\n00:00:28,100 --> 00:00:29,500\nharder than ever.\n\n10\n00:00:29,500 --> 00:00:35,100\nBeing known for a premium product has less influence. To stand out in the future of retail\n\n11\n00:00:35,100 --> 00:00:38,700\nBMW chose to focus on a premium customer in store experience.\n\n12\n00:00:38,700 --> 00:00:41,400\nThis meant rethinking retail standards,\n\n13\n00:00:41,400 --> 00:00:43,900\nfinding new ways to interact with customers and\n\n14\n00:00:43,900 --> 00:00:48,800\nmaintain loyalty. EY was tasked with guiding BMW\n\n15\n00:00:48,800 --> 00:00:49,700\nto its destination.\n\n16\n00:00:49,700 --> 00:00:51,100\nEY took responsibility\n\n17\n00:00:51,100 --> 00:00:52,200\nfor delivering new\n\n18\n00:00:52,200 --> 00:00:54,100\nservice initiatives to help\n\n19\n00:00:54,100 --> 00:00:55,200\nBMW respond to dramatically rising\n\n20\n00:00:55,200 --> 00:00:59,900\ncustomer demands. New dealership roles such as the product genius \n\n21\n00:00:59,900 --> 00:01:01,100\nwhich helped focused on expertise\n\n22\n00:01:01,100 --> 00:01:03,500\nnot sales targets. A virtual product\n\n23\n00:01:03,500 --> 00:01:05,200\npresentation and a mobile\n\n24\n00:01:05,200 --> 00:01:06,700\ncustomizer app with evaluation\n\n25\n00:01:06,700 --> 00:01:07,800\nand reporting.\n\n26\n00:01:07,800 --> 00:01:09,900\nEY Teams  implemented these innovative\n\n27\n00:01:09,900 --> 00:01:11,600\napproaches in more than 40 countries\n\n28\n00:01:11,600 --> 00:01:12,200\nworldwide.\n\n29\n00:01:12,200 --> 00:01:14,000\nThe results were clear\n\n30\n00:01:14,000 --> 00:01:16,700\nproduct genius lead to increased revenue and\n\n31\n00:01:16,700 --> 00:01:18,500\ncustomer treatment coaching improved\n\n32\n00:01:18,500 --> 00:01:19,900\nmystery shopper results.\n\n33\n00:01:19,900 --> 00:01:22,100\nDealers believed in a future retail programme.\n\n34\n00:01:26,700 --> 00:01:30,500\nBMW believed in EY in the same way customers believe in\n\n35\n00:01:30,500 --> 00:01:33,500\nBMW. They know and trust in the calibre of the product.\n\n36\n00:01:41,000 --> 00:01:43,200\nWhen BMW needed to navigate the\n\n37\n00:01:43,200 --> 00:01:44,100\ntransformative age.\n\n38\n00:01:44,100 --> 00:01:46,900\nThey look better connected consultants.",
+									"parsed": [
+										{
+											"start": 12800,
+											"end": 17000,
+											"text": "Brand loyalty is in decline. Consumers are embracing a"
+										},
+										{
+											"start": 17000,
+											"end": 19000,
+											"text": "transformative age of accessible data."
+										},
+										{
+											"start": 19000,
+											"end": 21800,
+											"text": "This is a generation more competent at gathering information"
+										},
+										{
+											"start": 21800,
+											"end": 23700,
+											"text": "more willing to spend time"
+										},
+										{
+											"start": 23700,
+											"end": 24400,
+											"text": "decision making"
+										},
+										{
+											"start": 24400,
+											"end": 25700,
+											"text": "and crucially"
+										},
+										{
+											"start": 25700,
+											"end": 26800,
+											"text": "less status driven"
+										},
+										{
+											"start": 26800,
+											"end": 28100,
+											"text": "making brand differentiation"
+										},
+										{
+											"start": 28100,
+											"end": 29500,
+											"text": "harder than ever."
+										},
+										{
+											"start": 29500,
+											"end": 35100,
+											"text": "Being known for a premium product has less influence. To stand out in the future of retail"
+										},
+										{
+											"start": 35100,
+											"end": 38700,
+											"text": "BMW chose to focus on a premium customer in store experience."
+										},
+										{
+											"start": 38700,
+											"end": 41400,
+											"text": "This meant rethinking retail standards,"
+										},
+										{
+											"start": 41400,
+											"end": 43900,
+											"text": "finding new ways to interact with customers and"
+										},
+										{
+											"start": 43900,
+											"end": 48800,
+											"text": "maintain loyalty. EY was tasked with guiding BMW"
+										},
+										{
+											"start": 48800,
+											"end": 49700,
+											"text": "to its destination."
+										},
+										{
+											"start": 49700,
+											"end": 51100,
+											"text": "EY took responsibility"
+										},
+										{
+											"start": 51100,
+											"end": 52200,
+											"text": "for delivering new"
+										},
+										{
+											"start": 52200,
+											"end": 54100,
+											"text": "service initiatives to help"
+										},
+										{
+											"start": 54100,
+											"end": 55200,
+											"text": "BMW respond to dramatically rising"
+										},
+										{
+											"start": 55200,
+											"end": 59900,
+											"text": "customer demands. New dealership roles such as the product genius "
+										},
+										{
+											"start": 59900,
+											"end": 61100,
+											"text": "which helped focused on expertise"
+										},
+										{
+											"start": 61100,
+											"end": 63500,
+											"text": "not sales targets. A virtual product"
+										},
+										{
+											"start": 63500,
+											"end": 65200,
+											"text": "presentation and a mobile"
+										},
+										{
+											"start": 65200,
+											"end": 66700,
+											"text": "customizer app with evaluation"
+										},
+										{
+											"start": 66700,
+											"end": 67800,
+											"text": "and reporting."
+										},
+										{
+											"start": 67800,
+											"end": 69900,
+											"text": "EY Teams  implemented these innovative"
+										},
+										{
+											"start": 69900,
+											"end": 71600,
+											"text": "approaches in more than 40 countries"
+										},
+										{
+											"start": 71600,
+											"end": 72200,
+											"text": "worldwide."
+										},
+										{
+											"start": 72200,
+											"end": 74000,
+											"text": "The results were clear"
+										},
+										{
+											"start": 74000,
+											"end": 76700,
+											"text": "product genius lead to increased revenue and"
+										},
+										{
+											"start": 76700,
+											"end": 78500,
+											"text": "customer treatment coaching improved"
+										},
+										{
+											"start": 78500,
+											"end": 79900,
+											"text": "mystery shopper results."
+										},
+										{
+											"start": 79900,
+											"end": 82100,
+											"text": "Dealers believed in a future retail programme."
+										},
+										{
+											"start": 86700,
+											"end": 90500,
+											"text": "BMW believed in EY in the same way customers believe in"
+										},
+										{
+											"start": 90500,
+											"end": 93500,
+											"text": "BMW. They know and trust in the calibre of the product."
+										},
+										{
+											"start": 101000,
+											"end": 103200,
+											"text": "When BMW needed to navigate the"
+										},
+										{
+											"start": 103200,
+											"end": 104100,
+											"text": "transformative age."
+										},
+										{
+											"start": 104100,
+											"end": 106900,
+											"text": "They look better connected consultants."
+										}
+									]
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_ZnkE_sbYq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily_znke"
+								}
+							},
+							{
+								"public_id": "IMG_2625_emqo_immK",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FIMG_2625_emqo_immK.mp4?generation=1569222370375789&alt=media",
+								"size": "33676189",
+								"lastModified": 1568791124907,
+								"lastModifiedDate": "2019-09-23T07:06:10.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 77.811,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4"
+								],
+								"transformedPublicIds": [
+									"IMG_2625_emqo_immK"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "img_2625_emqo"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [
+							{
+								"public_id": "a1b62d98-d94b-a8bd-a1da-8be89c424361",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\n我是个很酷\n\n2\n00:00:04,800 --> 00:00:05,900\n的人这是我的\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "我是个很酷"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "的人这是我的"
+										}
+									],
+									"translatedString": "我是个很酷的人这是我的",
+									"alignment": "0:2-0:2 6:9-3:4 16:19-5:6 21:26-7:10",
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"font": "Noto Sans SC Regular"
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf",
+								"version": 1568565008,
+								"signature": "cd0537d8afe27f3444af4dce1c4b72261d35023e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-15T16:30:08Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 483088,
+								"type": "upload",
+								"etag": "076f48a058b58496208b8ce893590c0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128091,
+								"duration": 30.171429,
+								"original_filename": "modernFamily",
+								"path": "v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.jpg",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf"
+								],
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "现代家庭"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
