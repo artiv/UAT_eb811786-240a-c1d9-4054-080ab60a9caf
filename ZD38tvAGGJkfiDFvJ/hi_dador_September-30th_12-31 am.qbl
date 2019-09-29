@@ -1,0 +1,415 @@
+{
+	"fileName": "hi_dador_September-30th_12-31 am.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "5921702e-57d6-0b7c-d7a8-553c706c60fb",
+			"fileItemDate": "2019-09-29T19:01:30.629Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "KHW5qGuD9v2QAEREf",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "modernFamily_ZnkE_sbYq",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_ZnkE_sbYq.mp4?generation=1569219013584601&alt=media",
+								"size": "977007",
+								"lastModified": 1557474712590,
+								"lastModifiedDate": "2019-09-23T06:10:13.584Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.279,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:12,800 --> 00:00:14,900\nLa fidé\n\n2\n00:00:14,900 --> 00:00:15,950\nlité à\n\n3\n00:00:15,950 --> 00:00:17,000\n la marque est en déclin. Les consommateurs adoptent une \n\n4\n00:00:17,000 --> 00:00:19,000\nère transformatrice de données accessibles.\n",
+									"parsed": [
+										{
+											"start": 12800,
+											"end": 14900,
+											"text": "La fidé"
+										},
+										{
+											"start": 14900,
+											"end": 15950,
+											"text": "lité à"
+										},
+										{
+											"start": 15950,
+											"end": 17000,
+											"text": " la marque est en déclin. Les consommateurs adoptent une "
+										},
+										{
+											"start": 17000,
+											"end": 19000,
+											"text": "ère transformatrice de données accessibles."
+										}
+									],
+									"translatedString": "La fidélité à la marque est en déclin. Les consommateurs adoptent une ère transformatrice de données accessibles.",
+									"alignment": "0:4-0:1 0:4-17:22 6:12-3:10 14:15-24:26 17:18-28:29 20:27-31:37 29:37-39:41 29:37-43:55 39:41-57:64 53:53-66:68 55:68-74:88 70:72-70:72 74:75-90:91 88:92-101:112 88:92-93:99",
+									"originalCaptionString": "1\n00:00:12,800 --> 00:00:17,000\nBrand loyalty is in decline. Consumers are embracing a\n\n2\n00:00:17,000 --> 00:00:19,000\ntransformative age of accessible data.\n",
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_ZnkE_sbYq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamilyznke"
+								}
+							},
+							{
+								"public_id": "IMG_2625_emqo_immK",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FIMG_2625_emqo_immK.mp4?generation=1569222370375789&alt=media",
+								"size": "33676189",
+								"lastModified": 1568791124907,
+								"lastModifiedDate": "2019-09-23T07:06:10.375Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 77.811,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:20,700 --> 00:00:21,600\nAujourd'hui, nous célébrons \n\n2\n00:00:21,600 --> 00:00:23,100\ndeux jalons fantastiques. \n\n3\n00:00:23,100 --> 00:00:24,350\nLe p\n\n4\n00:00:24,350 --> 00:00:25,600\nremier est le premier anniversaire \n\n5\n00:00:25,600 --> 00:00:31,200\ndes connexions Samoa américaines \n\n6\n00:00:31,200 --> 00:00:31,200\nau câble Hawaiki. Et le second est le lancement du campus holo.\n",
+									"parsed": [
+										{
+											"start": 20700,
+											"end": 21600,
+											"text": "Aujourd'hui, nous célébrons "
+										},
+										{
+											"start": 21600,
+											"end": 23100,
+											"text": "deux jalons fantastiques. "
+										},
+										{
+											"start": 23100,
+											"end": 24350,
+											"text": "Le p"
+										},
+										{
+											"start": 24350,
+											"end": 25600,
+											"text": "remier est le premier anniversaire "
+										},
+										{
+											"start": 25600,
+											"end": 31200,
+											"text": "des connexions Samoa américaines "
+										},
+										{
+											"start": 31200,
+											"end": 31200,
+											"text": "au câble Hawaiki. Et le second est le lancement du campus holo."
+										}
+									],
+									"translatedString": "Aujourd'hui, nous célébrons deux jalons fantastiques. Le premier est le premier anniversaire des connexions Samoa américaines au câble Hawaiki. Et le second est le lancement du campus holo.",
+									"alignment": "0:4-0:11 6:7-13:16 13:23-18:26 25:27-28:31 39:49-40:52 39:49-33:38 51:53-54:55 55:59-57:63 65:66-65:67 68:70-69:70 72:76-72:78 78:81-80:91 95:96-93:95 98:105-114:124 98:105-108:112 113:123-97:106 128:130-126:127 132:138-135:142 140:145-129:133 147:149-144:145 151:153-147:148 155:160-150:155 162:163-157:159 165:167-161:162 169:174-164:172 176:177-174:175 184:190-184:188 184:190-177:182",
+									"originalCaptionString": "1\n00:00:20,700 --> 00:00:21,600\nToday we are celebrating\n\n2\n00:00:21,600 --> 00:00:23,100\ntwo fantastic milestones.\n\n3\n00:00:23,100 --> 00:00:25,600\nThe first one is the first year anniversary\n\n4\n00:00:25,600 --> 00:00:27,300\nof American Samoa\n\n5\n00:00:27,300 --> 00:00:31,200\nconnections to the Hawaiki cable. And the second is the launch of holo campus.\n",
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/IMG_2625_emqo_immK.mp4"
+								],
+								"transformedPublicIds": [
+									"IMG_2625_emqo_immK"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "img-2625-emqo"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [
+							{
+								"public_id": "a1b62d98-d94b-a8bd-a1da-8be89c424361",
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool very\n\n2\n00:00:04,800 --> 00:00:05,900\nguy. that's my\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool very"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy. that's my"
+										}
+									]
+								},
+								"overlays": [],
+								"is_audio": true,
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							},
+							{
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf",
+								"version": 1568565008,
+								"signature": "cd0537d8afe27f3444af4dce1c4b72261d35023e",
+								"width": 0,
+								"height": 0,
+								"format": "mp3",
+								"resource_type": "video",
+								"created_at": "2019-09-15T16:30:08Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 483088,
+								"type": "upload",
+								"etag": "076f48a058b58496208b8ce893590c0b",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "mp3",
+									"bit_rate": "128000",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {},
+								"is_audio": true,
+								"bit_rate": 128091,
+								"duration": 30.171429,
+								"original_filename": "modernFamily",
+								"path": "v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.jpg",
+								"overlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1568565008/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf.mp3"
+								],
+								"transformedPublicIds": [
+									"UAT_eb811786-240a-c1d9-4054-080ab60a9caf/modernFamily_kbqexf"
+								],
+								"embed": {
+									"width": 0,
+									"height": 0,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
