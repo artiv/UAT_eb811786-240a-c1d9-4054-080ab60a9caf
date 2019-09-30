@@ -51,57 +51,6 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "modernFamily_ZnkE_sbYq",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_ZnkE_sbYq.mp4?generation=1569219013584601&alt=media",
-								"size": "977007",
-								"lastModified": 1557474712590,
-								"lastModifiedDate": "2019-09-23T06:10:13.584Z",
-								"type": "video/mp4",
-								"format": "mp4",
-								"duration": 30.279,
-								"width": 480,
-								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4",
-								"overlays": [],
-								"videoOverlays": [],
-								"audioOverlays": [],
-								"captions": {
-									"captionString": "1\n00:00:12,800 --> 00:00:17,000\nBrand loyalty is in decline. Consumers are embracing a\n\n2\n00:00:17,000 --> 00:00:19,000\ntransformative age of accessible data.",
-									"parsed": [
-										{
-											"start": 12800,
-											"end": 17000,
-											"text": "Brand loyalty is in decline. Consumers are embracing a"
-										},
-										{
-											"start": 17000,
-											"end": 19000,
-											"text": "transformative age of accessible data."
-										}
-									]
-								},
-								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/modernFamily_ZnkE_sbYq.mp4"
-								],
-								"transformedPublicIds": [
-									"modernFamily_ZnkE_sbYq"
-								],
-								"embed": {
-									"width": 480,
-									"height": 360,
-									"scale": false,
-									"fit": false,
-									"limit": false,
-									"crop": false,
-									"cropGravity": "",
-									"cropFixedX": "",
-									"cropFixedY": "",
-									"altText": "",
-									"caption": "",
-									"seoSuffix": "modernfamily_znke"
-								}
-							},
-							{
 								"public_id": "IMG_2625_emqo_immK",
 								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2FIMG_2625_emqo_immK.mp4?generation=1569222370375789&alt=media",
 								"size": "33676189",
