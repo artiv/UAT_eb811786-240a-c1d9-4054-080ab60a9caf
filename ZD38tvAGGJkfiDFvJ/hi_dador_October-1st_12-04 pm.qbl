@@ -1,0 +1,661 @@
+{
+	"fileName": "hi_dador_October-1st_12-04 pm.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "abb41925-bef8-9cc4-fbf5-e7ab7209d9ed",
+			"fileItemDate": "2019-10-01T06:34:28.027Z",
+			"fileItemCollections": [
+				"ZD38tvAGGJkfiDFvJ"
+			],
+			"fileItemCollectionsForTranslation": [
+				"ZD38tvAGGJkfiDFvJ"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "KHW5qGuD9v2QAEREf",
+			"possibleLanguages": [
+				"b5Rogy97xejkfoBAE",
+				"Aigy7eAPHdGywwXxE",
+				"KHW5qGuD9v2QAEREf"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8d281913-377b-cc1a-2ce4-0c09822463a0",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
+						"fieldValues": [
+							{
+								"public_id": "sampleVideo_bJXc",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_bJXc.mp4",
+								"size": 1055736,
+								"lastModified": 1558986166768,
+								"lastModifiedDate": "2019-05-27T19:42:46.768Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 5.312,
+								"width": 1280,
+								"height": 720,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_bJXc.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:20,700 --> 00:00:21,600\nAujourd'hui, nous célébrons \n\n2\n00:00:21,600 --> 00:00:23,100\ndeux jalons fantastiques. \n\n3\n00:00:23,100 --> 00:00:25,600\nLe premier est le premier anniversaire \n\n4\n00:00:25,600 --> 00:00:31,200\ndes connexions Samoa américaines au câble Hawaiki. Et le second est le lancement du campus holo. \n\n5\n00:00:31,200 --> 00:00:31,900\nLa première \n\n6\n00:00:31,900 --> 00:00:35,200\nplate-forme tridimensionnelle d'apprentissage à distance dans le Pacifique. \n\n7\n00:00:35,200 --> 00:00:53,200\nBonjour, et bienvenue à u\n\n8\n00:00:53,200 --> 00:00:54,100\nn moment \n\n9\n00:00:54,100 --> 00:00:59,000\nqui sera considéré comme un point de repère historique pour le \n\n10\n00:00:59,000 --> 00:01:00,800\nterritoire des Samoa américaines. \n\n11\n00:01:00,800 --> 00:01:09,900\nAloha et \n\n12\n00:01:09,900 --> 00:01:12,800\nbienvenue à cet événement à l'autre moitié de celui-ci. \n\n13\n00:01:12,800 --> 00:01:15,600\nC'est un plaisir de vous voir tous. \n\n14\n00:01:15,600 --> 00:01:17,500\nIl s'agit d'un ensemble de relations \n\n15\n00:01:17,500 --> 00:01:20,000\nhabilitées par cette technologie \n\n16\n00:01:20,000 --> 00:01:25,000\net la remarquable nouvelle connexion réseau Hawaiki et nous allons utiliser \n\n17\n00:01:25,000 --> 00:01:26,900\nensemble pour les années à venir. \n\n18\n00:01:26,900 --> 00:01:30,600\nAujourd'hui, j'aimerais partager quelques résultats d'un \n\n19\n00:01:30,600 --> 00:01:31,700\nprojet qui \n\n20\n00:01:31,700 --> 00:01:34,000\nse concentre sur l'un des \n\n21\n00:01:34,000 --> 00:01:37,300\ndéfis les plus importants des Samoa \n\n22\n00:01:37,300 --> 00:01:40,600\naméricaines en matière de ressources en eau. Ce que cela nous permet vraiment de faire, c'est \n\n23\n00:01:40,600 --> 00:01:42,700\nque nous pouvons faire beaucoup plus ensemble \n\n24\n00:01:42,700 --> 00:01:43,800\net dans différents groupes, \n\n25\n00:01:43,800 --> 00:01:47,700\nmais de cette façon nous pouvons réellement créer des réunions avec nos \n\n26\n00:01:47,700 --> 00:01:49,600\néquipes. Nous pouvons partager des informations \n\n27\n00:01:49,600 --> 00:01:51,400\ncomme nous le faisons ici aujourd'hui. \n\n28\n00:01:51,400 --> 00:01:52,500\nNous pouvons offrir \n\n29\n00:01:52,500 --> 00:01:54,000\ndes cours. Nous pouvons engager \n\n30\n00:01:54,000 --> 00:01:55,100\ndes \n\n31\n00:01:55,100 --> 00:01:57,800\nconsultations. Tout cela est presque impossible \n\n32\n00:01:57,800 --> 00:02:02,900\nsans le genre de connexions directes à grande vitesse que nous démontrons ici aujourd'hui. \n\n33\n00:02:02,900 --> 00:02:06,200\nDes technologies comme celle-ci, je pouvais vraiment voir être un avantage et \n\n34\n00:02:06,200 --> 00:02:08,000\npotentiellement ouvrir une \n\n35\n00:02:08,000 --> 00:02:10,800\nsorte de programme de certificat ou quelque chose \n\n36\n00:02:10,800 --> 00:02:14,000\nà apporter aux étudiants de l'ASEC \n\n37\n00:02:14,000 --> 00:02:17,400\net de fournir certains des cours qu'ils n'ont pas la capacité d'enseigner là-bas. \n\n38\n00:02:17,400 --> 00:02:21,900\nSurtout du point de vue des étudiants maintenant, ils peuvent profiter de la \n\n39\n00:02:21,900 --> 00:02:24,400\nqualité de l'enseignement de l'Université d'Hawaï. \n\n40\n00:02:24,400 --> 00:02:26,300\nEt nous avons des amis comme aller et \n\n41\n00:02:26,300 --> 00:02:33,300\nnous espérons que vous continuerez. \n\n42\n00:02:33,300 --> 00:02:40,400\nJe suis actuellement \n\n43\n00:02:40,400 --> 00:02:42,700\nla poursuite de ma maîtrise \n\n44\n00:02:42,700 --> 00:02:44,700\nà l'Université d'Hawaï \n\n45\n00:02:44,700 --> 00:02:47,400\net nous en apprenons davantage sur cette \n\n46\n00:02:47,400 --> 00:02:48,300\néducation à la \n\n47\n00:02:48,300 --> 00:02:52,500\nvapeur et avec l'Internet haute vitesse. Je peux y accéder de ma maison \n\n48\n00:02:52,500 --> 00:02:59,200\nen dehors de l'école parce qu'avant je ferais le travail à l'école parce que c'est l'endroit le plus rapide que je peux trouver l'accès à Internet. \n\n49\n00:02:59,200 --> 00:03:05,700\nDepuis wiky a été \n\n50\n00:03:05,700 --> 00:03:08,700\nconnecté. Et pendant ce temps, nous avons vu environ une multiplication \n\n51\n00:03:08,700 --> 00:03:12,800\npar 10 de la quantité d'un flux de \n\n52\n00:03:12,800 --> 00:03:13,600\ndonnées à travers nos \n\n53\n00:03:13,600 --> 00:03:16,300\nclients et la deuxième vague où nous verrons un autre \n\n54\n00:03:16,300 --> 00:03:18,200\nDublin sera dans \n\n55\n00:03:18,200 --> 00:03:19,500\nl'utilisation \n\n56\n00:03:19,500 --> 00:03:21,700\ninstitutionnelle de The Sinner. Capacité, \n\n57\n00:03:21,700 --> 00:03:22,800\nen particulier pour \n\n58\n00:03:22,800 --> 00:03:24,300\nl'éducation pour les soins de santé, \n\n59\n00:03:24,300 --> 00:03:27,100\npuis pour la création d'emplois \n\n60\n00:03:27,100 --> 00:03:30,200\npour le développement de notre pays et le développement de la population \n\n61\n00:03:30,200 --> 00:03:36,700\noui, Pacifique courir les lignes de front du changement climatique. \n\n62\n00:03:36,700 --> 00:03:37,900\nNous sommes certainement \n\n63\n00:03:37,900 --> 00:03:39,000\nconfrontés à \n\n64\n00:03:39,000 --> 00:03:43,600\nl'impact plus tôt que le reste du monde et d'aider le reste du monde à voir que les \n\n65\n00:03:43,600 --> 00:03:44,300\nsolutions ont été \n\n66\n00:03:44,300 --> 00:03:47,400\nde constater qu'ils auront également besoin d'aller de l'avant \n\n67\n00:03:47,400 --> 00:03:48,700\nfondée dans certains cas \n\n68\n00:03:48,700 --> 00:03:49,300\ndans la \n\n69\n00:03:49,300 --> 00:03:51,600\nsagesse traditionnelle des insulaires du \n\n70\n00:03:51,600 --> 00:03:52,800\nPacifique. Ce sera juste une \n\n71\n00:03:52,800 --> 00:03:53,600\noccasion \n\n72\n00:03:53,600 --> 00:03:54,600\nremarquable pour les années à venir. \n\n73\n00:03:54,600 --> 00:04:01,300\nC'était une grande journée dans les Samoa américaines \n\n74\n00:04:01,300 --> 00:04:03,700\navec le Déjeuner le campus et la \n\n75\n00:04:03,700 --> 00:04:07,500\ncélébration. Je tiens à remercier toutes les équipes impliquées dans cette \n\n76\n00:04:07,500 --> 00:04:09,300\ngrande opération aujourd'hui, \n\n77\n00:04:09,300 --> 00:04:10,300\ny \n\n78\n00:04:10,300 --> 00:04:15,300\ncompris à l'American Samoa Community College et l'Université d'Hawaï \n\n79\n00:04:15,300 --> 00:04:20,100\net je souhaite tout le meilleur aux étudiants qui bénéficieront d'autres campus dans les années à venir.\n",
+									"parsed": [
+										{
+											"start": 20700,
+											"end": 21600,
+											"text": "Aujourd'hui, nous célébrons "
+										},
+										{
+											"start": 21600,
+											"end": 23100,
+											"text": "deux jalons fantastiques. "
+										},
+										{
+											"start": 23100,
+											"end": 25600,
+											"text": "Le premier est le premier anniversaire "
+										},
+										{
+											"start": 25600,
+											"end": 31200,
+											"text": "des connexions Samoa américaines au câble Hawaiki. Et le second est le lancement du campus holo. "
+										},
+										{
+											"start": 31200,
+											"end": 31900,
+											"text": "La première "
+										},
+										{
+											"start": 31900,
+											"end": 35200,
+											"text": "plate-forme tridimensionnelle d'apprentissage à distance dans le Pacifique. "
+										},
+										{
+											"start": 35200,
+											"end": 53200,
+											"text": "Bonjour, et bienvenue à u"
+										},
+										{
+											"start": 53200,
+											"end": 54100,
+											"text": "n moment "
+										},
+										{
+											"start": 54100,
+											"end": 59000,
+											"text": "qui sera considéré comme un point de repère historique pour le "
+										},
+										{
+											"start": 59000,
+											"end": 60800,
+											"text": "territoire des Samoa américaines. "
+										},
+										{
+											"start": 60800,
+											"end": 69900,
+											"text": "Aloha et "
+										},
+										{
+											"start": 69900,
+											"end": 72800,
+											"text": "bienvenue à cet événement à l'autre moitié de celui-ci. "
+										},
+										{
+											"start": 72800,
+											"end": 75600,
+											"text": "C'est un plaisir de vous voir tous. "
+										},
+										{
+											"start": 75600,
+											"end": 77500,
+											"text": "Il s'agit d'un ensemble de relations "
+										},
+										{
+											"start": 77500,
+											"end": 80000,
+											"text": "habilitées par cette technologie "
+										},
+										{
+											"start": 80000,
+											"end": 85000,
+											"text": "et la remarquable nouvelle connexion réseau Hawaiki et nous allons utiliser "
+										},
+										{
+											"start": 85000,
+											"end": 86900,
+											"text": "ensemble pour les années à venir. "
+										},
+										{
+											"start": 86900,
+											"end": 90600,
+											"text": "Aujourd'hui, j'aimerais partager quelques résultats d'un "
+										},
+										{
+											"start": 90600,
+											"end": 91700,
+											"text": "projet qui "
+										},
+										{
+											"start": 91700,
+											"end": 94000,
+											"text": "se concentre sur l'un des "
+										},
+										{
+											"start": 94000,
+											"end": 97300,
+											"text": "défis les plus importants des Samoa "
+										},
+										{
+											"start": 97300,
+											"end": 100600,
+											"text": "américaines en matière de ressources en eau. Ce que cela nous permet vraiment de faire, c'est "
+										},
+										{
+											"start": 100600,
+											"end": 102700,
+											"text": "que nous pouvons faire beaucoup plus ensemble "
+										},
+										{
+											"start": 102700,
+											"end": 103800,
+											"text": "et dans différents groupes, "
+										},
+										{
+											"start": 103800,
+											"end": 107700,
+											"text": "mais de cette façon nous pouvons réellement créer des réunions avec nos "
+										},
+										{
+											"start": 107700,
+											"end": 109600,
+											"text": "équipes. Nous pouvons partager des informations "
+										},
+										{
+											"start": 109600,
+											"end": 111400,
+											"text": "comme nous le faisons ici aujourd'hui. "
+										},
+										{
+											"start": 111400,
+											"end": 112500,
+											"text": "Nous pouvons offrir "
+										},
+										{
+											"start": 112500,
+											"end": 114000,
+											"text": "des cours. Nous pouvons engager "
+										},
+										{
+											"start": 114000,
+											"end": 115100,
+											"text": "des "
+										},
+										{
+											"start": 115100,
+											"end": 117800,
+											"text": "consultations. Tout cela est presque impossible "
+										},
+										{
+											"start": 117800,
+											"end": 122900,
+											"text": "sans le genre de connexions directes à grande vitesse que nous démontrons ici aujourd'hui. "
+										},
+										{
+											"start": 122900,
+											"end": 126200,
+											"text": "Des technologies comme celle-ci, je pouvais vraiment voir être un avantage et "
+										},
+										{
+											"start": 126200,
+											"end": 128000,
+											"text": "potentiellement ouvrir une "
+										},
+										{
+											"start": 128000,
+											"end": 130800,
+											"text": "sorte de programme de certificat ou quelque chose "
+										},
+										{
+											"start": 130800,
+											"end": 134000,
+											"text": "à apporter aux étudiants de l'ASEC "
+										},
+										{
+											"start": 134000,
+											"end": 137400,
+											"text": "et de fournir certains des cours qu'ils n'ont pas la capacité d'enseigner là-bas. "
+										},
+										{
+											"start": 137400,
+											"end": 141900,
+											"text": "Surtout du point de vue des étudiants maintenant, ils peuvent profiter de la "
+										},
+										{
+											"start": 141900,
+											"end": 144400,
+											"text": "qualité de l'enseignement de l'Université d'Hawaï. "
+										},
+										{
+											"start": 144400,
+											"end": 146300,
+											"text": "Et nous avons des amis comme aller et "
+										},
+										{
+											"start": 146300,
+											"end": 153300,
+											"text": "nous espérons que vous continuerez. "
+										},
+										{
+											"start": 153300,
+											"end": 160400,
+											"text": "Je suis actuellement "
+										},
+										{
+											"start": 160400,
+											"end": 162700,
+											"text": "la poursuite de ma maîtrise "
+										},
+										{
+											"start": 162700,
+											"end": 164700,
+											"text": "à l'Université d'Hawaï "
+										},
+										{
+											"start": 164700,
+											"end": 167400,
+											"text": "et nous en apprenons davantage sur cette "
+										},
+										{
+											"start": 167400,
+											"end": 168300,
+											"text": "éducation à la "
+										},
+										{
+											"start": 168300,
+											"end": 172500,
+											"text": "vapeur et avec l'Internet haute vitesse. Je peux y accéder de ma maison "
+										},
+										{
+											"start": 172500,
+											"end": 179200,
+											"text": "en dehors de l'école parce qu'avant je ferais le travail à l'école parce que c'est l'endroit le plus rapide que je peux trouver l'accès à Internet. "
+										},
+										{
+											"start": 179200,
+											"end": 185700,
+											"text": "Depuis wiky a été "
+										},
+										{
+											"start": 185700,
+											"end": 188700,
+											"text": "connecté. Et pendant ce temps, nous avons vu environ une multiplication "
+										},
+										{
+											"start": 188700,
+											"end": 192800,
+											"text": "par 10 de la quantité d'un flux de "
+										},
+										{
+											"start": 192800,
+											"end": 193600,
+											"text": "données à travers nos "
+										},
+										{
+											"start": 193600,
+											"end": 196300,
+											"text": "clients et la deuxième vague où nous verrons un autre "
+										},
+										{
+											"start": 196300,
+											"end": 198200,
+											"text": "Dublin sera dans "
+										},
+										{
+											"start": 198200,
+											"end": 199500,
+											"text": "l'utilisation "
+										},
+										{
+											"start": 199500,
+											"end": 201700,
+											"text": "institutionnelle de The Sinner. Capacité, "
+										},
+										{
+											"start": 201700,
+											"end": 202800,
+											"text": "en particulier pour "
+										},
+										{
+											"start": 202800,
+											"end": 204300,
+											"text": "l'éducation pour les soins de santé, "
+										},
+										{
+											"start": 204300,
+											"end": 207100,
+											"text": "puis pour la création d'emplois "
+										},
+										{
+											"start": 207100,
+											"end": 210200,
+											"text": "pour le développement de notre pays et le développement de la population "
+										},
+										{
+											"start": 210200,
+											"end": 216700,
+											"text": "oui, Pacifique courir les lignes de front du changement climatique. "
+										},
+										{
+											"start": 216700,
+											"end": 217900,
+											"text": "Nous sommes certainement "
+										},
+										{
+											"start": 217900,
+											"end": 219000,
+											"text": "confrontés à "
+										},
+										{
+											"start": 219000,
+											"end": 223600,
+											"text": "l'impact plus tôt que le reste du monde et d'aider le reste du monde à voir que les "
+										},
+										{
+											"start": 223600,
+											"end": 224300,
+											"text": "solutions ont été "
+										},
+										{
+											"start": 224300,
+											"end": 227400,
+											"text": "de constater qu'ils auront également besoin d'aller de l'avant "
+										},
+										{
+											"start": 227400,
+											"end": 228700,
+											"text": "fondée dans certains cas "
+										},
+										{
+											"start": 228700,
+											"end": 229300,
+											"text": "dans la "
+										},
+										{
+											"start": 229300,
+											"end": 231600,
+											"text": "sagesse traditionnelle des insulaires du "
+										},
+										{
+											"start": 231600,
+											"end": 232800,
+											"text": "Pacifique. Ce sera juste une "
+										},
+										{
+											"start": 232800,
+											"end": 233600,
+											"text": "occasion "
+										},
+										{
+											"start": 233600,
+											"end": 234600,
+											"text": "remarquable pour les années à venir. "
+										},
+										{
+											"start": 234600,
+											"end": 241300,
+											"text": "C'était une grande journée dans les Samoa américaines "
+										},
+										{
+											"start": 241300,
+											"end": 243700,
+											"text": "avec le Déjeuner le campus et la "
+										},
+										{
+											"start": 243700,
+											"end": 247500,
+											"text": "célébration. Je tiens à remercier toutes les équipes impliquées dans cette "
+										},
+										{
+											"start": 247500,
+											"end": 249300,
+											"text": "grande opération aujourd'hui, "
+										},
+										{
+											"start": 249300,
+											"end": 250300,
+											"text": "y "
+										},
+										{
+											"start": 250300,
+											"end": 255300,
+											"text": "compris à l'American Samoa Community College et l'Université d'Hawaï "
+										},
+										{
+											"start": 255300,
+											"end": 260100,
+											"text": "et je souhaite tout le meilleur aux étudiants qui bénéficieront d'autres campus dans les années à venir."
+										}
+									],
+									"translatedString": "Aujourd'hui, nous célébrons deux jalons fantastiques. Le premier est le premier anniversaire des connexions Samoa américaines au câble Hawaiki. Et le second est le lancement du campus holo. La première plate-forme tridimensionnelle d'apprentissage à distance dans le Pacifique. Bonjour, et bienvenue à un moment qui sera considéré comme un point de repère historique pour le territoire des Samoa américaines. Aloha et bienvenue à cet événement à l'autre moitié de celui-ci. C'est un plaisir de vous voir tous. Il s'agit d'un ensemble de relations habilitées par cette technologie et la remarquable nouvelle connexion réseau Hawaiki et nous allons utiliser ensemble pour les années à venir. Aujourd'hui, j'aimerais partager quelques résultats d'un projet qui se concentre sur l'un des défis les plus importants des Samoa américaines en matière de ressources en eau. Ce que cela nous permet vraiment de faire, c'est que nous pouvons faire beaucoup plus ensemble et dans différents groupes, mais de cette façon nous pouvons réellement créer des réunions avec nos équipes. Nous pouvons partager des informations comme nous le faisons ici aujourd'hui. Nous pouvons offrir des cours. Nous pouvons engager des consultations. Tout cela est presque impossible sans le genre de connexions directes à grande vitesse que nous démontrons ici aujourd'hui. Des technologies comme celle-ci, je pouvais vraiment voir être un avantage et potentiellement ouvrir une sorte de programme de certificat ou quelque chose à apporter aux étudiants de l'ASEC et de fournir certains des cours qu'ils n'ont pas la capacité d'enseigner là-bas. Surtout du point de vue des étudiants maintenant, ils peuvent profiter de la qualité de l'enseignement de l'Université d'Hawaï. Et nous avons des amis comme aller et nous espérons que vous continuerez. Je suis actuellement la poursuite de ma maîtrise à l'Université d'Hawaï et nous en apprenons davantage sur cette éducation à la vapeur et avec l'Internet haute vitesse. Je peux y accéder de ma maison en dehors de l'école parce qu'avant je ferais le travail à l'école parce que c'est l'endroit le plus rapide que je peux trouver l'accès à Internet. Depuis wiky a été connecté. Et pendant ce temps, nous avons vu environ une multiplication par 10 de la quantité d'un flux de données à travers nos clients et la deuxième vague où nous verrons un autre Dublin sera dans l'utilisation institutionnelle de The Sinner. Capacité, en particulier pour l'éducation pour les soins de santé, puis pour la création d'emplois pour le développement de notre pays et le développement de la population oui, Pacifique courir les lignes de front du changement climatique. Nous sommes certainement confrontés à l'impact plus tôt que le reste du monde et d'aider le reste du monde à voir que les solutions ont été de constater qu'ils auront également besoin d'aller de l'avant fondée dans certains cas dans la sagesse traditionnelle des insulaires du Pacifique. Ce sera juste une occasion remarquable pour les années à venir. C'était une grande journée dans les Samoa américaines avec le Déjeuner le campus et la célébration. Je tiens à remercier toutes les équipes impliquées dans cette grande opération aujourd'hui, y compris à l'American Samoa Community College et l'Université d'Hawaï et je souhaite tout le meilleur aux étudiants qui bénéficieront d'autres campus dans les années à venir.",
+									"alignment": "0:4-0:11 6:7-13:16 13:23-18:26 25:27-28:31 39:49-40:52 39:49-33:38 51:53-54:55 55:59-57:63 65:66-65:67 68:70-69:70 72:76-72:78 78:81-80:91 95:96-93:95 98:105-114:124 98:105-108:112 113:123-97:106 128:130-126:127 132:138-135:142 140:145-129:133 147:149-144:145 151:153-147:148 155:160-150:155 162:163-157:159 165:167-161:162 169:174-164:172 176:177-174:175 184:190-184:188 184:190-177:182 192:194-190:191 196:200-193:200 208:218-214:230 220:225-250:257 220:225-248:248 227:234-232:246 236:243-202:212 245:246-259:262 248:250-264:265 252:259-267:276 266:273-278:285 275:277-287:288 279:285-290:298 287:288-300:300 290:290-302:303 292:297-305:310 299:302-312:314 304:307-316:319 312:317-321:329 327:328-331:335 330:330-337:338 332:339-356:365 341:348-349:354 341:348-340:344 350:352-367:370 354:356-372:373 358:366-375:384 368:369-386:388 380:385-396:407 380:385-390:394 387:391-409:413 393:395-415:416 397:403-418:426 405:406-428:428 408:411-430:432 413:417-434:442 419:420-444:444 426:430-446:452 432:435-454:459 437:438-461:462 440:442-464:472 444:447-474:478 449:452-483:489 454:454-480:481 465:466-491:492 468:470-499:502 472:474-494:497 476:479-504:508 481:484-513:518 489:489-520:523 491:493-525:532 495:496-534:535 498:510-537:545 512:520-547:556 522:523-558:560 525:528-562:566 530:539-568:578 541:543-580:581 545:547-583:584 560:562-586:596 560:562-598:605 564:570-624:630 572:578-617:622 580:589-607:615 591:593-632:633 595:596-635:638 598:601-640:645 606:610-647:654 612:619-656:663 621:623-665:668 625:629-674:679 631:632-681:681 634:638-683:688 640:644-690:701 646:648-703:712 658:662-714:721 664:667-723:730 669:675-732:740 682:682-742:745 684:690-747:752 692:695-754:756 697:698-758:759 700:706-761:769 708:709-771:773 711:713-775:778 715:716-780:782 718:725-820:830 727:733-814:818 727:733-810:812 735:738-794:797 740:748-799:808 750:754-857:858 750:754-835:841 756:763-846:855 765:775-860:863 765:775-784:788 777:780-865:866 782:785-872:875 782:785-868:870 787:792-889:896 794:800-882:887 802:803-877:880 808:809-901:906 811:812-908:912 814:815-918:921 817:819-923:929 821:822-931:935 824:827-937:944 829:832-946:949 834:841-951:958 843:845-960:961 847:848-963:966 850:858-968:977 860:866-979:986 868:870-988:991 872:875-996:1000 877:879-1002:1006 881:882-1008:1011 881:882-993:994 884:886-1013:1019 888:895-1021:1030 897:902-1032:1036 904:911-1042:1049 904:911-1038:1040 913:916-1051:1054 918:920-1056:1058 922:927-1060:1067 930:931-1069:1072 933:935-1074:1080 937:941-1082:1089 943:953-1095:1106 943:953-1091:1093 960:961-1108:1112 963:967-1122:1128 963:967-1114:1117 975:978-1130:1132 980:985-1134:1145 987:988-1147:1150 990:992-1152:1158 994:998-1160:1165 1000:1007-1171:1176 1000:1007-1167:1169 1009:1010-1178:1181 1012:1014-1183:1189 1016:1021-1191:1197 1026:1039-1203:1216 1026:1039-1199:1201 1041:1043-1218:1221 1048:1051-1223:1226 1053:1054-1228:1230 1056:1061-1232:1238 1063:1072-1240:1249 1074:1080-1251:1254 1082:1084-1256:1257 1086:1089-1259:1263 1091:1092-1265:1266 1094:1099-1279:1286 1101:1110-1297:1303 1101:1110-1290:1295 1112:1122-1268:1277 1124:1127-1305:1307 1129:1133-1309:1312 1135:1147-1314:1323 1149:1152-1325:1327 1154:1159-1329:1340 1161:1172-1346:1357 1161:1172-1342:1344 1174:1177-1359:1363 1179:1182-1365:1373 1184:1184-1375:1376 1186:1190-1378:1384 1192:1197-1386:1393 1199:1201-1395:1398 1203:1207-1400:1403 1209:1209-1405:1406 1211:1217-1408:1415 1219:1221-1417:1418 1223:1233-1420:1434 1235:1241-1436:1441 1246:1246-1443:1445 1248:1251-1447:1451 1253:1254-1453:1454 1253:1254-1466:1467 1258:1268-1469:1478 1270:1276-1456:1464 1278:1279-1480:1481 1281:1289-1491:1495 1281:1289-1483:1489 1291:1292-1497:1497 1294:1298-1499:1506 1300:1301-1508:1510 1307:1314-1512:1520 1316:1317-1522:1523 1319:1322-1525:1530 1324:1326-1532:1533 1328:1334-1535:1536 1328:1334-1538:1544 1336:1339-1546:1553 1341:1342-1555:1557 1348:1354-1559:1563 1361:1364-1565:1570 1366:1370-1578:1580 1372:1375-1572:1576 1377:1379-1582:1583 1381:1388-1585:1592 1393:1397-1594:1604 1399:1404-1606:1612 1406:1415-1614:1620 1417:1420-1622:1623 1417:1420-1631:1632 1417:1420-1638:1640 1424:1430-1642:1650 1432:1442-1634:1636 1432:1442-1625:1629 1444:1446-1652:1662 1448:1451-1664:1666 1453:1455-1668:1674 1457:1461-1676:1683 1463:1465-1688:1689 1467:1473-1691:1697 1475:1476-1699:1700 1475:1476-1685:1686 1478:1488-1702:1715 1490:1493-1717:1718 1499:1508-1720:1731 1513:1519-1733:1740 1521:1523-1742:1743 1525:1526-1745:1748 1525:1526-1750:1754 1528:1531-1756:1758 1533:1539-1760:1763 1541:1544-1765:1769 1546:1547-1771:1775 1552:1554-1777:1778 1556:1557-1780:1783 1559:1562-1785:1792 1564:1567-1794:1796 1569:1571-1798:1801 1578:1586-1803:1814 1588:1590-1816:1817 1588:1590-1819:1822 1592:1600-1824:1835 1602:1609-1840:1848 1602:1609-1837:1838 1611:1612-1853:1854 1614:1620-1856:1863 1622:1625-1865:1865 1631:1640-1867:1878 1645:1650-1880:1886 1652:1654-1888:1889 1656:1660-1891:1894 1656:1660-1896:1897 1662:1669-1899:1907 1671:1674-1909:1917 1676:1680-1919:1921 1682:1685-1923:1927 1687:1691-1944:1949 1687:1691-1941:1942 1693:1701-1929:1937 1703:1705-1951:1952 1707:1710-1954:1957 1712:1714-1959:1968 1716:1725-1970:1974 1727:1735-1976:1983 1737:1737-1985:1986 1739:1741-1988:1991 1743:1748-1995:2001 1743:1748-1993:1993 1753:1756-2003:2004 1758:1759-2006:2007 1761:1764-2009:2014 1766:1770-2019:2024 1766:1770-2016:2017 1772:1775-2026:2027 1781:1786-2029:2035 1788:1794-2037:2041 1796:1801-2043:2050 1803:1803-2052:2053 1811:1812-2055:2060 1814:1816-2062:2063 1818:1821-2065:2071 1823:1824-2073:2073 1826:1831-2075:2081 1833:1839-2083:2087 1841:1846-2093:2097 1841:1846-2089:2091 1848:1850-2109:2110 1852:1858-2117:2122 1852:1858-2112:2115 1860:1864-2099:2107 1866:1866-2128:2129 1866:1866-2124:2126 1868:1870-2131:2134 1872:1875-2136:2142 1877:1882-2144:2150 1884:1885-2152:2152 1891:1899-2154:2162 1901:1905-2164:2169 1907:1910-2171:2174 1912:1914-2178:2180 1912:1914-2176:2176 1916:1925-2182:2190 1927:1929-2192:2193 1931:1932-2195:2201 1934:1937-2203:2204 1939:1942-2206:2211 1944:1948-2213:2216 1944:1948-2218:2222 1950:1953-2224:2225 1955:1959-2227:2233 1961:1961-2235:2237 1963:1969-2239:2252 1971:1972-2258:2259 1988:1990-2264:2265 1992:1997-2267:2274 1999:2000-2276:2279 1999:2000-2286:2287 2004:2007-2289:2295 2009:2012-2281:2284 2014:2020-2297:2297 2014:2020-2299:2305 2022:2024-2307:2309 2026:2034-2311:2317 2036:2038-2319:2320 2040:2042-2322:2323 2044:2049-2325:2332 2051:2054-2334:2338 2056:2060-2340:2341 2062:2066-2348:2354 2062:2066-2343:2346 2072:2078-2359:2363 2072:2078-2356:2357 2080:2085-2365:2370 2092:2093-2372:2375 2095:2096-2377:2380 2102:2114-2396:2411 2116:2118-2382:2394 2123:2124-2413:2414 2126:2128-2416:2418 2130:2136-2420:2426 2138:2146-2428:2436 2148:2157-2441:2451 2148:2157-2438:2439 2159:2161-2453:2456 2163:2171-2458:2468 2163:2171-2475:2477 2173:2175-2470:2473 2177:2186-2479:2483 2177:2186-2488:2493 2192:2195-2495:2498 2197:2199-2500:2503 2201:2203-2517:2525 2205:2212-2508:2515 2214:2215-2527:2530 2217:2219-2532:2533 2217:2219-2505:2506 2221:2231-2535:2547 2233:2234-2549:2550 2236:2238-2552:2556 2240:2246-2558:2561 2248:2250-2563:2564 2252:2254-2566:2567 2256:2266-2569:2581 2268:2269-2583:2584 2271:2273-2586:2587 2275:2280-2589:2598 2282:2285-2600:2603 2287:2293-2605:2613 2295:2297-2615:2620 2299:2301-2622:2624 2303:2307-2636:2640 2303:2307-2626:2631 2315:2316-2642:2643 2315:2316-2633:2634 2326:2332-2656:2666 2326:2332-2645:2654 2335:2339-2668:2671 2335:2339-2673:2678 2341:2349-2680:2691 2351:2353-2693:2702 2355:2360-2704:2704 2366:2371-2706:2713 2373:2378-2720:2722 2373:2378-2715:2718 2380:2383-2724:2726 2385:2387-2728:2729 2389:2392-2731:2735 2394:2395-2737:2738 2401:2405-2740:2744 2407:2409-2746:2747 2411:2417-2749:2755 2419:2421-2757:2758 2423:2426-2760:2764 2428:2429-2766:2767 2435:2439-2769:2773 2441:2443-2777:2780 2445:2448-2782:2784 2450:2452-2786:2788 2454:2462-2790:2798 2464:2467-2804:2806 2464:2467-2800:2802 2469:2475-2811:2819 2469:2475-2808:2809 2482:2485-2821:2826 2487:2490-2828:2833 2492:2495-2835:2843 2497:2500-2845:2850 2509:2515-2863:2869 2509:2515-2852:2858 2517:2524-2871:2876 2526:2527-2878:2881 2529:2532-2883:2890 2534:2538-2892:2894 2540:2541-2896:2899 2543:2545-2901:2902 2547:2557-2912:2925 2559:2564-2904:2910 2566:2567-2927:2929 2573:2579-2942:2943 2581:2590-2945:2954 2581:2590-2931:2940 2592:2597-2956:2957 2599:2602-2964:2968 2613:2614-2959:2962 2616:2616-2970:2972 2618:2627-2983:2993 2629:2639-2974:2981 2641:2643-2995:2998 2641:2643-3000:3002 2645:2649-3004:3009 2651:2652-3011:3011 2654:2658-3013:3018 2660:2661-3020:3026 2667:2667-3028:3030 2669:2673-3032:3037 2675:2677-3039:3045 2679:2680-3047:3050 2682:2689-3062:3072 2691:2695-3056:3060 2697:2700-3074:3077 2702:2704-3079:3080 2706:2714-3082:3089 2716:2718-3091:3092 2720:2725-3094:3099 2727:2729-3101:3102 2731:2733-3104:3105 2735:2746-3107:3118 2748:2748-3120:3121 2756:2759-3123:3127 2761:2762-3129:3129 2764:2768-3131:3139 2770:2772-3141:3146 2770:2772-3148:3150 2778:2782-3152:3158 2784:2791-3160:3169 2793:2794-3171:3174 2796:2799-3176:3180 2801:2805-3182:3187 2807:2815-3189:3197 2817:2821-3199:3210 2823:2831-3214:3220 2823:2831-3212:3212 2833:2834-3222:3222 2840:2847-3224:3233 2849:2853-3235:3239 2855:2863-3241:3249 2865:2871-3251:3257 2873:2875-3259:3260 2881:2890-3262:3273 2895:2900-3275:3281 2902:2904-3283:3284 2906:2909-3289:3296 2906:2909-3286:3287 2911:2913-3298:3301 2915:2917-3303:3304 2919:2922-3306:3313 2924:2925-3315:3317 2931:2938-3319:3327 2940:2942-3329:3331 2944:2947-3333:3345 2962:2966-3347:3354 2968:2973-3356:3361 2975:2976-3363:3366 2978:2980-3368:3370 2982:2986-3372:3377 2988:2989-3379:3379 2991:2995-3381:3386",
+									"originalCaptionString": "1\n00:00:20,700 --> 00:00:21,600\nToday we are celebrating\n\n2\n00:00:21,600 --> 00:00:23,100\ntwo fantastic milestones.\n\n3\n00:00:23,100 --> 00:00:25,600\nThe first one is the first year anniversary\n\n4\n00:00:25,600 --> 00:00:27,300\nof American Samoa\n\n5\n00:00:27,300 --> 00:00:31,200\nconnections to the Hawaiki cable. And the second is the launch of holo campus.\n\n6\n00:00:31,200 --> 00:00:31,900\nThe first\n\n7\n00:00:31,900 --> 00:00:32,600\nthree dimensional\n\n8\n00:00:32,600 --> 00:00:33,900\nremote learning\n\n9\n00:00:33,900 --> 00:00:35,200\nplatform in the Pacific.\n\n10\n00:00:51,700 --> 00:00:53,200\nGood morning, and welcome to\n\n11\n00:00:53,200 --> 00:00:54,100\na moment\n\n12\n00:00:54,100 --> 00:00:54,800\nthat\n\n13\n00:00:54,800 --> 00:00:57,300\nwill be looked back on as a historic\n\n14\n00:00:57,300 --> 00:00:59,000\nlandmark for the\n\n15\n00:00:59,000 --> 00:01:00,800\nterritory of American Samoa.\n\n16\n00:01:08,000 --> 00:01:09,900\nAloha and\n\n17\n00:01:09,900 --> 00:01:12,800\nwelcome to this event to the other half of it.\n\n18\n00:01:12,800 --> 00:01:15,600\nIt's such a pleasure to see you all.\n\n19\n00:01:15,600 --> 00:01:17,500\nThis is a set of relationships\n\n20\n00:01:17,500 --> 00:01:20,000\nempowered by this technology\n\n21\n00:01:20,000 --> 00:01:22,100\nand the remarkable new Hawaiki\n\n22\n00:01:22,100 --> 00:01:22,800\nnetwork\n\n23\n00:01:22,800 --> 00:01:25,000\nconnection and we will be using\n\n24\n00:01:25,000 --> 00:01:25,700\ntogether\n\n25\n00:01:25,700 --> 00:01:26,900\nfor years to come.\n\n26\n00:01:26,900 --> 00:01:30,600\nToday I'd like to share some results from a\n\n27\n00:01:30,600 --> 00:01:31,700\nproject that\n\n28\n00:01:31,700 --> 00:01:34,000\nis focused on one of\n\n29\n00:01:34,000 --> 00:01:35,400\nAmerican Samoa's\n\n30\n00:01:35,400 --> 00:01:36,200\nmost important\n\n31\n00:01:36,200 --> 00:01:37,300\nwater resource challenges.\n\n32\n00:01:37,300 --> 00:01:39,200\nWhat this really\n\n33\n00:01:39,200 --> 00:01:40,600\nenables us to do is\n\n34\n00:01:40,600 --> 00:01:42,700\nwe can do much more together\n\n35\n00:01:42,700 --> 00:01:43,800\nand in different groups, \n\n36\n00:01:43,800 --> 00:01:47,700\nbut this way we can actually create meetings with our\n\n37\n00:01:47,700 --> 00:01:48,300\nteams.\n\n38\n00:01:48,300 --> 00:01:49,600\nWe can share information\n\n39\n00:01:49,600 --> 00:01:51,400\nsuch as we're doing here today.\n\n40\n00:01:51,400 --> 00:01:52,500\nWe can offer\n\n41\n00:01:52,500 --> 00:01:54,000\nclasses. We can engage in\n\n42\n00:01:54,000 --> 00:01:55,100\nconsultations.\n\n43\n00:01:55,100 --> 00:01:57,800\nAll of that is almost impossible\n\n44\n00:01:57,800 --> 00:02:00,500\nwithout the kind of direct high-speed\n\n45\n00:02:00,500 --> 00:02:02,900\nconnections that we're demonstrating here today.\n\n46\n00:02:02,900 --> 00:02:06,200\nTechnologies like this I could really see being a benefit and\n\n47\n00:02:06,200 --> 00:02:08,000\npotentially opening up a\n\n48\n00:02:07,900 --> 00:02:09,500\nkind of a certificate\n\n49\n00:02:09,500 --> 00:02:10,800\nprogram or something\n\n50\n00:02:10,800 --> 00:02:14,000\nto bring to the students at ASEC\n\n51\n00:02:14,000 --> 00:02:17,400\nand provide some of the courses that they don't have the capacity to teach there.\n\n52\n00:02:17,400 --> 00:02:21,300\nEspecially from a student perspective now they can enjoy the quality\n\n53\n00:02:21,300 --> 00:02:21,900\nof\n\n54\n00:02:21,900 --> 00:02:24,400\ninstruction from the University of Hawaii.\n\n55\n00:02:24,400 --> 00:02:26,300\nAnd we have friends like to go and\n\n56\n00:02:26,300 --> 00:02:33,300\nwe hope that you will continue.\n\n57\n00:02:39,400 --> 00:02:40,400\nI'm currently\n\n58\n00:02:40,400 --> 00:02:42,700\npursuing my masters\n\n59\n00:02:42,700 --> 00:02:44,700\nwith the University of Hawaii\n\n60\n00:02:44,700 --> 00:02:47,400\nand we're learning more about this\n\n61\n00:02:47,400 --> 00:02:48,300\nsteam education\n\n62\n00:02:48,300 --> 00:02:49,500\nand\n\n63\n00:02:49,500 --> 00:02:52,500\nwith the high-speed internet. I can access it from my home\n\n64\n00:02:52,500 --> 00:02:56,800\naside from the school because before I would do the work at school because that's the\n\n65\n00:02:56,800 --> 00:02:59,200\nfastest place I can find access to the internet.\n\n66\n00:03:04,500 --> 00:03:05,700\nSince wiky was\n\n67\n00:03:05,700 --> 00:03:08,700\nconnected. And in that time we've seen about a tenfold\n\n68\n00:03:08,700 --> 00:03:12,800\n10 * increase in the amount of a data flow\n\n69\n00:03:12,800 --> 00:03:13,600\nthrough our\n\n70\n00:03:13,600 --> 00:03:16,300\ncustomers and the second wave where we'll see another\n\n71\n00:03:16,300 --> 00:03:18,200\nDublin will be in the\n\n72\n00:03:18,200 --> 00:03:19,500\ninstitutional use of\n\n73\n00:03:19,500 --> 00:03:21,700\nof The Sinner. Capacity,\n\n74\n00:03:21,700 --> 00:03:22,800\nespecially for\n\n75\n00:03:22,800 --> 00:03:23,500\neducation\n\n76\n00:03:23,500 --> 00:03:24,300\nfor healthcare\n\n77\n00:03:24,300 --> 00:03:26,100\nand then for job creation\n\n78\n00:03:26,100 --> 00:03:27,100\nto the\n\n79\n00:03:27,100 --> 00:03:30,200\ndevelopment of our country and the development of the people\n\n80\n00:03:34,400 --> 00:03:34,800\nYeah,\n\n81\n00:03:34,800 --> 00:03:36,700\nPacific run the front lines of climate change.\n\n82\n00:03:36,700 --> 00:03:37,900\nWe're certainly\n\n83\n00:03:37,900 --> 00:03:39,000\nI'm facing the\n\n84\n00:03:39,000 --> 00:03:43,600\nimpact sooner than the rest of the world and helping the rest of the world see that the\n\n85\n00:03:43,600 --> 00:03:44,300\nsolutions were\n\n86\n00:03:44,300 --> 00:03:47,400\nfinding that they will also need moving forward\n\n87\n00:03:47,400 --> 00:03:48,700\ngrounded in some cases\n\n88\n00:03:48,700 --> 00:03:49,300\nin the\n\n89\n00:03:49,300 --> 00:03:51,000\ntraditional wisdom of the Pacific\n\n90\n00:03:51,000 --> 00:03:51,600\nIslanders.\n\n91\n00:03:51,600 --> 00:03:52,800\nThat's just going to be a\n\n92\n00:03:52,800 --> 00:03:53,600\nremarkable opportunity\n\n93\n00:03:53,600 --> 00:03:54,600\nfor years to come.\n\n94\n00:03:59,500 --> 00:04:01,300\nIt was a great day in American Samoa\n\n95\n00:04:01,300 --> 00:04:03,700\nwith the Lunchable the campus and the\n\n96\n00:04:03,700 --> 00:04:04,400\ncelebration.\n\n97\n00:04:04,400 --> 00:04:07,500\nI would like to thank all the teams involved in this\n\n98\n00:04:07,500 --> 00:04:08,200\ngreat\n\n99\n00:04:08,200 --> 00:04:09,300\noperation today\n\n100\n00:04:09,300 --> 00:04:10,300\nincluding\n\n101\n00:04:10,300 --> 00:04:11,200\nat\n\n102\n00:04:11,200 --> 00:04:15,300\nthe American Samoa Community College and the University of Hawaii\n\n103\n00:04:15,300 --> 00:04:20,100\nand wish all the best to the students who will benefit from other campus in the years to come.\n",
+									"font": "Noto Sans Devanagari"
+								},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_bJXc.mp4"
+								],
+								"transformedPublicIds": [
+									"sampleVideo_bJXc"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "samplevideo-(en)"
+								}
+							},
+							{
+								"public_id": "modernFamily_KYWq",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4",
+								"size": 1398635,
+								"lastModified": 1530767227603,
+								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 30.139501,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4"
+								],
+								"transformedPublicIds": [
+									"modernFamily_KYWq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "famille-moderne"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fabe39c9-fbf4-debe-6be9-8965ddc5f436",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "8c35055b-5763-2891-dbd0-ba1f7363464d",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "d81777a4-9c6a-6aaf-cee4-e2d6d6315084",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5b05b2d3-cf67-a687-d7e9-6e7b773a7e66",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsEditableCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsRequiredCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						],
+						"fieldIsMultipleCollections": [
+							"ZD38tvAGGJkfiDFvJ"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "27f7a217-be19-15d9-f470-43e559e5b16a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
