@@ -808,7 +808,37 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:05,000\nकाम हो गया\n\n2\n00:00:05,000 --> 00:00:05,600\nदशरथ\n\n3\n00:00:05,600 --> 00:00:12,800\nमहामाया\n\n4\n00:00:12,800 --> 00:00:13,700\nरवि की\n\n5\n00:00:13,700 --> 00:00:24,800\nआवश्यकता\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 5000,
+											"text": "काम हो गया"
+										},
+										{
+											"start": 5000,
+											"end": 5600,
+											"text": "दशरथ"
+										},
+										{
+											"start": 5600,
+											"end": 12800,
+											"text": "महामाया"
+										},
+										{
+											"start": 12800,
+											"end": 13700,
+											"text": "रवि की"
+										},
+										{
+											"start": 13700,
+											"end": 24800,
+											"text": "आवश्यकता"
+										}
+									],
+									"font": "Noto Sans Devanagari"
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4"
 								],
