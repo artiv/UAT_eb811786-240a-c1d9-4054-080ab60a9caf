@@ -89,7 +89,7 @@
 						"fieldKey": "69302563-ee70-3f40-032e-810ba548bdc1",
 						"fieldValues": [
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/n6qsymtea6sru0rjqrx8",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/lnp49cdru8rhfesosnl7",
 								"captions": {
 									"captionString": "hi there",
 									"parsed": [
@@ -112,21 +112,21 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"version": 1570132263,
-								"signature": "8a161d61fe1bccad44ae16095e87ef3fb732b02c",
+								"version": 1570132469,
+								"signature": "ffc86dfc21f497c78cba8ab484e4f4c6ccd03f33",
 								"width": 0,
 								"height": 0,
 								"format": "mp3",
 								"resource_type": "video",
-								"created_at": "2019-10-03T19:51:03Z",
+								"created_at": "2019-10-03T19:54:29Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3072,
+								"bytes": 3264,
 								"type": "upload",
-								"etag": "bb332e78dd78683559d3533907e80e85",
+								"etag": "243f27e92e685df590b55cedab746806",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1570132263/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/n6qsymtea6sru0rjqrx8.mp3",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1570132263/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/n6qsymtea6sru0rjqrx8.mp3",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1570132469/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/lnp49cdru8rhfesosnl7.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1570132469/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/lnp49cdru8rhfesosnl7.mp3",
 								"access_mode": "public",
 								"audio": {
 									"codec": "mp3",
@@ -137,10 +137,10 @@
 								},
 								"video": {},
 								"bit_rate": 32000,
-								"duration": 0.768
+								"duration": 0.816
 							},
 							{
-								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/oy6w7olfkpmfeeka1bpl",
+								"public_id": "UAT_eb811786-240a-c1d9-4054-080ab60a9caf/pey60057usuvq9eykcpo",
 								"captions": {
 									"captionString": "how are you",
 									"parsed": [
@@ -163,21 +163,21 @@
 									"caption": "",
 									"seoSuffix": ""
 								},
-								"version": 1570132373,
-								"signature": "5b9b058b3828e01ba6fa4d3c6a25cd173c4e4c6f",
+								"version": 1570132477,
+								"signature": "ace5a88abee1b42b39235ffd7495e180085418a6",
 								"width": 0,
 								"height": 0,
 								"format": "mp3",
 								"resource_type": "video",
-								"created_at": "2019-10-03T19:52:53Z",
+								"created_at": "2019-10-03T19:54:37Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3552,
+								"bytes": 3648,
 								"type": "upload",
-								"etag": "b33debf06ceec2ea7ae3550ae0704054",
+								"etag": "30c4d7337a00397f6e4809bba04940ba",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1570132373/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/oy6w7olfkpmfeeka1bpl.mp3",
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1570132373/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/oy6w7olfkpmfeeka1bpl.mp3",
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1570132477/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/pey60057usuvq9eykcpo.mp3",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1570132477/UAT_eb811786-240a-c1d9-4054-080ab60a9caf/pey60057usuvq9eykcpo.mp3",
 								"access_mode": "public",
 								"audio": {
 									"codec": "mp3",
@@ -188,7 +188,7 @@
 								},
 								"video": {},
 								"bit_rate": 32000,
-								"duration": 0.888
+								"duration": 0.912
 							}
 						],
 						"fieldChildren": []
