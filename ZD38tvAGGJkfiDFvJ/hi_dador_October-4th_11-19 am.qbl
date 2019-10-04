@@ -60,7 +60,146 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_bWtv.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 3,
+										"end_offset": 6.3,
+										"text": "私はクールな男だ。それは私の事です。",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8hgci",
+													"text": "私はクールな男だ。それは私の事です。",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "em6ki",
+													"text": "I'm a cool guy. That's that's my thing.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"start_offset": 6.3,
+										"end_offset": 9.4,
+										"text": "私はここで5私はウェブをサーフィンしています。",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7ja6s",
+													"text": "私はここで5私はウェブをサーフィンしています。",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "cn9ui",
+													"text": "I'm here 5 i surf the web.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -115,7 +254,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": false
+									"matchText": true
 								},
 								"contentType": "video/mp4"
 							}
