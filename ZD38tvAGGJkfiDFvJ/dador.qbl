@@ -51,17 +51,17 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "ASTCA_Chief_main_new_ny5fcc_gs7e",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4",
-								"size": 19201576,
+								"public_id": "en_ASTCA_Chief_main_new_ny5fcc_gs7e_DGaL",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_ASTCA_Chief_main_new_ny5fcc_gs7e_DGaL.mp4?generation=1570172102113223&alt=media",
+								"size": "20243779",
 								"lastModified": 1564465294390,
-								"lastModifiedDate": "2019-07-30T05:41:34.390Z",
+								"lastModifiedDate": "2019-10-04T06:55:02.112Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 322.795,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_ASTCA_Chief_main_new_ny5fcc_gs7e_DGaL.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -4873,10 +4873,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_ASTCA_Chief_main_new_ny5fcc_gs7e_DGaL.mp4"
 								],
 								"transformedPublicIds": [
-									"ASTCA_Chief_main_new_ny5fcc_gs7e"
+									"ASTCA_Chief_main_new_ny5fcc_gs7e",
+									"en_ASTCA_Chief_main_new_ny5fcc_gs7e_DGaL"
 								],
 								"embed": {
 									"width": 1920,
@@ -4905,7 +4907,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
