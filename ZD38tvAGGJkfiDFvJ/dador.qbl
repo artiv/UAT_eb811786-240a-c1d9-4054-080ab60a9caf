@@ -76,20 +76,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
+											"hex": "#f0e7e7",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 240,
+												"g": 231,
+												"b": 231,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bt6pb",
+													"key": "6tfeq",
 													"text": "I'm a cool guy. That's that's my thing.",
 													"type": "unstyled",
 													"depth": 0,
@@ -131,20 +131,20 @@
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
+											"hex": "#f0e7e7",
 											"rgb": {
-												"r": 0,
-												"g": 0,
-												"b": 0,
+												"r": 240,
+												"g": 231,
+												"b": 231,
 												"a": 1
-											},
-											"hex": "#000000"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1qfca",
+													"key": "4h001",
 													"text": "I'm here 5 i surf the web.",
 													"type": "unstyled",
 													"depth": 0,
@@ -216,7 +216,7 @@
 									"seoSuffix": "modernfamily"
 								},
 								"underlay": {
-									"show": "stripe",
+									"show": "background",
 									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
@@ -227,7 +227,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": false
+									"matchText": true
 								},
 								"contentType": "video/mp4"
 							}
