@@ -49,7 +49,45 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "ASTCA_Chief_main_new_ny5fcc_gs7e",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4",
+								"size": 19201576,
+								"lastModified": 1564465294390,
+								"lastModifiedDate": "2019-07-30T05:41:34.390Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"duration": 322.795,
+								"width": 1920,
+								"height": 1080,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FASTCA_Chief_main_new_ny5fcc_gs7e.mp4"
+								],
+								"transformedPublicIds": [
+									"ASTCA_Chief_main_new_ny5fcc_gs7e"
+								],
+								"embed": {
+									"width": 1920,
+									"height": 1080,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "astca_chief_main_new_ny5fcc"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
