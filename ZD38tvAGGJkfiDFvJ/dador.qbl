@@ -67,7 +67,10 @@
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "",
+									"parsed": []
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_SyxY.mp4"
 								],
