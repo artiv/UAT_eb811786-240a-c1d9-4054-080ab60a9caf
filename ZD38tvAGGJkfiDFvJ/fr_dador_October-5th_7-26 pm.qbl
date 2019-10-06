@@ -51,17 +51,17 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "fr_gofar_SyxY_HYF8",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Ffr_gofar_SyxY_HYF8.mp4?generation=1570376065496285&alt=media",
+								"public_id": "fr_gofar_SyxY_K2qw",
+								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Ffr_gofar_SyxY_K2qw.mp4?generation=1570376469808789&alt=media",
 								"size": "23645244",
 								"lastModified": 1548869742258,
-								"lastModifiedDate": "2019-10-06T15:34:25.496Z",
+								"lastModifiedDate": "2019-10-06T15:41:09.808Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 204.475,
 								"width": 854,
 								"height": 480,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_HYF8.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_K2qw.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -6556,13 +6556,13 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_SyxY.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_7EvZ.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_PHtM.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_HYF8.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_K2qw.mp4"
 								],
 								"transformedPublicIds": [
 									"gofar_SyxY",
 									"fr_gofar_SyxY_7EvZ",
 									"fr_gofar_SyxY_PHtM",
-									"fr_gofar_SyxY_HYF8"
+									"fr_gofar_SyxY_K2qw"
 								],
 								"embed": {
 									"width": 854,
