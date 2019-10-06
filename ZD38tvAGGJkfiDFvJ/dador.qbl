@@ -72,17 +72,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Today we are celebrating",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -91,7 +91,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2qqqk",
+													"key": "3a81i",
 													"text": "Today we are celebrating",
 													"type": "unstyled",
 													"depth": 0,
@@ -127,17 +127,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "two fantastic milestones.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -146,7 +146,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1s9m9",
+													"key": "fpj4n",
 													"text": "two fantastic milestones.",
 													"type": "unstyled",
 													"depth": 0,
@@ -182,17 +182,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "The first one is the first year anniversary",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -201,7 +201,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dl9u",
+													"key": "6q36f",
 													"text": "The first one is the first year anniversary",
 													"type": "unstyled",
 													"depth": 0,
@@ -237,17 +237,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "of American Samoa",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -256,7 +256,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c7t0j",
+													"key": "dd0ge",
 													"text": "of American Samoa",
 													"type": "unstyled",
 													"depth": 0,
@@ -292,17 +292,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "connections to the Hawaiki cable. The second is the launch of holo-campus.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -311,7 +311,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dhrj3",
+													"key": "cch80",
 													"text": "connections to the Hawaiki cable. The second is the launch of holo-campus.",
 													"type": "unstyled",
 													"depth": 0,
@@ -347,17 +347,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "The first three dimensional remote learning",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -366,7 +366,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "afldl",
+													"key": "aon5d",
 													"text": "The first three dimensional remote learning",
 													"type": "unstyled",
 													"depth": 0,
@@ -402,17 +402,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "platform in the Pacific.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -421,7 +421,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fvapb",
+													"key": "8gk2j",
 													"text": "platform in the Pacific.",
 													"type": "unstyled",
 													"depth": 0,
@@ -457,17 +457,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Good morning, and welcome to a moment",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -476,7 +476,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "586cg",
+													"key": "776n0",
 													"text": "Good morning, and welcome to a moment",
 													"type": "unstyled",
 													"depth": 0,
@@ -512,17 +512,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "that will be looked back on as a historic",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -531,7 +531,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3td09",
+													"key": "58qfh",
 													"text": "that will be looked back on as a historic",
 													"type": "unstyled",
 													"depth": 0,
@@ -567,17 +567,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "landmark for the",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -586,7 +586,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3c8hi",
+													"key": "5v508",
 													"text": "landmark for the",
 													"type": "unstyled",
 													"depth": 0,
@@ -622,17 +622,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "territory of American Samoa.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -641,7 +641,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "evrfl",
+													"key": "easip",
 													"text": "territory of American Samoa.",
 													"type": "unstyled",
 													"depth": 0,
@@ -677,17 +677,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Aloha and",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -696,7 +696,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4pq9b",
+													"key": "5sl7h",
 													"text": "Aloha and",
 													"type": "unstyled",
 													"depth": 0,
@@ -732,17 +732,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "welcome to this event. To the other half of it.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -751,7 +751,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "umg9",
+													"key": "6fosn",
 													"text": "welcome to this event. To the other half of it.",
 													"type": "unstyled",
 													"depth": 0,
@@ -787,17 +787,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "It's such a pleasure to see you all.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -806,7 +806,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ahsmb",
+													"key": "8rkhr",
 													"text": "It's such a pleasure to see you all.",
 													"type": "unstyled",
 													"depth": 0,
@@ -842,17 +842,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "This is a set of relationships",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -861,7 +861,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9n44c",
+													"key": "mq87",
 													"text": "This is a set of relationships",
 													"type": "unstyled",
 													"depth": 0,
@@ -897,17 +897,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "empowered by this technology",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -916,7 +916,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b3p6v",
+													"key": "5lirt",
 													"text": "empowered by this technology",
 													"type": "unstyled",
 													"depth": 0,
@@ -952,17 +952,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and the remarkable new Hawaiki network",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -971,7 +971,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "au8gr",
+													"key": "5uhee",
 													"text": "and the remarkable new Hawaiki network",
 													"type": "unstyled",
 													"depth": 0,
@@ -1007,17 +1007,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "connection and we will be using",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1026,7 +1026,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dovg5",
+													"key": "9p8ib",
 													"text": "connection and we will be using",
 													"type": "unstyled",
 													"depth": 0,
@@ -1062,17 +1062,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "together for years to come.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1081,7 +1081,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "anfbh",
+													"key": "1e79l",
 													"text": "together for years to come.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1117,17 +1117,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Today I'd like to share some results from a",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1136,7 +1136,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5tps6",
+													"key": "cbbp6",
 													"text": "Today I'd like to share some results from a",
 													"type": "unstyled",
 													"depth": 0,
@@ -1172,17 +1172,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "project that",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1191,7 +1191,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9e6lk",
+													"key": "5qjvm",
 													"text": "project that",
 													"type": "unstyled",
 													"depth": 0,
@@ -1227,17 +1227,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "is focused on one of",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1246,7 +1246,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "vi93",
+													"key": "5046t",
 													"text": "is focused on one of",
 													"type": "unstyled",
 													"depth": 0,
@@ -1282,17 +1282,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "American Samoa's",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1301,7 +1301,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "436lr",
+													"key": "2c4mc",
 													"text": "American Samoa's",
 													"type": "unstyled",
 													"depth": 0,
@@ -1337,17 +1337,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "most important",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1356,7 +1356,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3crrs",
+													"key": "6i9pq",
 													"text": "most important",
 													"type": "unstyled",
 													"depth": 0,
@@ -1392,17 +1392,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "water resource challenges.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1411,7 +1411,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e0gmt",
+													"key": "eho1t",
 													"text": "water resource challenges.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1447,17 +1447,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "What this really",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1466,7 +1466,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7d1if",
+													"key": "blaqm",
 													"text": "What this really",
 													"type": "unstyled",
 													"depth": 0,
@@ -1502,17 +1502,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "enables us to do is",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1521,7 +1521,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c32pg",
+													"key": "dv84p",
 													"text": "enables us to do is",
 													"type": "unstyled",
 													"depth": 0,
@@ -1557,17 +1557,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "we can do much more together",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1576,7 +1576,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b345o",
+													"key": "875qj",
 													"text": "we can do much more together",
 													"type": "unstyled",
 													"depth": 0,
@@ -1612,17 +1612,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and in different groups, ",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1631,7 +1631,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "eo5i",
+													"key": "39tg0",
 													"text": "and in different groups, ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1667,17 +1667,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "but this way we can actually create meetings with our teams.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1686,7 +1686,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "tj5v",
+													"key": "drfba",
 													"text": "but this way we can actually create meetings with our teams.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1722,17 +1722,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "We can share information",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1741,7 +1741,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7uq50",
+													"key": "f0vgg",
 													"text": "We can share information",
 													"type": "unstyled",
 													"depth": 0,
@@ -1777,17 +1777,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "such as we're doing here today.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1796,7 +1796,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7cer0",
+													"key": "19d8c",
 													"text": "such as we're doing here today.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1832,17 +1832,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "We can offer",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1851,7 +1851,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8asoj",
+													"key": "4cqb9",
 													"text": "We can offer",
 													"type": "unstyled",
 													"depth": 0,
@@ -1887,17 +1887,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "classes. We can engage in consultations.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1906,7 +1906,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cfh2s",
+													"key": "7dsuk",
 													"text": "classes. We can engage in consultations.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1942,17 +1942,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "All of that is almost impossible",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -1961,7 +1961,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a1ggg",
+													"key": "ddg6n",
 													"text": "All of that is almost impossible",
 													"type": "unstyled",
 													"depth": 0,
@@ -1997,17 +1997,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "without the kind of direct high-speed",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2016,7 +2016,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cvsti",
+													"key": "5sgk9",
 													"text": "without the kind of direct high-speed",
 													"type": "unstyled",
 													"depth": 0,
@@ -2052,17 +2052,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "connections that we're demonstrating here today.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2071,7 +2071,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4lq0g",
+													"key": "9vmbq",
 													"text": "connections that we're demonstrating here today.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2107,17 +2107,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Technologies like this I could really see being a benefit and",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2126,7 +2126,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "43ivl",
+													"key": "fo9c8",
 													"text": "Technologies like this I could really see being a benefit and",
 													"type": "unstyled",
 													"depth": 0,
@@ -2162,17 +2162,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "potentially opening up a",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2181,7 +2181,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ifku",
+													"key": "3vp5c",
 													"text": "potentially opening up a",
 													"type": "unstyled",
 													"depth": 0,
@@ -2217,17 +2217,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "certificate program or similar",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2236,7 +2236,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2t3ga",
+													"key": "2mobf",
 													"text": "certificate program or similar",
 													"type": "unstyled",
 													"depth": 0,
@@ -2272,17 +2272,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "to bring to the students at ASEC",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2291,7 +2291,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dosbr",
+													"key": "bgn99",
 													"text": "to bring to the students at ASEC",
 													"type": "unstyled",
 													"depth": 0,
@@ -2327,17 +2327,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and provide some of the courses that they don't have the capacity to teach.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2346,7 +2346,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e6hm2",
+													"key": "c8ale",
 													"text": "and provide some of the courses that they don't have the capacity to teach.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2382,17 +2382,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Especially from a student perspective now they can enjoy the quality",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2401,7 +2401,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8dfcl",
+													"key": "3csgi",
 													"text": "Especially from a student perspective now they can enjoy the quality",
 													"type": "unstyled",
 													"depth": 0,
@@ -2437,17 +2437,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "of instruction from the University of Hawaii.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2456,7 +2456,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d308d",
+													"key": "54c8b",
 													"text": "of instruction from the University of Hawaii.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2492,17 +2492,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "And we have friends like Remi Galasso and ",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2511,7 +2511,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "94jn5",
+													"key": "8394n",
 													"text": "And we have friends like Remi Galasso and ",
 													"type": "unstyled",
 													"depth": 0,
@@ -2547,17 +2547,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Hawaiki that has made this all possible and we are very thankful for this partnership and we hope that it will continue.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2566,7 +2566,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cho93",
+													"key": "1d0id",
 													"text": "Hawaiki that has made this all possible and we are very thankful for this partnership and we hope that it will continue.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2602,17 +2602,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "I'm currently pursuing my masters",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2621,7 +2621,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bvqid",
+													"key": "2bmb9",
 													"text": "I'm currently pursuing my masters",
 													"type": "unstyled",
 													"depth": 0,
@@ -2657,17 +2657,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "with the University of Hawaii",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2676,7 +2676,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c4l0d",
+													"key": "4mf62",
 													"text": "with the University of Hawaii",
 													"type": "unstyled",
 													"depth": 0,
@@ -2712,17 +2712,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and we're learning more about this",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2731,7 +2731,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6hgki",
+													"key": "1jmbu",
 													"text": "and we're learning more about this",
 													"type": "unstyled",
 													"depth": 0,
@@ -2767,17 +2767,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "STEAM education",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2786,7 +2786,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9sht8",
+													"key": "9g0nt",
 													"text": "STEAM education",
 													"type": "unstyled",
 													"depth": 0,
@@ -2822,17 +2822,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and with the high-speed internet. I can access it from my home",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2841,7 +2841,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "213fj",
+													"key": "fg91q",
 													"text": "and with the high-speed internet. I can access it from my home",
 													"type": "unstyled",
 													"depth": 0,
@@ -2877,17 +2877,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "aside from the school because before I would do the work at school because that's the",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2896,7 +2896,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bmtm0",
+													"key": "dpvpj",
 													"text": "aside from the school because before I would do the work at school because that's the",
 													"type": "unstyled",
 													"depth": 0,
@@ -2932,17 +2932,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "fastest place I can find access to the internet.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -2951,7 +2951,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "39j8d",
+													"key": "5om1k",
 													"text": "fastest place I can find access to the internet.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2987,17 +2987,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Since Hawaiki was connected we've seen about a tenfold,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3006,7 +3006,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "601vt",
+													"key": "20d4p",
 													"text": "Since Hawaiki was connected we've seen about a tenfold,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3042,17 +3042,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "a 10 times increase, in the amount of a data flow",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3061,7 +3061,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "40rku",
+													"key": "3b0ui",
 													"text": "a 10 times increase, in the amount of a data flow",
 													"type": "unstyled",
 													"depth": 0,
@@ -3097,17 +3097,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "through our customers.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3116,7 +3116,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bs917",
+													"key": "f3s95",
 													"text": "through our customers.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3152,17 +3152,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "In the second wave where we'll see another",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3171,7 +3171,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7h1ul",
+													"key": "17mk3",
 													"text": "In the second wave where we'll see another",
 													"type": "unstyled",
 													"depth": 0,
@@ -3207,17 +3207,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "doubling will be in the",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3226,7 +3226,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "kopj",
+													"key": "aagb8",
 													"text": "doubling will be in the",
 													"type": "unstyled",
 													"depth": 0,
@@ -3262,17 +3262,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "institutional use of",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3281,7 +3281,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dsp1h",
+													"key": "3jh95",
 													"text": "institutional use of",
 													"type": "unstyled",
 													"depth": 0,
@@ -3317,17 +3317,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "of this Internet capacity.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3336,7 +3336,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6fmv",
+													"key": "f3btq",
 													"text": "of this Internet capacity.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3372,17 +3372,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Especially for education,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3391,7 +3391,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "advsk",
+													"key": "14h2j",
 													"text": "Especially for education,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3427,17 +3427,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "for healthcare,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3446,7 +3446,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dgi9c",
+													"key": "c47d4",
 													"text": "for healthcare,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3482,17 +3482,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and then for job creation.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3501,7 +3501,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c78ur",
+													"key": "4o805",
 													"text": "and then for job creation.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3537,17 +3537,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "Leading to the development of our country and the development of the people.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3556,7 +3556,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a7olp",
+													"key": "3r5mt",
 													"text": "Leading to the development of our country and the development of the people.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3592,17 +3592,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "In the Pacific we are in the front lines of climate change.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3611,7 +3611,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2pi6q",
+													"key": "7akdo",
 													"text": "In the Pacific we are in the front lines of climate change.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3647,17 +3647,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "We're certainly facing the",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3666,7 +3666,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2teh9",
+													"key": "883sh",
 													"text": "We're certainly facing the",
 													"type": "unstyled",
 													"depth": 0,
@@ -3702,17 +3702,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "impact sooner than the rest of the world. Helping the rest of the world see that",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3721,7 +3721,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2i4c8",
+													"key": "apcvc",
 													"text": "impact sooner than the rest of the world. Helping the rest of the world see that",
 													"type": "unstyled",
 													"depth": 0,
@@ -3757,17 +3757,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "in the solutions we are finding.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3776,7 +3776,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6p4um",
+													"key": "39k5c",
 													"text": "in the solutions we are finding.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3812,17 +3812,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "They will also need these moving forward,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3831,7 +3831,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2eou",
+													"key": "9ed2e",
 													"text": "They will also need these moving forward,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3867,17 +3867,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "grounded in some cases",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3886,7 +3886,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c2fb9",
+													"key": "63ic1",
 													"text": "grounded in some cases",
 													"type": "unstyled",
 													"depth": 0,
@@ -3922,17 +3922,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "in the traditional wisdom of the Pacific Islanders.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3941,7 +3941,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4ekbn",
+													"key": "72mib",
 													"text": "in the traditional wisdom of the Pacific Islanders.",
 													"type": "unstyled",
 													"depth": 0,
@@ -3977,17 +3977,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "That's just going to be a",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -3996,7 +3996,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dt3eo",
+													"key": "dgbth",
 													"text": "That's just going to be a",
 													"type": "unstyled",
 													"depth": 0,
@@ -4032,17 +4032,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "remarkable opportunity",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4051,7 +4051,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e0ub4",
+													"key": "bk34g",
 													"text": "remarkable opportunity",
 													"type": "unstyled",
 													"depth": 0,
@@ -4087,17 +4087,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "for years to come.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4106,7 +4106,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c6v2d",
+													"key": "8jkhd",
 													"text": "for years to come.",
 													"type": "unstyled",
 													"depth": 0,
@@ -4142,17 +4142,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "It was a great day in American Samoa",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4161,7 +4161,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5b6jm",
+													"key": "c7l5d",
 													"text": "It was a great day in American Samoa",
 													"type": "unstyled",
 													"depth": 0,
@@ -4197,17 +4197,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "with the launch of holo-campus and the celebration.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4216,7 +4216,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "85a84",
+													"key": "drds5",
 													"text": "with the launch of holo-campus and the celebration.",
 													"type": "unstyled",
 													"depth": 0,
@@ -4252,17 +4252,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "I would like to thank all the teams involved in this",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4271,7 +4271,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "23vd5",
+													"key": "65kqc",
 													"text": "I would like to thank all the teams involved in this",
 													"type": "unstyled",
 													"depth": 0,
@@ -4307,17 +4307,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "great operation today including ASEC",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4326,7 +4326,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1qqed",
+													"key": "5pjnb",
 													"text": "great operation today including ASEC",
 													"type": "unstyled",
 													"depth": 0,
@@ -4362,17 +4362,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "the American Samoa Community College and the University of Hawaii",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4381,7 +4381,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "br7ap",
+													"key": "2ul9q",
 													"text": "the American Samoa Community College and the University of Hawaii",
 													"type": "unstyled",
 													"depth": 0,
@@ -4417,17 +4417,17 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "center",
 										"crop": "scale",
 										"text": "and wish all the best to the students who will benefit from holo-campus in the years to come.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#f5efef",
+											"hex": "#f1ecec",
 											"rgb": {
-												"r": 245,
-												"g": 239,
-												"b": 239,
+												"r": 241,
+												"g": 236,
+												"b": 236,
 												"a": 1
 											}
 										},
@@ -4436,7 +4436,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1di3n",
+													"key": "6799o",
 													"text": "and wish all the best to the students who will benefit from holo-campus in the years to come.",
 													"type": "unstyled",
 													"depth": 0,
@@ -4897,8 +4897,8 @@
 									"seoSuffix": "gofar"
 								},
 								"underlay": {
-									"show": "background",
-									"gravity": "north",
+									"show": "stripe",
+									"gravity": "center",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
