@@ -63,10 +63,5296 @@
 								"width": 854,
 								"height": 480,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_kExp.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "आज हम दो शानदार मील",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "21ke9",
+													"text": "आज हम दो शानदार मील",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 20.7,
+										"end_offset": 21.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के पत्थर मना रहे",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2bq9n",
+													"text": "के पत्थर मना रहे",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 21.9,
+										"end_offset": 23.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं. पहले एक Hawaiki केबल के लिए अमेरिकन समोआ कनेक्शन के",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fhn23",
+													"text": "हैं. पहले एक Hawaiki केबल के लिए अमेरिकन समोआ कनेक्शन के",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 23.1,
+										"end_offset": 27.15,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "पहले साल की सालगिरह है.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ekpre",
+													"text": "पहले साल की सालगिरह है.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 27.15,
+										"end_offset": 29.175,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "दूसरा होलो-कैंपस का शुभारंभ",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4s2pu",
+													"text": "दूसरा होलो-कैंपस का शुभारंभ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 29.175,
+										"end_offset": 31.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है। प्रशांत में पहले तीन",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "63tvn",
+													"text": "है। प्रशांत में पहले तीन",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 31.2,
+										"end_offset": 35.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "आयामी दूरस्थ शिक्षा मंच. सुप्रभात, और एक पल है कि अमेरिकन समोआ के क्षेत्र के लिए एक",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2pvrq",
+													"text": "आयामी दूरस्थ शिक्षा मंच. सुप्रभात, और एक पल है कि अमेरिकन समोआ के क्षेत्र के लिए एक",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 35.2,
+										"end_offset": 48,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "ऐतिहासिक मील का पत्थर के रूप में वापस देखा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f50ql",
+													"text": "ऐतिहासिक मील का पत्थर के रूप में वापस देखा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 48,
+										"end_offset": 54.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "जाएगा करने के लिए",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "93i9e",
+													"text": "जाएगा करने के लिए",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 54.4,
+										"end_offset": 57.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "आपका स्वागत है.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d7eb7",
+													"text": "आपका स्वागत है.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 57.6,
+										"end_offset": 60.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Aloha और",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fb2nr",
+													"text": "Aloha और",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 60.8,
+										"end_offset": 69.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "इस घटना के लिए आपका स्वागत है. इसके",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1rqn4",
+													"text": "इस घटना के लिए आपका स्वागत है. इसके",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 69.9,
+										"end_offset": 71.35,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "बारे में दूसरी छमाही के लिए.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bjlq4",
+													"text": "बारे में दूसरी छमाही के लिए.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 71.35,
+										"end_offset": 72.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "यह आप सभी को देखने",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7t5r7",
+													"text": "यह आप सभी को देखने",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 72.8,
+										"end_offset": 74.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के लिए इस तरह",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b395s",
+													"text": "के लिए इस तरह",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 74.2,
+										"end_offset": 75.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के एक खुशी है। यह इस तकनीक और उल्लेखनीय नए Hawaiki नेटवर्क कनेक्शन द्वारा सशक्त रिश्तों का",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5hclp",
+													"text": "के एक खुशी है। यह इस तकनीक और उल्लेखनीय नए Hawaiki नेटवर्क कनेक्शन द्वारा सशक्त रिश्तों का",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 75.6,
+										"end_offset": 81.25,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "एक सेट है और हम साल के लिए",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "epm48",
+													"text": "एक सेट है और हम साल के लिए",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 81.25,
+										"end_offset": 84.075,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "एक साथ प्रयोग किया",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bi8cc",
+													"text": "एक साथ प्रयोग किया",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 84.075,
+										"end_offset": 85.487,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "जाएगा आने के",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bqefh",
+													"text": "जाएगा आने के",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 85.487,
+										"end_offset": 86.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "लिए. आज मैं एक परियोजना है कि अमेरिकन समोआ के सबसे महत्वपूर्ण जल संसाधन चुनौतियों",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f1oo3",
+													"text": "लिए. आज मैं एक परियोजना है कि अमेरिकन समोआ के सबसे महत्वपूर्ण जल संसाधन चुनौतियों",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 86.9,
+										"end_offset": 92.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "में से एक पर ध्यान केंद्रित किया है",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "al2vd",
+													"text": "में से एक पर ध्यान केंद्रित किया है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 92.1,
+										"end_offset": 94.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "से कुछ परिणाम साझा करना चाहते",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bnfvl",
+													"text": "से कुछ परिणाम साझा करना चाहते",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 94.7,
+										"end_offset": 97.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं. क्या यह वास्तव में",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c4kuf",
+													"text": "हैं. क्या यह वास्तव में",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 97.3,
+										"end_offset": 99.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हमें सक्षम बनाता है",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5sepu",
+													"text": "हमें सक्षम बनाता है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 99.2,
+										"end_offset": 100.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हम और अधिक एक साथ और विभिन्न",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "34q4d",
+													"text": "हम और अधिक एक साथ और विभिन्न",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 100.6,
+										"end_offset": 102.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "समूहों में कर सकते हैं,",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c2i8j",
+													"text": "समूहों में कर सकते हैं,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 102.2,
+										"end_offset": 103.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "लेकिन इस तरह हम वास्तव में हमारी",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bkqk8",
+													"text": "लेकिन इस तरह हम वास्तव में हमारी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 103.8,
+										"end_offset": 106.05,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "टीमों के साथ बैठक बना सकते",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9hkij",
+													"text": "टीमों के साथ बैठक बना सकते",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 106.05,
+										"end_offset": 108.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं. हम आज यहाँ कर रहे हैं",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "avhsh",
+													"text": "हैं. हम आज यहाँ कर रहे हैं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 108.3,
+										"end_offset": 109.85,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "जैसे जानकारी साझा कर सकते हैं.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5kkoq",
+													"text": "जैसे जानकारी साझा कर सकते हैं.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 109.85,
+										"end_offset": 111.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हम कक्षाओं की पेशकश कर सकते हैं.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "odqd",
+													"text": "हम कक्षाओं की पेशकश कर सकते हैं.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 111.4,
+										"end_offset": 113.25,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हम परामर्श में संलग्न कर सकते",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3t8jc",
+													"text": "हम परामर्श में संलग्न कर सकते",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 113.25,
+										"end_offset": 115.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं। कि सब के सब प्रत्यक्ष उच्च गति कनेक्शन",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "21mk0",
+													"text": "हैं। कि सब के सब प्रत्यक्ष उच्च गति कनेक्शन",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 115.1,
+										"end_offset": 119,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है कि हम आज यहाँ",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "964vb",
+													"text": "है कि हम आज यहाँ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 119,
+										"end_offset": 120.95,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "प्रदर्शन कर रहे",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f70u0",
+													"text": "प्रदर्शन कर रहे",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 120.95,
+										"end_offset": 122.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं की तरह के बिना लगभग असंभव है. इस तरह प्रौद्योगिकी मैं वास्तव में एक लाभ जा रहा है और संभवतः एक प्रमाण पत्र कार्यक्रम खोलने या",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1h4f2",
+													"text": "हैं की तरह के बिना लगभग असंभव है. इस तरह प्रौद्योगिकी मैं वास्तव में एक लाभ जा रहा है और संभवतः एक प्रमाण पत्र कार्यक्रम खोलने या",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 122.9,
+										"end_offset": 130.15,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "ASEC में छात्रों को लाने के लिए और पाठ्यक्रम है कि वे सिखाने",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7hukv",
+													"text": "ASEC में छात्रों को लाने के लिए और पाठ्यक्रम है कि वे सिखाने",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 130.15,
+										"end_offset": 133.775,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "की क्षमता नहीं है के कुछ प्रदान",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c1kg",
+													"text": "की क्षमता नहीं है के कुछ प्रदान",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 133.775,
+										"end_offset": 135.587,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "करने के समान देख सकता",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5sr0i",
+													"text": "करने के समान देख सकता",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 135.587,
+										"end_offset": 137.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है. विशेष रूप से एक छात्र के नजरिए से अब वे",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3v1vo",
+													"text": "है. विशेष रूप से एक छात्र के नजरिए से अब वे",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 137.4,
+										"end_offset": 140.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हवाई विश्वविद्यालय से शिक्षा की",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "161sc",
+													"text": "हवाई विश्वविद्यालय से शिक्षा की",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 140.9,
+										"end_offset": 142.65,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "गुणवत्ता का आनंद सकता",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "767u8",
+													"text": "गुणवत्ता का आनंद सकता",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 142.65,
+										"end_offset": 144.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है. और हम रेमी Galasso और Hawaiki है कि यह सब संभव बना दिया है और हम इस",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "arkn3",
+													"text": "है. और हम रेमी Galasso और Hawaiki है कि यह सब संभव बना दिया है और हम इस",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 144.4,
+										"end_offset": 148.85,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "साझेदारी के लिए बहुत आभारी हैं और हमें उम्मीद",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7otfv",
+													"text": "साझेदारी के लिए बहुत आभारी हैं और हमें उम्मीद",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 148.85,
+										"end_offset": 151.075,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है कि यह जारी रहेगा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1ktb3",
+													"text": "है कि यह जारी रहेगा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 151.075,
+										"end_offset": 152.187,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "जैसे दोस्त हैं.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "64v8q",
+													"text": "जैसे दोस्त हैं.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 152.187,
+										"end_offset": 153.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "मैं वर्तमान में हवाई विश्वविद्यालय के साथ अपने",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4jbp4",
+													"text": "मैं वर्तमान में हवाई विश्वविद्यालय के साथ अपने",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 153.3,
+										"end_offset": 159,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "स्वामी का पीछा कर रहा हूँ",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a5kjv",
+													"text": "स्वामी का पीछा कर रहा हूँ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 159,
+										"end_offset": 164.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "और हम इस STEAM शिक्षा के बारे में और उच्च गति इंटरनेट के साथ और अधिक सीख रहे हैं. मैं इसे अपने घर",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3aq5d",
+													"text": "और हम इस STEAM शिक्षा के बारे में और उच्च गति इंटरनेट के साथ और अधिक सीख रहे हैं. मैं इसे अपने घर",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 164.7,
+										"end_offset": 170.75,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "से स्कूल से अलग उपयोग कर सकते हैं क्योंकि इससे पहले",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dg1o4",
+													"text": "से स्कूल से अलग उपयोग कर सकते हैं क्योंकि इससे पहले",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 170.75,
+										"end_offset": 173.775,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "कि मैं स्कूल में काम करना",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7u0k9",
+													"text": "कि मैं स्कूल में काम करना",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 173.775,
+										"end_offset": 175.287,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "होगा क्योंकि है कि",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "48mmd",
+													"text": "होगा क्योंकि है कि",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 175.287,
+										"end_offset": 176.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "सबसे तेजी से जगह मैं इंटरनेट",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "10p2i",
+													"text": "सबसे तेजी से जगह मैं इंटरनेट",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 176.8,
+										"end_offset": 178,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "का उपयोग पा सकते",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b1b45",
+													"text": "का उपयोग पा सकते",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 178,
+										"end_offset": 179.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है. Hawaiki के बाद से जुड़ा हुआ था हम एक दस गुना के बारे में देखा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5954p",
+													"text": "है. Hawaiki के बाद से जुड़ा हुआ था हम एक दस गुना के बारे में देखा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 179.2,
+										"end_offset": 186.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "है, एक 10 गुना वृद्धि, हमारे ग्राहकों के",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "43bsp",
+													"text": "है, एक 10 गुना वृद्धि, हमारे ग्राहकों के",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 186.4,
+										"end_offset": 190,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "माध्यम से एक डेटा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ff1sr",
+													"text": "माध्यम से एक डेटा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 190,
+										"end_offset": 191.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "प्रवाह की मात्रा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6t7f5",
+													"text": "प्रवाह की मात्रा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 191.8,
+										"end_offset": 193.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "में. दूसरी लहर में जहां",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1ga4r",
+													"text": "में. दूसरी लहर में जहां",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 193.6,
+										"end_offset": 194.95,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हम देखेंगे एक और",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3t0vo",
+													"text": "हम देखेंगे एक और",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 194.95,
+										"end_offset": 196.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "दोहरीकरण इस इंटरनेट क्षमता के",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8ccn9",
+													"text": "दोहरीकरण इस इंटरनेट क्षमता के",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 196.3,
+										"end_offset": 199,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "संस्थागत उपयोग में",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8qq4u",
+													"text": "संस्थागत उपयोग में",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 199,
+										"end_offset": 201.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "होगा. विशेष रूप से",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "nemn",
+													"text": "होगा. विशेष रूप से",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 201.7,
+										"end_offset": 202.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "शिक्षा के लिए,",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "623bk",
+													"text": "शिक्षा के लिए,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 202.6,
+										"end_offset": 203.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "स्वास्थ्य देखभाल के लिए,",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "aqd4v",
+													"text": "स्वास्थ्य देखभाल के लिए,",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 203.5,
+										"end_offset": 204.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "और फिर रोजगार के सृजन के",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1oci7",
+													"text": "और फिर रोजगार के सृजन के",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 204.3,
+										"end_offset": 206.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "लिए. हमारे देश के विकास और लोगों",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1b6li",
+													"text": "लिए. हमारे देश के विकास और लोगों",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 206.1,
+										"end_offset": 208.15,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के विकास के लिए अग्रणी।",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "rm4e",
+													"text": "के विकास के लिए अग्रणी।",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 208.15,
+										"end_offset": 210.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "प्रशांत में हम जलवायु परिवर्तन",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1p0nc",
+													"text": "प्रशांत में हम जलवायु परिवर्तन",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 210.2,
+										"end_offset": 213.45,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के सामने लाइनों में",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3lb4o",
+													"text": "के सामने लाइनों में",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 213.45,
+										"end_offset": 216.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हैं. हम निश्चित रूप से प्रभाव का सामना कर रहे हैं जल्दी ही दुनिया के बाकी",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ehtkb",
+													"text": "हैं. हम निश्चित रूप से प्रभाव का सामना कर रहे हैं जल्दी ही दुनिया के बाकी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 216.7,
+										"end_offset": 220.15,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "हिस्सों की तुलना में. दुनिया के बाकी लोगों",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d2ie2",
+													"text": "हिस्सों की तुलना में. दुनिया के बाकी लोगों",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 220.15,
+										"end_offset": 221.875,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "की मदद करना देखना है कि",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "apeb5",
+													"text": "की मदद करना देखना है कि",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 221.875,
+										"end_offset": 223.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "समाधान में हम पा रहे हैं.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7ijk2",
+													"text": "समाधान में हम पा रहे हैं.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 223.6,
+										"end_offset": 224.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "वे भी इन आगे",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1p6s7",
+													"text": "वे भी इन आगे",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 224.3,
+										"end_offset": 225.85,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "बढ़ने की आवश्यकता",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bbnqb",
+													"text": "बढ़ने की आवश्यकता",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 225.85,
+										"end_offset": 227.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "होगी, प्रशांत द्वीप के पारंपरिक",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b4ih8",
+													"text": "होगी, प्रशांत द्वीप के पारंपरिक",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 227.4,
+										"end_offset": 229.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "ज्ञान में कुछ",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9ettl",
+													"text": "ज्ञान में कुछ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 229.5,
+										"end_offset": 231.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "मामलों में आधारित. यह सिर्फ साल के लिए",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "d877n",
+													"text": "मामलों में आधारित. यह सिर्फ साल के लिए",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 231.6,
+										"end_offset": 233.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "एक उल्लेखनीय अवसर आने वाला है.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7am00",
+													"text": "एक उल्लेखनीय अवसर आने वाला है.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 233.1,
+										"end_offset": 234.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "यह होलो परिसर और उत्सव के शुभारंभ",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "anj3g",
+													"text": "यह होलो परिसर और उत्सव के शुभारंभ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 234.6,
+										"end_offset": 239.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "के साथ अमेरिकन समोआ में एक",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6fj33",
+													"text": "के साथ अमेरिकन समोआ में एक",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 239.5,
+										"end_offset": 244.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "महान दिन था. मैं ASEC अमेरिकन समोआ सामुदायिक कॉलेज और हवाई विश्वविद्यालय सहित",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2t14d",
+													"text": "महान दिन था. मैं ASEC अमेरिकन समोआ सामुदायिक कॉलेज और हवाई विश्वविद्यालय सहित",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 244.4,
+										"end_offset": 249.85,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "आज इस महान आपरेशन में शामिल सभी",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ftbop",
+													"text": "आज इस महान आपरेशन में शामिल सभी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 249.85,
+										"end_offset": 252.575,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "टीमों को धन्यवाद देना चाहूंगा",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "f538k",
+													"text": "टीमों को धन्यवाद देना चाहूंगा",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 252.575,
+										"end_offset": 255.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "और छात्रों को जो आने वाले वर्षों में होलो परिसर",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fch6j",
+													"text": "और छात्रों को जो आने वाले वर्षों में होलो परिसर",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 255.3,
+										"end_offset": 257.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "से लाभ होगा सभी का",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cl4ql",
+													"text": "से लाभ होगा सभी का",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 257.7,
+										"end_offset": 258.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "सबसे अच्छा चाहते हैं.",
+										"font": "Noto Sans Devanagari",
+										"size": 30,
+										"color": {
+											"hex": "#eb1818",
+											"rgb": {
+												"r": 235,
+												"g": 24,
+												"b": 24,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1oi5m",
+													"text": "सबसे अच्छा चाहते हैं.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 258.9,
+										"end_offset": 260.1,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:20,700 --> 00:00:21,900\nआज हम दो शानदार मील\n\n2\n00:00:21,900 --> 00:00:23,100\nके पत्थर मना रहे\n\n3\n00:00:23,100 --> 00:00:27,150\nहैं. पहले एक Hawaiki केबल के लिए अमेरिकन समोआ कनेक्शन के\n\n4\n00:00:27,150 --> 00:00:29,175\nपहले साल की सालगिरह है.\n\n5\n00:00:29,175 --> 00:00:31,200\nदूसरा होलो-कैंपस का शुभारंभ\n\n6\n00:00:31,200 --> 00:00:35,200\nहै। प्रशांत में पहले तीन\n\n7\n00:00:35,200 --> 00:00:48,000\nआयामी दूरस्थ शिक्षा मंच. सुप्रभात, और एक पल है कि अमेरिकन समोआ के क्षेत्र के लिए एक\n\n8\n00:00:48,000 --> 00:00:54,400\nऐतिहासिक मील का पत्थर के रूप में वापस देखा\n\n9\n00:00:54,400 --> 00:00:57,600\nजाएगा करने के लिए\n\n10\n00:00:57,600 --> 00:01:00,800\nआपका स्वागत है.\n\n11\n00:01:00,800 --> 00:01:09,900\nAloha और\n\n12\n00:01:09,900 --> 00:01:11,350\nइस घटना के लिए आपका स्वागत है. इसके\n\n13\n00:01:11,350 --> 00:01:12,800\nबारे में दूसरी छमाही के लिए.\n\n14\n00:01:12,800 --> 00:01:14,200\nयह आप सभी को देखने\n\n15\n00:01:14,200 --> 00:01:15,600\nके लिए इस तरह\n\n16\n00:01:15,600 --> 00:01:21,250\nके एक खुशी है। यह इस तकनीक और उल्लेखनीय नए Hawaiki नेटवर्क कनेक्शन द्वारा सशक्त रिश्तों का\n\n17\n00:01:21,250 --> 00:01:24,075\nएक सेट है और हम साल के लिए\n\n18\n00:01:24,075 --> 00:01:25,487\nएक साथ प्रयोग किया\n\n19\n00:01:25,487 --> 00:01:26,900\nजाएगा आने के\n\n20\n00:01:26,900 --> 00:01:32,100\nलिए. आज मैं एक परियोजना है कि अमेरिकन समोआ के सबसे महत्वपूर्ण जल संसाधन चुनौतियों\n\n21\n00:01:32,100 --> 00:01:34,700\nमें से एक पर ध्यान केंद्रित किया है\n\n22\n00:01:34,700 --> 00:01:37,300\nसे कुछ परिणाम साझा करना चाहते\n\n23\n00:01:37,300 --> 00:01:39,200\nहैं. क्या यह वास्तव में\n\n24\n00:01:39,200 --> 00:01:40,600\nहमें सक्षम बनाता है\n\n25\n00:01:40,600 --> 00:01:42,200\nहम और अधिक एक साथ और विभिन्न\n\n26\n00:01:42,200 --> 00:01:43,800\nसमूहों में कर सकते हैं,\n\n27\n00:01:43,800 --> 00:01:46,050\nलेकिन इस तरह हम वास्तव में हमारी\n\n28\n00:01:46,050 --> 00:01:48,300\nटीमों के साथ बैठक बना सकते\n\n29\n00:01:48,300 --> 00:01:49,850\nहैं. हम आज यहाँ कर रहे हैं\n\n30\n00:01:49,850 --> 00:01:51,400\nजैसे जानकारी साझा कर सकते हैं.\n\n31\n00:01:51,400 --> 00:01:53,250\nहम कक्षाओं की पेशकश कर सकते हैं.\n\n32\n00:01:53,250 --> 00:01:55,100\nहम परामर्श में संलग्न कर सकते\n\n33\n00:01:55,100 --> 00:01:59,000\nहैं। कि सब के सब प्रत्यक्ष उच्च गति कनेक्शन\n\n34\n00:01:59,000 --> 00:02:00,950\nहै कि हम आज यहाँ\n\n35\n00:02:00,950 --> 00:02:02,900\nप्रदर्शन कर रहे\n\n36\n00:02:02,900 --> 00:02:10,150\nहैं की तरह के बिना लगभग असंभव है. इस तरह प्रौद्योगिकी मैं वास्तव में एक लाभ जा रहा है और संभवतः एक प्रमाण पत्र कार्यक्रम खोलने या\n\n37\n00:02:10,150 --> 00:02:13,775\nASEC में छात्रों को लाने के लिए और पाठ्यक्रम है कि वे सिखाने\n\n38\n00:02:13,775 --> 00:02:15,587\nकी क्षमता नहीं है के कुछ प्रदान\n\n39\n00:02:15,587 --> 00:02:17,400\nकरने के समान देख सकता\n\n40\n00:02:17,400 --> 00:02:20,900\nहै. विशेष रूप से एक छात्र के नजरिए से अब वे\n\n41\n00:02:20,900 --> 00:02:22,650\nहवाई विश्वविद्यालय से शिक्षा की\n\n42\n00:02:22,650 --> 00:02:24,400\nगुणवत्ता का आनंद सकता\n\n43\n00:02:24,400 --> 00:02:28,850\nहै. और हम रेमी Galasso और Hawaiki है कि यह सब संभव बना दिया है और हम इस\n\n44\n00:02:28,850 --> 00:02:31,075\nसाझेदारी के लिए बहुत आभारी हैं और हमें उम्मीद\n\n45\n00:02:31,075 --> 00:02:32,187\nहै कि यह जारी रहेगा\n\n46\n00:02:32,187 --> 00:02:33,300\nजैसे दोस्त हैं.\n\n47\n00:02:33,300 --> 00:02:39,000\nमैं वर्तमान में हवाई विश्वविद्यालय के साथ अपने\n\n48\n00:02:39,000 --> 00:02:44,700\nस्वामी का पीछा कर रहा हूँ\n\n49\n00:02:44,700 --> 00:02:50,750\nऔर हम इस STEAM शिक्षा के बारे में और उच्च गति इंटरनेट के साथ और अधिक सीख रहे हैं. मैं इसे अपने घर\n\n50\n00:02:50,750 --> 00:02:53,775\nसे स्कूल से अलग उपयोग कर सकते हैं क्योंकि इससे पहले\n\n51\n00:02:53,775 --> 00:02:55,287\nकि मैं स्कूल में काम करना\n\n52\n00:02:55,287 --> 00:02:56,800\nहोगा क्योंकि है कि\n\n53\n00:02:56,800 --> 00:02:58,000\nसबसे तेजी से जगह मैं इंटरनेट\n\n54\n00:02:58,000 --> 00:02:59,200\nका उपयोग पा सकते\n\n55\n00:02:59,200 --> 00:03:06,400\nहै. Hawaiki के बाद से जुड़ा हुआ था हम एक दस गुना के बारे में देखा\n\n56\n00:03:06,400 --> 00:03:10,000\nहै, एक 10 गुना वृद्धि, हमारे ग्राहकों के\n\n57\n00:03:10,000 --> 00:03:11,800\nमाध्यम से एक डेटा\n\n58\n00:03:11,800 --> 00:03:13,600\nप्रवाह की मात्रा\n\n59\n00:03:13,600 --> 00:03:14,950\nमें. दूसरी लहर में जहां\n\n60\n00:03:14,950 --> 00:03:16,300\nहम देखेंगे एक और\n\n61\n00:03:16,300 --> 00:03:19,000\nदोहरीकरण इस इंटरनेट क्षमता के\n\n62\n00:03:19,000 --> 00:03:21,700\nसंस्थागत उपयोग में\n\n63\n00:03:21,700 --> 00:03:22,600\nहोगा. विशेष रूप से\n\n64\n00:03:22,600 --> 00:03:23,500\nशिक्षा के लिए,\n\n65\n00:03:23,500 --> 00:03:24,300\nस्वास्थ्य देखभाल के लिए,\n\n66\n00:03:24,300 --> 00:03:26,100\nऔर फिर रोजगार के सृजन के\n\n67\n00:03:26,100 --> 00:03:28,150\nलिए. हमारे देश के विकास और लोगों\n\n68\n00:03:28,150 --> 00:03:30,200\nके विकास के लिए अग्रणी।\n\n69\n00:03:30,200 --> 00:03:33,450\nप्रशांत में हम जलवायु परिवर्तन\n\n70\n00:03:33,450 --> 00:03:36,700\nके सामने लाइनों में\n\n71\n00:03:36,700 --> 00:03:40,150\nहैं. हम निश्चित रूप से प्रभाव का सामना कर रहे हैं जल्दी ही दुनिया के बाकी\n\n72\n00:03:40,150 --> 00:03:41,875\nहिस्सों की तुलना में. दुनिया के बाकी लोगों\n\n73\n00:03:41,875 --> 00:03:43,600\nकी मदद करना देखना है कि\n\n74\n00:03:43,600 --> 00:03:44,300\nसमाधान में हम पा रहे हैं.\n\n75\n00:03:44,300 --> 00:03:45,850\nवे भी इन आगे\n\n76\n00:03:45,850 --> 00:03:47,400\nबढ़ने की आवश्यकता\n\n77\n00:03:47,400 --> 00:03:49,500\nहोगी, प्रशांत द्वीप के पारंपरिक\n\n78\n00:03:49,500 --> 00:03:51,600\nज्ञान में कुछ\n\n79\n00:03:51,600 --> 00:03:53,100\nमामलों में आधारित. यह सिर्फ साल के लिए\n\n80\n00:03:53,100 --> 00:03:54,600\nएक उल्लेखनीय अवसर आने वाला है.\n\n81\n00:03:54,600 --> 00:03:59,500\nयह होलो परिसर और उत्सव के शुभारंभ\n\n82\n00:03:59,500 --> 00:04:04,400\nके साथ अमेरिकन समोआ में एक\n\n83\n00:04:04,400 --> 00:04:09,850\nमहान दिन था. मैं ASEC अमेरिकन समोआ सामुदायिक कॉलेज और हवाई विश्वविद्यालय सहित\n\n84\n00:04:09,850 --> 00:04:12,575\nआज इस महान आपरेशन में शामिल सभी\n\n85\n00:04:12,575 --> 00:04:15,300\nटीमों को धन्यवाद देना चाहूंगा\n\n86\n00:04:15,300 --> 00:04:17,700\nऔर छात्रों को जो आने वाले वर्षों में होलो परिसर\n\n87\n00:04:17,700 --> 00:04:18,900\nसे लाभ होगा सभी का\n\n88\n00:04:18,900 --> 00:04:20,100\nसबसे अच्छा चाहते हैं.\n",
+									"parsed": [
+										{
+											"start": 20700,
+											"end": 21900,
+											"text": "आज हम दो शानदार मील"
+										},
+										{
+											"start": 21900,
+											"end": 23100,
+											"text": "के पत्थर मना रहे"
+										},
+										{
+											"start": 23100,
+											"end": 27150,
+											"text": "हैं. पहले एक Hawaiki केबल के लिए अमेरिकन समोआ कनेक्शन के"
+										},
+										{
+											"start": 27150,
+											"end": 29175,
+											"text": "पहले साल की सालगिरह है."
+										},
+										{
+											"start": 29175,
+											"end": 31200,
+											"text": "दूसरा होलो-कैंपस का शुभारंभ"
+										},
+										{
+											"start": 31200,
+											"end": 35200,
+											"text": "है। प्रशांत में पहले तीन"
+										},
+										{
+											"start": 35200,
+											"end": 48000,
+											"text": "आयामी दूरस्थ शिक्षा मंच. सुप्रभात, और एक पल है कि अमेरिकन समोआ के क्षेत्र के लिए एक"
+										},
+										{
+											"start": 48000,
+											"end": 54400,
+											"text": "ऐतिहासिक मील का पत्थर के रूप में वापस देखा"
+										},
+										{
+											"start": 54400,
+											"end": 57600,
+											"text": "जाएगा करने के लिए"
+										},
+										{
+											"start": 57600,
+											"end": 60800,
+											"text": "आपका स्वागत है."
+										},
+										{
+											"start": 60800,
+											"end": 69900,
+											"text": "Aloha और"
+										},
+										{
+											"start": 69900,
+											"end": 71350,
+											"text": "इस घटना के लिए आपका स्वागत है. इसके"
+										},
+										{
+											"start": 71350,
+											"end": 72800,
+											"text": "बारे में दूसरी छमाही के लिए."
+										},
+										{
+											"start": 72800,
+											"end": 74200,
+											"text": "यह आप सभी को देखने"
+										},
+										{
+											"start": 74200,
+											"end": 75600,
+											"text": "के लिए इस तरह"
+										},
+										{
+											"start": 75600,
+											"end": 81250,
+											"text": "के एक खुशी है। यह इस तकनीक और उल्लेखनीय नए Hawaiki नेटवर्क कनेक्शन द्वारा सशक्त रिश्तों का"
+										},
+										{
+											"start": 81250,
+											"end": 84075,
+											"text": "एक सेट है और हम साल के लिए"
+										},
+										{
+											"start": 84075,
+											"end": 85487,
+											"text": "एक साथ प्रयोग किया"
+										},
+										{
+											"start": 85487,
+											"end": 86900,
+											"text": "जाएगा आने के"
+										},
+										{
+											"start": 86900,
+											"end": 92100,
+											"text": "लिए. आज मैं एक परियोजना है कि अमेरिकन समोआ के सबसे महत्वपूर्ण जल संसाधन चुनौतियों"
+										},
+										{
+											"start": 92100,
+											"end": 94700,
+											"text": "में से एक पर ध्यान केंद्रित किया है"
+										},
+										{
+											"start": 94700,
+											"end": 97300,
+											"text": "से कुछ परिणाम साझा करना चाहते"
+										},
+										{
+											"start": 97300,
+											"end": 99200,
+											"text": "हैं. क्या यह वास्तव में"
+										},
+										{
+											"start": 99200,
+											"end": 100600,
+											"text": "हमें सक्षम बनाता है"
+										},
+										{
+											"start": 100600,
+											"end": 102200,
+											"text": "हम और अधिक एक साथ और विभिन्न"
+										},
+										{
+											"start": 102200,
+											"end": 103800,
+											"text": "समूहों में कर सकते हैं,"
+										},
+										{
+											"start": 103800,
+											"end": 106050,
+											"text": "लेकिन इस तरह हम वास्तव में हमारी"
+										},
+										{
+											"start": 106050,
+											"end": 108300,
+											"text": "टीमों के साथ बैठक बना सकते"
+										},
+										{
+											"start": 108300,
+											"end": 109850,
+											"text": "हैं. हम आज यहाँ कर रहे हैं"
+										},
+										{
+											"start": 109850,
+											"end": 111400,
+											"text": "जैसे जानकारी साझा कर सकते हैं."
+										},
+										{
+											"start": 111400,
+											"end": 113250,
+											"text": "हम कक्षाओं की पेशकश कर सकते हैं."
+										},
+										{
+											"start": 113250,
+											"end": 115100,
+											"text": "हम परामर्श में संलग्न कर सकते"
+										},
+										{
+											"start": 115100,
+											"end": 119000,
+											"text": "हैं। कि सब के सब प्रत्यक्ष उच्च गति कनेक्शन"
+										},
+										{
+											"start": 119000,
+											"end": 120950,
+											"text": "है कि हम आज यहाँ"
+										},
+										{
+											"start": 120950,
+											"end": 122900,
+											"text": "प्रदर्शन कर रहे"
+										},
+										{
+											"start": 122900,
+											"end": 130150,
+											"text": "हैं की तरह के बिना लगभग असंभव है. इस तरह प्रौद्योगिकी मैं वास्तव में एक लाभ जा रहा है और संभवतः एक प्रमाण पत्र कार्यक्रम खोलने या"
+										},
+										{
+											"start": 130150,
+											"end": 133775,
+											"text": "ASEC में छात्रों को लाने के लिए और पाठ्यक्रम है कि वे सिखाने"
+										},
+										{
+											"start": 133775,
+											"end": 135587,
+											"text": "की क्षमता नहीं है के कुछ प्रदान"
+										},
+										{
+											"start": 135587,
+											"end": 137400,
+											"text": "करने के समान देख सकता"
+										},
+										{
+											"start": 137400,
+											"end": 140900,
+											"text": "है. विशेष रूप से एक छात्र के नजरिए से अब वे"
+										},
+										{
+											"start": 140900,
+											"end": 142650,
+											"text": "हवाई विश्वविद्यालय से शिक्षा की"
+										},
+										{
+											"start": 142650,
+											"end": 144400,
+											"text": "गुणवत्ता का आनंद सकता"
+										},
+										{
+											"start": 144400,
+											"end": 148850,
+											"text": "है. और हम रेमी Galasso और Hawaiki है कि यह सब संभव बना दिया है और हम इस"
+										},
+										{
+											"start": 148850,
+											"end": 151075,
+											"text": "साझेदारी के लिए बहुत आभारी हैं और हमें उम्मीद"
+										},
+										{
+											"start": 151075,
+											"end": 152187,
+											"text": "है कि यह जारी रहेगा"
+										},
+										{
+											"start": 152187,
+											"end": 153300,
+											"text": "जैसे दोस्त हैं."
+										},
+										{
+											"start": 153300,
+											"end": 159000,
+											"text": "मैं वर्तमान में हवाई विश्वविद्यालय के साथ अपने"
+										},
+										{
+											"start": 159000,
+											"end": 164700,
+											"text": "स्वामी का पीछा कर रहा हूँ"
+										},
+										{
+											"start": 164700,
+											"end": 170750,
+											"text": "और हम इस STEAM शिक्षा के बारे में और उच्च गति इंटरनेट के साथ और अधिक सीख रहे हैं. मैं इसे अपने घर"
+										},
+										{
+											"start": 170750,
+											"end": 173775,
+											"text": "से स्कूल से अलग उपयोग कर सकते हैं क्योंकि इससे पहले"
+										},
+										{
+											"start": 173775,
+											"end": 175287,
+											"text": "कि मैं स्कूल में काम करना"
+										},
+										{
+											"start": 175287,
+											"end": 176800,
+											"text": "होगा क्योंकि है कि"
+										},
+										{
+											"start": 176800,
+											"end": 178000,
+											"text": "सबसे तेजी से जगह मैं इंटरनेट"
+										},
+										{
+											"start": 178000,
+											"end": 179200,
+											"text": "का उपयोग पा सकते"
+										},
+										{
+											"start": 179200,
+											"end": 186400,
+											"text": "है. Hawaiki के बाद से जुड़ा हुआ था हम एक दस गुना के बारे में देखा"
+										},
+										{
+											"start": 186400,
+											"end": 190000,
+											"text": "है, एक 10 गुना वृद्धि, हमारे ग्राहकों के"
+										},
+										{
+											"start": 190000,
+											"end": 191800,
+											"text": "माध्यम से एक डेटा"
+										},
+										{
+											"start": 191800,
+											"end": 193600,
+											"text": "प्रवाह की मात्रा"
+										},
+										{
+											"start": 193600,
+											"end": 194950,
+											"text": "में. दूसरी लहर में जहां"
+										},
+										{
+											"start": 194950,
+											"end": 196300,
+											"text": "हम देखेंगे एक और"
+										},
+										{
+											"start": 196300,
+											"end": 199000,
+											"text": "दोहरीकरण इस इंटरनेट क्षमता के"
+										},
+										{
+											"start": 199000,
+											"end": 201700,
+											"text": "संस्थागत उपयोग में"
+										},
+										{
+											"start": 201700,
+											"end": 202600,
+											"text": "होगा. विशेष रूप से"
+										},
+										{
+											"start": 202600,
+											"end": 203500,
+											"text": "शिक्षा के लिए,"
+										},
+										{
+											"start": 203500,
+											"end": 204300,
+											"text": "स्वास्थ्य देखभाल के लिए,"
+										},
+										{
+											"start": 204300,
+											"end": 206100,
+											"text": "और फिर रोजगार के सृजन के"
+										},
+										{
+											"start": 206100,
+											"end": 208150,
+											"text": "लिए. हमारे देश के विकास और लोगों"
+										},
+										{
+											"start": 208150,
+											"end": 210200,
+											"text": "के विकास के लिए अग्रणी।"
+										},
+										{
+											"start": 210200,
+											"end": 213450,
+											"text": "प्रशांत में हम जलवायु परिवर्तन"
+										},
+										{
+											"start": 213450,
+											"end": 216700,
+											"text": "के सामने लाइनों में"
+										},
+										{
+											"start": 216700,
+											"end": 220150,
+											"text": "हैं. हम निश्चित रूप से प्रभाव का सामना कर रहे हैं जल्दी ही दुनिया के बाकी"
+										},
+										{
+											"start": 220150,
+											"end": 221875,
+											"text": "हिस्सों की तुलना में. दुनिया के बाकी लोगों"
+										},
+										{
+											"start": 221875,
+											"end": 223600,
+											"text": "की मदद करना देखना है कि"
+										},
+										{
+											"start": 223600,
+											"end": 224300,
+											"text": "समाधान में हम पा रहे हैं."
+										},
+										{
+											"start": 224300,
+											"end": 225850,
+											"text": "वे भी इन आगे"
+										},
+										{
+											"start": 225850,
+											"end": 227400,
+											"text": "बढ़ने की आवश्यकता"
+										},
+										{
+											"start": 227400,
+											"end": 229500,
+											"text": "होगी, प्रशांत द्वीप के पारंपरिक"
+										},
+										{
+											"start": 229500,
+											"end": 231600,
+											"text": "ज्ञान में कुछ"
+										},
+										{
+											"start": 231600,
+											"end": 233100,
+											"text": "मामलों में आधारित. यह सिर्फ साल के लिए"
+										},
+										{
+											"start": 233100,
+											"end": 234600,
+											"text": "एक उल्लेखनीय अवसर आने वाला है."
+										},
+										{
+											"start": 234600,
+											"end": 239500,
+											"text": "यह होलो परिसर और उत्सव के शुभारंभ"
+										},
+										{
+											"start": 239500,
+											"end": 244400,
+											"text": "के साथ अमेरिकन समोआ में एक"
+										},
+										{
+											"start": 244400,
+											"end": 249850,
+											"text": "महान दिन था. मैं ASEC अमेरिकन समोआ सामुदायिक कॉलेज और हवाई विश्वविद्यालय सहित"
+										},
+										{
+											"start": 249850,
+											"end": 252575,
+											"text": "आज इस महान आपरेशन में शामिल सभी"
+										},
+										{
+											"start": 252575,
+											"end": 255300,
+											"text": "टीमों को धन्यवाद देना चाहूंगा"
+										},
+										{
+											"start": 255300,
+											"end": 257700,
+											"text": "और छात्रों को जो आने वाले वर्षों में होलो परिसर"
+										},
+										{
+											"start": 257700,
+											"end": 258900,
+											"text": "से लाभ होगा सभी का"
+										},
+										{
+											"start": 258900,
+											"end": 260100,
+											"text": "सबसे अच्छा चाहते हैं."
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_kExp.mp4"
 								],
@@ -86,6 +5372,20 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "gofar"
+								},
+								"underlay": {
+									"show": "background",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								}
 							}
 						],
