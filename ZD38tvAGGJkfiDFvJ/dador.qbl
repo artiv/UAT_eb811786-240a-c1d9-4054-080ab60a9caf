@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "anxiety_3A93",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_3A93.mp4",
-								"size": 4483072,
+								"public_id": "undefined_anxiety_3A93_pFnG",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fundefined_anxiety_3A93_pFnG.mp4?generation=1570598140372851&alt=media",
+								"size": "4172199",
 								"lastModified": 1539593721130,
-								"lastModifiedDate": "2018-10-15T08:55:21.130Z",
+								"lastModifiedDate": "2019-10-09T05:15:40.372Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 29.976961,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_3A93.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_anxiety_3A93_pFnG.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1396,10 +1396,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_3A93.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fanxiety_3A93.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_anxiety_3A93_pFnG.mp4"
 								],
 								"transformedPublicIds": [
-									"anxiety_3A93"
+									"anxiety_3A93",
+									"undefined_anxiety_3A93_pFnG"
 								],
 								"embed": {
 									"width": 1280,
@@ -1428,7 +1430,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
