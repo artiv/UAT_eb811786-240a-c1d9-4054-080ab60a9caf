@@ -1429,6 +1429,44 @@
 									},
 									"matchText": true
 								}
+							},
+							{
+								"public_id": "sdfg_Yxcn",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsdfg_Yxcn.mp4",
+								"size": 1083955,
+								"lastModified": 1570652258285,
+								"lastModifiedDate": "2019-10-09T20:17:38.285Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"extension": "mp4",
+								"duration": 29.648978,
+								"width": 480,
+								"height": 360,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsdfg_Yxcn.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fsdfg_Yxcn.mp4"
+								],
+								"transformedPublicIds": [
+									"sdfg_Yxcn"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sdfg"
+								}
 							}
 						],
 						"fieldChildren": []
