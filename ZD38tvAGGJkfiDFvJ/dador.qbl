@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "AH_1_Final_iSGG",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAH_1_Final_iSGG.mp4",
-								"size": 20418509,
+								"public_id": "undefined_AH_1_Final_iSGG_hCRg",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fundefined_AH_1_Final_iSGG_hCRg.mp4?generation=1570602208256850&alt=media",
+								"size": "4051067",
 								"lastModified": 1536563844427,
-								"lastModifiedDate": "2018-09-10T07:17:24.427Z",
+								"lastModifiedDate": "2019-10-09T06:23:28.256Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 17.173333,
 								"width": 1920,
 								"height": 1080,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAH_1_Final_iSGG.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_AH_1_Final_iSGG_hCRg.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1396,10 +1396,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAH_1_Final_iSGG.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FAH_1_Final_iSGG.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_AH_1_Final_iSGG_hCRg.mp4"
 								],
 								"transformedPublicIds": [
-									"AH_1_Final_iSGG"
+									"AH_1_Final_iSGG",
+									"undefined_AH_1_Final_iSGG_hCRg"
 								],
 								"embed": {
 									"width": 1920,
@@ -1428,7 +1430,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
