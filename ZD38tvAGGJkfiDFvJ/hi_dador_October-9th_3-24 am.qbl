@@ -77,20 +77,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "74qr5",
+													"key": "c0j33",
 													"text": "आज हम दो शानदार मील",
 													"type": "unstyled",
 													"depth": 0,
@@ -132,20 +132,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "45pfj",
+													"key": "dar7s",
 													"text": "के पत्थर मना रहे",
 													"type": "unstyled",
 													"depth": 0,
@@ -187,20 +187,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fnbqf",
+													"key": "clscv",
 													"text": "हैं. पहले एक Hawaiki केबल के लिए अमेरिकन समोआ कनेक्शन के",
 													"type": "unstyled",
 													"depth": 0,
@@ -242,20 +242,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6cbl5",
+													"key": "2f9ns",
 													"text": "पहले साल की सालगिरह है.",
 													"type": "unstyled",
 													"depth": 0,
@@ -297,20 +297,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cgj68",
+													"key": "280eb",
 													"text": "दूसरा होलो-कैंपस का शुभारंभ",
 													"type": "unstyled",
 													"depth": 0,
@@ -352,20 +352,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "418of",
+													"key": "f15uf",
 													"text": "है। प्रशांत में पहले तीन",
 													"type": "unstyled",
 													"depth": 0,
@@ -407,20 +407,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "merv",
+													"key": "c0lbg",
 													"text": "आयामी दूरस्थ शिक्षा मंच. सुप्रभात, और एक पल है कि अमेरिकन समोआ के क्षेत्र के लिए एक",
 													"type": "unstyled",
 													"depth": 0,
@@ -462,20 +462,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4dfnm",
+													"key": "d67c9",
 													"text": "ऐतिहासिक मील का पत्थर के रूप में वापस देखा",
 													"type": "unstyled",
 													"depth": 0,
@@ -517,20 +517,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "997mt",
+													"key": "5id7e",
 													"text": "जाएगा करने के लिए",
 													"type": "unstyled",
 													"depth": 0,
@@ -572,20 +572,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "520lf",
+													"key": "22ler",
 													"text": "आपका स्वागत है.",
 													"type": "unstyled",
 													"depth": 0,
@@ -627,20 +627,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3cm41",
+													"key": "9po3b",
 													"text": "Aloha और",
 													"type": "unstyled",
 													"depth": 0,
@@ -682,20 +682,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fkgl1",
+													"key": "epp70",
 													"text": "इस घटना के लिए आपका स्वागत है. इसके",
 													"type": "unstyled",
 													"depth": 0,
@@ -737,20 +737,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "919u4",
+													"key": "f5pen",
 													"text": "बारे में दूसरी छमाही के लिए.",
 													"type": "unstyled",
 													"depth": 0,
@@ -792,20 +792,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e9o93",
+													"key": "120e",
 													"text": "यह आप सभी को देखने",
 													"type": "unstyled",
 													"depth": 0,
@@ -847,20 +847,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b3ot7",
+													"key": "akkrg",
 													"text": "के लिए इस तरह",
 													"type": "unstyled",
 													"depth": 0,
@@ -902,20 +902,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "87qit",
+													"key": "acah",
 													"text": "के एक खुशी है। यह इस तकनीक और उल्लेखनीय नए Hawaiki नेटवर्क कनेक्शन द्वारा सशक्त रिश्तों का",
 													"type": "unstyled",
 													"depth": 0,
@@ -957,20 +957,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ektd1",
+													"key": "7mhr1",
 													"text": "एक सेट है और हम साल के लिए",
 													"type": "unstyled",
 													"depth": 0,
@@ -1012,20 +1012,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9snfn",
+													"key": "7bn5q",
 													"text": "एक साथ प्रयोग किया",
 													"type": "unstyled",
 													"depth": 0,
@@ -1067,20 +1067,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7rllk",
+													"key": "33ami",
 													"text": "जाएगा आने के",
 													"type": "unstyled",
 													"depth": 0,
@@ -1122,20 +1122,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "duaia",
+													"key": "2jjbs",
 													"text": "लिए. आज मैं एक परियोजना है कि अमेरिकन समोआ के सबसे महत्वपूर्ण जल संसाधन चुनौतियों",
 													"type": "unstyled",
 													"depth": 0,
@@ -1177,20 +1177,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "55nhs",
+													"key": "ecki",
 													"text": "में से एक पर ध्यान केंद्रित किया है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1232,20 +1232,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "388qn",
+													"key": "atpkb",
 													"text": "से कुछ परिणाम साझा करना चाहते",
 													"type": "unstyled",
 													"depth": 0,
@@ -1287,20 +1287,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "hidm",
+													"key": "1kjn1",
 													"text": "हैं. क्या यह वास्तव में",
 													"type": "unstyled",
 													"depth": 0,
@@ -1342,20 +1342,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "80mmn",
+													"key": "gq5v",
 													"text": "हमें सक्षम बनाता है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1397,20 +1397,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b4t8a",
+													"key": "7hnl0",
 													"text": "हम और अधिक एक साथ और विभिन्न",
 													"type": "unstyled",
 													"depth": 0,
@@ -1452,20 +1452,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d0u9f",
+													"key": "ehqjh",
 													"text": "समूहों में कर सकते हैं,",
 													"type": "unstyled",
 													"depth": 0,
@@ -1507,20 +1507,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "98kul",
+													"key": "4f2o7",
 													"text": "लेकिन इस तरह हम वास्तव में हमारी",
 													"type": "unstyled",
 													"depth": 0,
@@ -1562,20 +1562,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5bmse",
+													"key": "cb8u6",
 													"text": "टीमों के साथ बैठक बना सकते",
 													"type": "unstyled",
 													"depth": 0,
@@ -1617,20 +1617,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c0h2q",
+													"key": "fkp2m",
 													"text": "हैं. हम आज यहाँ कर रहे हैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -1672,20 +1672,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3rpcl",
+													"key": "d0ua",
 													"text": "जैसे जानकारी साझा कर सकते हैं.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1727,20 +1727,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bs6ea",
+													"key": "biejk",
 													"text": "हम कक्षाओं की पेशकश कर सकते हैं.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1782,20 +1782,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ami8m",
+													"key": "fnqtu",
 													"text": "हम परामर्श में संलग्न कर सकते",
 													"type": "unstyled",
 													"depth": 0,
@@ -1837,20 +1837,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "602si",
+													"key": "5t820",
 													"text": "हैं। कि सब के सब प्रत्यक्ष उच्च गति कनेक्शन",
 													"type": "unstyled",
 													"depth": 0,
@@ -1892,20 +1892,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4bm0v",
+													"key": "9f2og",
 													"text": "है कि हम आज यहाँ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1947,20 +1947,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e8115",
+													"key": "9v23q",
 													"text": "प्रदर्शन कर रहे",
 													"type": "unstyled",
 													"depth": 0,
@@ -2002,20 +2002,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a2oho",
+													"key": "18fd8",
 													"text": "हैं की तरह के बिना लगभग असंभव है. इस तरह प्रौद्योगिकी मैं वास्तव में एक लाभ जा रहा है और संभवतः एक प्रमाण पत्र कार्यक्रम खोलने या",
 													"type": "unstyled",
 													"depth": 0,
@@ -2057,20 +2057,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1i0gm",
+													"key": "bjrvo",
 													"text": "ASEC में छात्रों को लाने के लिए और पाठ्यक्रम है कि वे सिखाने",
 													"type": "unstyled",
 													"depth": 0,
@@ -2112,20 +2112,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9iqt8",
+													"key": "eobtm",
 													"text": "की क्षमता नहीं है के कुछ प्रदान",
 													"type": "unstyled",
 													"depth": 0,
@@ -2167,20 +2167,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ciuc2",
+													"key": "3c3c2",
 													"text": "करने के समान देख सकता",
 													"type": "unstyled",
 													"depth": 0,
@@ -2222,20 +2222,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3kjpe",
+													"key": "340v9",
 													"text": "है. विशेष रूप से एक छात्र के नजरिए से अब वे",
 													"type": "unstyled",
 													"depth": 0,
@@ -2277,20 +2277,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "biu4k",
+													"key": "a65u5",
 													"text": "हवाई विश्वविद्यालय से शिक्षा की",
 													"type": "unstyled",
 													"depth": 0,
@@ -2332,20 +2332,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3o2lp",
+													"key": "2c9sf",
 													"text": "गुणवत्ता का आनंद सकता",
 													"type": "unstyled",
 													"depth": 0,
@@ -2387,20 +2387,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c177c",
+													"key": "90gsi",
 													"text": "है. और हम रेमी Galasso और Hawaiki है कि यह सब संभव बना दिया है और हम इस",
 													"type": "unstyled",
 													"depth": 0,
@@ -2442,20 +2442,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8vdik",
+													"key": "u6ah",
 													"text": "साझेदारी के लिए बहुत आभारी हैं और हमें उम्मीद",
 													"type": "unstyled",
 													"depth": 0,
@@ -2497,20 +2497,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d9j4v",
+													"key": "fq9km",
 													"text": "है कि यह जारी रहेगा",
 													"type": "unstyled",
 													"depth": 0,
@@ -2552,20 +2552,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7ures",
+													"key": "8tcm4",
 													"text": "जैसे दोस्त हैं.",
 													"type": "unstyled",
 													"depth": 0,
@@ -2607,20 +2607,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5ve9r",
+													"key": "7ffn6",
 													"text": "मैं वर्तमान में हवाई विश्वविद्यालय के साथ अपने",
 													"type": "unstyled",
 													"depth": 0,
@@ -2662,20 +2662,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6aktg",
+													"key": "29slf",
 													"text": "स्वामी का पीछा कर रहा हूँ",
 													"type": "unstyled",
 													"depth": 0,
@@ -2717,20 +2717,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ddrk9",
+													"key": "3910e",
 													"text": "और हम इस STEAM शिक्षा के बारे में और उच्च गति इंटरनेट के साथ और अधिक सीख रहे हैं. मैं इसे अपने घर",
 													"type": "unstyled",
 													"depth": 0,
@@ -2772,20 +2772,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "36h47",
+													"key": "9vcr7",
 													"text": "से स्कूल से अलग उपयोग कर सकते हैं क्योंकि इससे पहले",
 													"type": "unstyled",
 													"depth": 0,
@@ -2827,20 +2827,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a0jmk",
+													"key": "2d7bb",
 													"text": "कि मैं स्कूल में काम करना",
 													"type": "unstyled",
 													"depth": 0,
@@ -2882,20 +2882,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bbcg6",
+													"key": "9lo42",
 													"text": "होगा क्योंकि है कि",
 													"type": "unstyled",
 													"depth": 0,
@@ -2937,20 +2937,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bo3t9",
+													"key": "7ku3j",
 													"text": "सबसे तेजी से जगह मैं इंटरनेट",
 													"type": "unstyled",
 													"depth": 0,
@@ -2992,20 +2992,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1afm8",
+													"key": "3eldv",
 													"text": "का उपयोग पा सकते",
 													"type": "unstyled",
 													"depth": 0,
@@ -3047,20 +3047,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7v6m3",
+													"key": "853c9",
 													"text": "है. Hawaiki के बाद से जुड़ा हुआ था हम एक दस गुना के बारे में देखा",
 													"type": "unstyled",
 													"depth": 0,
@@ -3102,20 +3102,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cvac5",
+													"key": "1a92h",
 													"text": "है, एक 10 गुना वृद्धि, हमारे ग्राहकों के",
 													"type": "unstyled",
 													"depth": 0,
@@ -3157,20 +3157,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c7nag",
+													"key": "5v9gg",
 													"text": "माध्यम से एक डेटा",
 													"type": "unstyled",
 													"depth": 0,
@@ -3212,20 +3212,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ecar5",
+													"key": "8brb9",
 													"text": "प्रवाह की मात्रा",
 													"type": "unstyled",
 													"depth": 0,
@@ -3267,20 +3267,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "974of",
+													"key": "bhmqi",
 													"text": "में. दूसरी लहर में जहां",
 													"type": "unstyled",
 													"depth": 0,
@@ -3322,20 +3322,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c6u5v",
+													"key": "fl5tv",
 													"text": "हम देखेंगे एक और",
 													"type": "unstyled",
 													"depth": 0,
@@ -3377,20 +3377,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "deaqp",
+													"key": "e15hj",
 													"text": "दोहरीकरण इस इंटरनेट क्षमता के",
 													"type": "unstyled",
 													"depth": 0,
@@ -3432,20 +3432,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4ukpm",
+													"key": "2somu",
 													"text": "संस्थागत उपयोग में",
 													"type": "unstyled",
 													"depth": 0,
@@ -3487,20 +3487,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "32rhr",
+													"key": "da576",
 													"text": "होगा. विशेष रूप से",
 													"type": "unstyled",
 													"depth": 0,
@@ -3542,20 +3542,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6nb2a",
+													"key": "a8keu",
 													"text": "शिक्षा के लिए,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3597,20 +3597,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "apfdl",
+													"key": "5lvqc",
 													"text": "स्वास्थ्य देखभाल के लिए,",
 													"type": "unstyled",
 													"depth": 0,
@@ -3652,20 +3652,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bbcp2",
+													"key": "6pl9p",
 													"text": "और फिर रोजगार के सृजन के",
 													"type": "unstyled",
 													"depth": 0,
@@ -3707,20 +3707,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "24hq0",
+													"key": "4ce4e",
 													"text": "लिए. हमारे देश के विकास और लोगों",
 													"type": "unstyled",
 													"depth": 0,
@@ -3762,20 +3762,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a0u9s",
+													"key": "eomnf",
 													"text": "के विकास के लिए अग्रणी।",
 													"type": "unstyled",
 													"depth": 0,
@@ -3817,20 +3817,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6u0qv",
+													"key": "50jmt",
 													"text": "प्रशांत में हम जलवायु परिवर्तन",
 													"type": "unstyled",
 													"depth": 0,
@@ -3872,20 +3872,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b45ss",
+													"key": "eovua",
 													"text": "के सामने लाइनों में",
 													"type": "unstyled",
 													"depth": 0,
@@ -3927,20 +3927,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "127o5",
+													"key": "e2sf2",
 													"text": "हैं. हम निश्चित रूप से प्रभाव का सामना कर रहे हैं जल्दी ही दुनिया के बाकी",
 													"type": "unstyled",
 													"depth": 0,
@@ -3982,20 +3982,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ar2h0",
+													"key": "55dhm",
 													"text": "हिस्सों की तुलना में. दुनिया के बाकी लोगों",
 													"type": "unstyled",
 													"depth": 0,
@@ -4037,20 +4037,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "acmq6",
+													"key": "9jko4",
 													"text": "की मदद करना देखना है कि",
 													"type": "unstyled",
 													"depth": 0,
@@ -4092,20 +4092,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3pmv4",
+													"key": "1ug3p",
 													"text": "समाधान में हम पा रहे हैं.",
 													"type": "unstyled",
 													"depth": 0,
@@ -4147,20 +4147,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e8u3c",
+													"key": "bgfpq",
 													"text": "वे भी इन आगे",
 													"type": "unstyled",
 													"depth": 0,
@@ -4202,20 +4202,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3pf2j",
+													"key": "bo2qc",
 													"text": "बढ़ने की आवश्यकता",
 													"type": "unstyled",
 													"depth": 0,
@@ -4257,20 +4257,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3ofnr",
+													"key": "7f4eq",
 													"text": "होगी, प्रशांत द्वीप के पारंपरिक",
 													"type": "unstyled",
 													"depth": 0,
@@ -4312,20 +4312,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bhp5r",
+													"key": "ber1q",
 													"text": "ज्ञान में कुछ",
 													"type": "unstyled",
 													"depth": 0,
@@ -4367,20 +4367,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "djgmg",
+													"key": "4t29j",
 													"text": "मामलों में आधारित. यह सिर्फ साल के लिए",
 													"type": "unstyled",
 													"depth": 0,
@@ -4422,20 +4422,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9dssr",
+													"key": "9qo98",
 													"text": "एक उल्लेखनीय अवसर आने वाला है.",
 													"type": "unstyled",
 													"depth": 0,
@@ -4477,20 +4477,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ff25n",
+													"key": "c42ho",
 													"text": "यह होलो परिसर और उत्सव के शुभारंभ",
 													"type": "unstyled",
 													"depth": 0,
@@ -4532,20 +4532,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "46g4m",
+													"key": "69dbk",
 													"text": "के साथ अमेरिकन समोआ में एक",
 													"type": "unstyled",
 													"depth": 0,
@@ -4587,20 +4587,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "apjr8",
+													"key": "aqptk",
 													"text": "महान दिन था. मैं ASEC अमेरिकन समोआ सामुदायिक कॉलेज और हवाई विश्वविद्यालय सहित",
 													"type": "unstyled",
 													"depth": 0,
@@ -4642,20 +4642,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "297mr",
+													"key": "9fpgq",
 													"text": "आज इस महान आपरेशन में शामिल सभी",
 													"type": "unstyled",
 													"depth": 0,
@@ -4697,20 +4697,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7qsad",
+													"key": "29c0m",
 													"text": "टीमों को धन्यवाद देना चाहूंगा",
 													"type": "unstyled",
 													"depth": 0,
@@ -4752,20 +4752,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "foq77",
+													"key": "fcu24",
 													"text": "और छात्रों को जो आने वाले वर्षों में होलो परिसर",
 													"type": "unstyled",
 													"depth": 0,
@@ -4807,20 +4807,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ftigk",
+													"key": "behts",
 													"text": "से लाभ होगा सभी का",
 													"type": "unstyled",
 													"depth": 0,
@@ -4862,20 +4862,20 @@
 										"font": "Noto Sans Devanagari",
 										"size": 30,
 										"color": {
-											"hex": "#c2b3b3",
 											"rgb": {
-												"r": 194,
-												"g": 179,
-												"b": 179,
+												"r": 0,
+												"g": 0,
+												"b": 0,
 												"a": 1
-											}
+											},
+											"hex": "#000000"
 										},
 										"useXY": false,
 										"matchUnderlay": true,
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1gr32",
+													"key": "dr7s5",
 													"text": "सबसे अच्छा चाहते हैं.",
 													"type": "unstyled",
 													"depth": 0,
@@ -5374,7 +5374,7 @@
 									"seoSuffix": "gofar"
 								},
 								"underlay": {
-									"show": false,
+									"show": "stripe",
 									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
