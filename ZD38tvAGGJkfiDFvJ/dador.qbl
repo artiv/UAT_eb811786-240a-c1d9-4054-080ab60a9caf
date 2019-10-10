@@ -54,7 +54,7 @@
 						"fieldValues": [
 							{
 								"public_id": "sampleVideo_GSCJ",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_GSCJ.mp4",
+								"mediaLink": "https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
 								"size": 1055736,
 								"lastModified": 1558986166768,
 								"lastModifiedDate": "2019-05-27T19:42:46.768Z",
@@ -64,13 +64,13 @@
 								"duration": 5.312,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_GSCJ.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
 								"overlays": [],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FsampleVideo_GSCJ.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4"
 								],
 								"transformedPublicIds": [
 									"sampleVideo_GSCJ"
