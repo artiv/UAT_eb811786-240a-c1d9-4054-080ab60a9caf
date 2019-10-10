@@ -1429,6 +1429,44 @@
 									},
 									"matchText": true
 								}
+							},
+							{
+								"public_id": "gofar_ibQk",
+								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_ibQk.mp4",
+								"size": 22573052,
+								"lastModified": 1548869742258,
+								"lastModifiedDate": "2019-01-30T17:35:42.258Z",
+								"type": "video/mp4",
+								"format": "mp4",
+								"extension": "mp4",
+								"duration": 204.475,
+								"width": 854,
+								"height": 480,
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_ibQk.mp4",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_ibQk.mp4"
+								],
+								"transformedPublicIds": [
+									"gofar_ibQk"
+								],
+								"embed": {
+									"width": 854,
+									"height": 480,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "gofar"
+								}
 							}
 						],
 						"fieldChildren": []
