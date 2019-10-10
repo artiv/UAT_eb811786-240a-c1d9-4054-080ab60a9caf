@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "undefined_QBL Media Explainer June 4_2019_aPhX_FfJS",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fundefined_QBL%20Media%20Explainer%20June%204_2019_aPhX_FfJS.mp4?generation=1570729203348503&alt=media",
-								"size": "13504264",
+								"public_id": "undefined_QBL Media Explainer June 4_2019_aPhX_Jhsb",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fundefined_QBL%20Media%20Explainer%20June%204_2019_aPhX_Jhsb.mp4?generation=1570730527338011&alt=media",
+								"size": "13536515",
 								"lastModified": 1563481698786,
-								"lastModifiedDate": "2019-10-10T17:40:03.348Z",
+								"lastModifiedDate": "2019-10-10T18:02:07.337Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 173.162646,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_QBL Media Explainer June 4_2019_aPhX_FfJS.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_QBL Media Explainer June 4_2019_aPhX_Jhsb.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1397,11 +1397,13 @@
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FQBL%20Media%20Explainer%20June%204_2019_aPhX.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_QBL Media Explainer June 4_2019_aPhX_FfJS.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_QBL Media Explainer June 4_2019_aPhX_FfJS.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/undefined_QBL Media Explainer June 4_2019_aPhX_Jhsb.mp4"
 								],
 								"transformedPublicIds": [
 									"QBL Media Explainer June 4_2019_aPhX",
-									"undefined_QBL Media Explainer June 4_2019_aPhX_FfJS"
+									"undefined_QBL Media Explainer June 4_2019_aPhX_FfJS",
+									"undefined_QBL Media Explainer June 4_2019_aPhX_Jhsb"
 								],
 								"embed": {
 									"width": 1280,
