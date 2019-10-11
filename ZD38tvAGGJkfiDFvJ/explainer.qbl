@@ -65,10 +65,3496 @@
 								"width": 1280,
 								"height": 720,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FQBL%20Media%20Explainer%20June%204_2019_4xgt.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Today we are celebrating",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "10kbd",
+													"text": "Today we are celebrating",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 20.7,
+										"end_offset": 21.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "two fantastic milestones.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "245pg",
+													"text": "two fantastic milestones.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "The first one is the first year anniversary",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4sj5s",
+													"text": "The first one is the first year anniversary",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 23.1,
+										"end_offset": 25.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "of American Samoa",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "37l4q",
+													"text": "of American Samoa",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.6,
+										"end_offset": 27.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "connections to the Hawaiki cable. And the second is the launch of holo campus.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "27l1i",
+													"text": "connections to the Hawaiki cable. And the second is the launch of holo campus.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 27.3,
+										"end_offset": 31.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "The first",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7ighe",
+													"text": "The first",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 31.2,
+										"end_offset": 31.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "three dimensional",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "33mau",
+													"text": "three dimensional",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 31.9,
+										"end_offset": 32.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "remote learning",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "abkaf",
+													"text": "remote learning",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 32.6,
+										"end_offset": 33.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "platform in the Pacific.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ek8ee",
+													"text": "platform in the Pacific.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 33.9,
+										"end_offset": 35.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Good morning, and welcome to",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "714f8",
+													"text": "Good morning, and welcome to",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 51.7,
+										"end_offset": 53.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "a moment",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8rtns",
+													"text": "a moment",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 53.2,
+										"end_offset": 54.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "that",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fci2s",
+													"text": "that",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 54.1,
+										"end_offset": 54.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "will be looked back on as a historic",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8igc1",
+													"text": "will be looked back on as a historic",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 54.8,
+										"end_offset": 57.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "landmark for the",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9uo9d",
+													"text": "landmark for the",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 57.3,
+										"end_offset": 59,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "territory of American Samoa.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c5osl",
+													"text": "territory of American Samoa.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 59,
+										"end_offset": 60.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Aloha and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "chevv",
+													"text": "Aloha and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 68,
+										"end_offset": 69.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "welcome to this event to the other half of it.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ugpc",
+													"text": "welcome to this event to the other half of it.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 69.9,
+										"end_offset": 72.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "It's such a pleasure to see you all.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "879a8",
+													"text": "It's such a pleasure to see you all.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 72.8,
+										"end_offset": 75.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "This is a set of relationships",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a4a44",
+													"text": "This is a set of relationships",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 75.6,
+										"end_offset": 77.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "empowered by this technology",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7oqms",
+													"text": "empowered by this technology",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 77.5,
+										"end_offset": 80,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "and the remarkable new Hawaiki",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fb9rs",
+													"text": "and the remarkable new Hawaiki",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 80,
+										"end_offset": 82.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "network",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "267kd",
+													"text": "network",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 82.1,
+										"end_offset": 82.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "connection and we will be using",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "95mds",
+													"text": "connection and we will be using",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 82.8,
+										"end_offset": 85,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "together",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6dean",
+													"text": "together",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 85,
+										"end_offset": 85.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "for years to come.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ce890",
+													"text": "for years to come.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 85.7,
+										"end_offset": 86.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Today I'd like to share some results from a",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6emo1",
+													"text": "Today I'd like to share some results from a",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 86.9,
+										"end_offset": 90.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "project that",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4l2pl",
+													"text": "project that",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 90.6,
+										"end_offset": 91.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "is focused on one of",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "2k6oe",
+													"text": "is focused on one of",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 91.7,
+										"end_offset": 94,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "American Samoa's",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ij94",
+													"text": "American Samoa's",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 94,
+										"end_offset": 95.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "most important",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8n101",
+													"text": "most important",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 95.4,
+										"end_offset": 96.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "water resource challenges.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cn680",
+													"text": "water resource challenges.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 96.2,
+										"end_offset": 97.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "What this really",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ebg4",
+													"text": "What this really",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 97.3,
+										"end_offset": 99.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "enables us to do is",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "al2ri",
+													"text": "enables us to do is",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 99.2,
+										"end_offset": 100.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "we can do much more together",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "33p2j",
+													"text": "we can do much more together",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 100.6,
+										"end_offset": 102.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "and in different groups, ",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c297",
+													"text": "and in different groups, ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 102.7,
+										"end_offset": 103.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "but this way we can actually create meetings with our",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "54h0e",
+													"text": "but this way we can actually create meetings with our",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 103.8,
+										"end_offset": 107.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "teams.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ffqo",
+													"text": "teams.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 107.7,
+										"end_offset": 108.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "We can share information",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "acag9",
+													"text": "We can share information",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 108.3,
+										"end_offset": 109.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "such as we're doing here today.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8snq6",
+													"text": "such as we're doing here today.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 109.6,
+										"end_offset": 111.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "We can offer",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "fii39",
+													"text": "We can offer",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 111.4,
+										"end_offset": 112.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "classes. We can engage in",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "309hu",
+													"text": "classes. We can engage in",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 112.5,
+										"end_offset": 114,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "consultations.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6j4u9",
+													"text": "consultations.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 114,
+										"end_offset": 115.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "All of that is almost impossible",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "a0qph",
+													"text": "All of that is almost impossible",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 115.1,
+										"end_offset": 117.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "without the kind of direct high-speed",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "35flj",
+													"text": "without the kind of direct high-speed",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 117.8,
+										"end_offset": 120.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "connections that we're demonstrating here today.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "caqu0",
+													"text": "connections that we're demonstrating here today.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 120.5,
+										"end_offset": 122.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Technologies like this I could really see being a benefit and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "df9hk",
+													"text": "Technologies like this I could really see being a benefit and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 122.9,
+										"end_offset": 126.2,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "potentially opening up a",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "9sh93",
+													"text": "potentially opening up a",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 126.2,
+										"end_offset": 128,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "kind of a certificate",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "77jmm",
+													"text": "kind of a certificate",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 127.9,
+										"end_offset": 129.5,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "program or something",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "71r8f",
+													"text": "program or something",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 129.5,
+										"end_offset": 130.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "to bring to the students at ASEC",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7qd12",
+													"text": "to bring to the students at ASEC",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 130.8,
+										"end_offset": 134,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "and provide some of the courses that they don't have the capacity to teach there.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5oid0",
+													"text": "and provide some of the courses that they don't have the capacity to teach there.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 134,
+										"end_offset": 137.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "Especially from a student perspective now they can enjoy the quality",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cif9j",
+													"text": "Especially from a student perspective now they can enjoy the quality",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 137.4,
+										"end_offset": 141.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "of",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "96i24",
+													"text": "of",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 141.3,
+										"end_offset": 141.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "instruction from the University of Hawaii.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7744u",
+													"text": "instruction from the University of Hawaii.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 141.9,
+										"end_offset": 144.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "And we have friends like to go and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "74elb",
+													"text": "And we have friends like to go and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 144.4,
+										"end_offset": 146.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "we hope that you will continue.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "550ea",
+													"text": "we hope that you will continue.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 146.3,
+										"end_offset": 153.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "I'm currently",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3eso4",
+													"text": "I'm currently",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 159.4,
+										"end_offset": 160.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"text": "pursuing my masters",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#faf2f2",
+											"rgb": {
+												"r": 250,
+												"g": 242,
+												"b": 242,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "cmrs9",
+													"text": "pursuing my masters",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 160.4,
+										"end_offset": 162.7,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:20,700 --> 00:00:21,600\nToday we are celebrating\n\n2\n00:00:21,600 --> 00:00:23,100\ntwo fantastic milestones.\n\n3\n00:00:23,100 --> 00:00:25,600\nThe first one is the first year anniversary\n\n4\n00:00:25,600 --> 00:00:27,300\nof American Samoa\n\n5\n00:00:27,300 --> 00:00:31,200\nconnections to the Hawaiki cable. And the second is the launch of holo campus.\n\n6\n00:00:31,200 --> 00:00:31,900\nThe first\n\n7\n00:00:31,900 --> 00:00:32,600\nthree dimensional\n\n8\n00:00:32,600 --> 00:00:33,900\nremote learning\n\n9\n00:00:33,900 --> 00:00:35,200\nplatform in the Pacific.\n\n10\n00:00:51,700 --> 00:00:53,200\nGood morning, and welcome to\n\n11\n00:00:53,200 --> 00:00:54,100\na moment\n\n12\n00:00:54,100 --> 00:00:54,800\nthat\n\n13\n00:00:54,800 --> 00:00:57,300\nwill be looked back on as a historic\n\n14\n00:00:57,300 --> 00:00:59,000\nlandmark for the\n\n15\n00:00:59,000 --> 00:01:00,800\nterritory of American Samoa.\n\n16\n00:01:08,000 --> 00:01:09,900\nAloha and\n\n17\n00:01:09,900 --> 00:01:12,800\nwelcome to this event to the other half of it.\n\n18\n00:01:12,800 --> 00:01:15,600\nIt's such a pleasure to see you all.\n\n19\n00:01:15,600 --> 00:01:17,500\nThis is a set of relationships\n\n20\n00:01:17,500 --> 00:01:20,000\nempowered by this technology\n\n21\n00:01:20,000 --> 00:01:22,100\nand the remarkable new Hawaiki\n\n22\n00:01:22,100 --> 00:01:22,800\nnetwork\n\n23\n00:01:22,800 --> 00:01:25,000\nconnection and we will be using\n\n24\n00:01:25,000 --> 00:01:25,700\ntogether\n\n25\n00:01:25,700 --> 00:01:26,900\nfor years to come.\n\n26\n00:01:26,900 --> 00:01:30,600\nToday I'd like to share some results from a\n\n27\n00:01:30,600 --> 00:01:31,700\nproject that\n\n28\n00:01:31,700 --> 00:01:34,000\nis focused on one of\n\n29\n00:01:34,000 --> 00:01:35,400\nAmerican Samoa's\n\n30\n00:01:35,400 --> 00:01:36,200\nmost important\n\n31\n00:01:36,200 --> 00:01:37,300\nwater resource challenges.\n\n32\n00:01:37,300 --> 00:01:39,200\nWhat this really\n\n33\n00:01:39,200 --> 00:01:40,600\nenables us to do is\n\n34\n00:01:40,600 --> 00:01:42,700\nwe can do much more together\n\n35\n00:01:42,700 --> 00:01:43,800\nand in different groups, \n\n36\n00:01:43,800 --> 00:01:47,700\nbut this way we can actually create meetings with our\n\n37\n00:01:47,700 --> 00:01:48,300\nteams.\n\n38\n00:01:48,300 --> 00:01:49,600\nWe can share information\n\n39\n00:01:49,600 --> 00:01:51,400\nsuch as we're doing here today.\n\n40\n00:01:51,400 --> 00:01:52,500\nWe can offer\n\n41\n00:01:52,500 --> 00:01:54,000\nclasses. We can engage in\n\n42\n00:01:54,000 --> 00:01:55,100\nconsultations.\n\n43\n00:01:55,100 --> 00:01:57,800\nAll of that is almost impossible\n\n44\n00:01:57,800 --> 00:02:00,500\nwithout the kind of direct high-speed\n\n45\n00:02:00,500 --> 00:02:02,900\nconnections that we're demonstrating here today.\n\n46\n00:02:02,900 --> 00:02:06,200\nTechnologies like this I could really see being a benefit and\n\n47\n00:02:06,200 --> 00:02:08,000\npotentially opening up a\n\n48\n00:02:07,900 --> 00:02:09,500\nkind of a certificate\n\n49\n00:02:09,500 --> 00:02:10,800\nprogram or something\n\n50\n00:02:10,800 --> 00:02:14,000\nto bring to the students at ASEC\n\n51\n00:02:14,000 --> 00:02:17,400\nand provide some of the courses that they don't have the capacity to teach there.\n\n52\n00:02:17,400 --> 00:02:21,300\nEspecially from a student perspective now they can enjoy the quality\n\n53\n00:02:21,300 --> 00:02:21,900\nof\n\n54\n00:02:21,900 --> 00:02:24,400\ninstruction from the University of Hawaii.\n\n55\n00:02:24,400 --> 00:02:26,300\nAnd we have friends like to go and\n\n56\n00:02:26,300 --> 00:02:33,300\nwe hope that you will continue.\n\n57\n00:02:39,400 --> 00:02:40,400\nI'm currently\n\n58\n00:02:40,400 --> 00:02:42,700\npursuing my masters\n",
+									"parsed": [
+										{
+											"start": 20700,
+											"end": 21600,
+											"text": "Today we are celebrating"
+										},
+										{
+											"start": 21600,
+											"end": 23100,
+											"text": "two fantastic milestones."
+										},
+										{
+											"start": 23100,
+											"end": 25600,
+											"text": "The first one is the first year anniversary"
+										},
+										{
+											"start": 25600,
+											"end": 27300,
+											"text": "of American Samoa"
+										},
+										{
+											"start": 27300,
+											"end": 31200,
+											"text": "connections to the Hawaiki cable. And the second is the launch of holo campus."
+										},
+										{
+											"start": 31200,
+											"end": 31900,
+											"text": "The first"
+										},
+										{
+											"start": 31900,
+											"end": 32600,
+											"text": "three dimensional"
+										},
+										{
+											"start": 32600,
+											"end": 33900,
+											"text": "remote learning"
+										},
+										{
+											"start": 33900,
+											"end": 35200,
+											"text": "platform in the Pacific."
+										},
+										{
+											"start": 51700,
+											"end": 53200,
+											"text": "Good morning, and welcome to"
+										},
+										{
+											"start": 53200,
+											"end": 54100,
+											"text": "a moment"
+										},
+										{
+											"start": 54100,
+											"end": 54800,
+											"text": "that"
+										},
+										{
+											"start": 54800,
+											"end": 57300,
+											"text": "will be looked back on as a historic"
+										},
+										{
+											"start": 57300,
+											"end": 59000,
+											"text": "landmark for the"
+										},
+										{
+											"start": 59000,
+											"end": 60800,
+											"text": "territory of American Samoa."
+										},
+										{
+											"start": 68000,
+											"end": 69900,
+											"text": "Aloha and"
+										},
+										{
+											"start": 69900,
+											"end": 72800,
+											"text": "welcome to this event to the other half of it."
+										},
+										{
+											"start": 72800,
+											"end": 75600,
+											"text": "It's such a pleasure to see you all."
+										},
+										{
+											"start": 75600,
+											"end": 77500,
+											"text": "This is a set of relationships"
+										},
+										{
+											"start": 77500,
+											"end": 80000,
+											"text": "empowered by this technology"
+										},
+										{
+											"start": 80000,
+											"end": 82100,
+											"text": "and the remarkable new Hawaiki"
+										},
+										{
+											"start": 82100,
+											"end": 82800,
+											"text": "network"
+										},
+										{
+											"start": 82800,
+											"end": 85000,
+											"text": "connection and we will be using"
+										},
+										{
+											"start": 85000,
+											"end": 85700,
+											"text": "together"
+										},
+										{
+											"start": 85700,
+											"end": 86900,
+											"text": "for years to come."
+										},
+										{
+											"start": 86900,
+											"end": 90600,
+											"text": "Today I'd like to share some results from a"
+										},
+										{
+											"start": 90600,
+											"end": 91700,
+											"text": "project that"
+										},
+										{
+											"start": 91700,
+											"end": 94000,
+											"text": "is focused on one of"
+										},
+										{
+											"start": 94000,
+											"end": 95400,
+											"text": "American Samoa's"
+										},
+										{
+											"start": 95400,
+											"end": 96200,
+											"text": "most important"
+										},
+										{
+											"start": 96200,
+											"end": 97300,
+											"text": "water resource challenges."
+										},
+										{
+											"start": 97300,
+											"end": 99200,
+											"text": "What this really"
+										},
+										{
+											"start": 99200,
+											"end": 100600,
+											"text": "enables us to do is"
+										},
+										{
+											"start": 100600,
+											"end": 102700,
+											"text": "we can do much more together"
+										},
+										{
+											"start": 102700,
+											"end": 103800,
+											"text": "and in different groups, "
+										},
+										{
+											"start": 103800,
+											"end": 107700,
+											"text": "but this way we can actually create meetings with our"
+										},
+										{
+											"start": 107700,
+											"end": 108300,
+											"text": "teams."
+										},
+										{
+											"start": 108300,
+											"end": 109600,
+											"text": "We can share information"
+										},
+										{
+											"start": 109600,
+											"end": 111400,
+											"text": "such as we're doing here today."
+										},
+										{
+											"start": 111400,
+											"end": 112500,
+											"text": "We can offer"
+										},
+										{
+											"start": 112500,
+											"end": 114000,
+											"text": "classes. We can engage in"
+										},
+										{
+											"start": 114000,
+											"end": 115100,
+											"text": "consultations."
+										},
+										{
+											"start": 115100,
+											"end": 117800,
+											"text": "All of that is almost impossible"
+										},
+										{
+											"start": 117800,
+											"end": 120500,
+											"text": "without the kind of direct high-speed"
+										},
+										{
+											"start": 120500,
+											"end": 122900,
+											"text": "connections that we're demonstrating here today."
+										},
+										{
+											"start": 122900,
+											"end": 126200,
+											"text": "Technologies like this I could really see being a benefit and"
+										},
+										{
+											"start": 126200,
+											"end": 128000,
+											"text": "potentially opening up a"
+										},
+										{
+											"start": 127900,
+											"end": 129500,
+											"text": "kind of a certificate"
+										},
+										{
+											"start": 129500,
+											"end": 130800,
+											"text": "program or something"
+										},
+										{
+											"start": 130800,
+											"end": 134000,
+											"text": "to bring to the students at ASEC"
+										},
+										{
+											"start": 134000,
+											"end": 137400,
+											"text": "and provide some of the courses that they don't have the capacity to teach there."
+										},
+										{
+											"start": 137400,
+											"end": 141300,
+											"text": "Especially from a student perspective now they can enjoy the quality"
+										},
+										{
+											"start": 141300,
+											"end": 141900,
+											"text": "of"
+										},
+										{
+											"start": 141900,
+											"end": 144400,
+											"text": "instruction from the University of Hawaii."
+										},
+										{
+											"start": 144400,
+											"end": 146300,
+											"text": "And we have friends like to go and"
+										},
+										{
+											"start": 146300,
+											"end": 153300,
+											"text": "we hope that you will continue."
+										},
+										{
+											"start": 159400,
+											"end": 160400,
+											"text": "I'm currently"
+										},
+										{
+											"start": 160400,
+											"end": 162700,
+											"text": "pursuing my masters"
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FQBL%20Media%20Explainer%20June%204_2019_4xgt.mp4"
 								],
@@ -88,6 +3574,20 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "qbl-media-explainer-june-4_2019"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "north",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								}
 							}
 						],
