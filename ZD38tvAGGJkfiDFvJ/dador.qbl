@@ -75,15 +75,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"text": "I'm a cool",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -92,7 +94,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aaom9",
+													"key": "ecim",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -117,8 +119,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -130,15 +130,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"text": "guy. that's my",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -147,7 +149,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cpgbc",
+													"key": "dlm1n",
 													"text": "guy. that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -172,8 +174,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -185,15 +185,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"text": "thing.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -202,7 +204,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cce21",
+													"key": "dtc8a",
 													"text": "thing.",
 													"type": "unstyled",
 													"depth": 0,
@@ -227,8 +229,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -240,15 +240,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"text": "I'm",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -257,7 +259,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "908h3",
+													"key": "bi0g",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -282,8 +284,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -295,15 +295,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"text": "happy. I surf",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -312,7 +314,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4t466",
+													"key": "5kk5h",
 													"text": "happy. I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -337,8 +339,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -350,15 +350,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"text": "the web. I",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -367,7 +369,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "43r25",
+													"key": "9h9a7",
 													"text": "the web. I",
 													"type": "unstyled",
 													"depth": 0,
@@ -392,8 +394,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -405,15 +405,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 9.4,
+										"end_offset": 10.6,
 										"text": "text LOL,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -422,7 +424,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3uh14",
+													"key": "bpi04",
 													"text": "text LOL,",
 													"type": "unstyled",
 													"depth": 0,
@@ -447,8 +449,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 9.4,
-										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -460,15 +460,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"text": "laugh out loud;",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -477,7 +479,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "49opk",
+													"key": "938sh",
 													"text": "laugh out loud;",
 													"type": "unstyled",
 													"depth": 0,
@@ -502,8 +504,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 10.6,
-										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -515,15 +515,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 11.4,
+										"end_offset": 12.7,
 										"text": "OMG, oh my",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -532,7 +534,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4dnlk",
+													"key": "eell3",
 													"text": "OMG, oh my",
 													"type": "unstyled",
 													"depth": 0,
@@ -557,8 +559,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 11.4,
-										"end_offset": 12.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -570,15 +570,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 12.7,
+										"end_offset": 13.7,
 										"text": "God; WTF,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -587,7 +589,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "jjf4",
+													"key": "4s9gi",
 													"text": "God; WTF,",
 													"type": "unstyled",
 													"depth": 0,
@@ -612,8 +614,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 12.7,
-										"end_offset": 13.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -625,15 +625,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 13.7,
+										"end_offset": 14.7,
 										"text": "why the FaZe.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -642,7 +644,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7mime",
+													"key": "4408f",
 													"text": "why the FaZe.",
 													"type": "unstyled",
 													"depth": 0,
@@ -667,8 +669,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 13.7,
-										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -680,15 +680,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 14.7,
+										"end_offset": 16.8,
 										"text": "you know I",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -697,7 +699,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "glgu",
+													"key": "12b2",
 													"text": "you know I",
 													"type": "unstyled",
 													"depth": 0,
@@ -722,8 +724,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 14.7,
-										"end_offset": 16.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -735,15 +735,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 16.8,
+										"end_offset": 17.9,
 										"text": "know all the dances to High",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -752,7 +754,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1c4qq",
+													"key": "c6jqh",
 													"text": "know all the dances to High",
 													"type": "unstyled",
 													"depth": 0,
@@ -777,8 +779,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 16.8,
-										"end_offset": 17.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -790,15 +790,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 17.9,
+										"end_offset": 18.3,
 										"text": "School Musical.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -807,7 +809,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2mj4o",
+													"key": "8htbe",
 													"text": "School Musical.",
 													"type": "unstyled",
 													"depth": 0,
@@ -832,8 +834,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 17.9,
-										"end_offset": 18.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -845,15 +845,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 18.3,
+										"end_offset": 19.9,
 										"text": "We're All",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -862,7 +864,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4nane",
+													"key": "2e22c",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -887,8 +889,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 18.3,
-										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -900,15 +900,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 19.9,
+										"end_offset": 20.7,
 										"text": "in This",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -917,7 +919,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fc2s3",
+													"key": "cer1o",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -942,8 +944,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 19.9,
-										"end_offset": 20.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -955,15 +955,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 20.7,
+										"end_offset": 21.6,
 										"text": "Together,",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -972,7 +974,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2q8nv",
+													"key": "fcb0q",
 													"text": "Together,",
 													"type": "unstyled",
 													"depth": 0,
@@ -997,8 +999,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 20.7,
-										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1010,15 +1010,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"text": "yes we are.",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -1027,7 +1029,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "61m53",
+													"key": "8li",
 													"text": "yes we are.",
 													"type": "unstyled",
 													"depth": 0,
@@ -1052,8 +1054,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 21.6,
-										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1065,15 +1065,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"text": "we're all",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -1082,7 +1084,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "63a7j",
+													"key": "41iq1",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1107,8 +1109,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 23.8,
-										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1120,15 +1120,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 24.7,
+										"end_offset": 25.9,
 										"text": "stars and",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -1137,7 +1139,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8t6ra",
+													"key": "84vlr",
 													"text": "stars and",
 													"type": "unstyled",
 													"depth": 0,
@@ -1162,8 +1164,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 24.7,
-										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1175,15 +1175,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 25.9,
+										"end_offset": 26.8,
 										"text": "you",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -1192,7 +1194,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5p1jl",
+													"key": "8gr4i",
 													"text": "you",
 													"type": "unstyled",
 													"depth": 0,
@@ -1217,8 +1219,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 25.9,
-										"end_offset": 26.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1230,15 +1230,17 @@
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
+										"start_offset": 26.8,
+										"end_offset": 27.7,
 										"text": "know it",
 										"font": "Noto Sans",
 										"size": 30,
 										"color": {
-											"hex": "#e1d1d1",
+											"hex": "#0f2fe5",
 											"rgb": {
-												"r": 225,
-												"g": 209,
-												"b": 209,
+												"r": 15,
+												"g": 47,
+												"b": 229,
 												"a": 1
 											}
 										},
@@ -1247,7 +1249,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "46bgd",
+													"key": "bggch",
 													"text": "know it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1272,8 +1274,6 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 26.8,
-										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -1416,16 +1416,16 @@
 									"seoSuffix": "samplevideo"
 								},
 								"underlay": {
-									"show": "stripe",
+									"show": false,
 									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
-											"r": 10,
-											"g": 212,
-											"b": 10,
+											"r": 0,
+											"g": 255,
+											"b": 0,
 											"a": 0.2
 										},
-										"hex": "#0ad40a"
+										"hex": "#00ff00"
 									},
 									"matchText": true
 								}
