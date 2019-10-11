@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_sampleVideo_GSCJ_3xSS",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_undefined%2Fen_sampleVideo_GSCJ_3xSS.mp4?generation=1570779029827326&alt=media",
-								"size": "31827459",
+								"public_id": "en_sampleVideo_GSCJ_QHgf",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_undefined%2Fen_sampleVideo_GSCJ_QHgf.mp4?generation=1570780135894489&alt=media",
+								"size": "31490865",
 								"lastModified": 1558986166768,
-								"lastModifiedDate": "2019-10-11T07:30:29.826Z",
+								"lastModifiedDate": "2019-10-11T07:48:55.894Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 5.312,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_QHgf.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1397,11 +1397,13 @@
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_QHgf.mp4"
 								],
 								"transformedPublicIds": [
 									"sampleVideo_GSCJ",
-									"en_sampleVideo_GSCJ_3xSS"
+									"en_sampleVideo_GSCJ_3xSS",
+									"en_sampleVideo_GSCJ_QHgf"
 								],
 								"embed": {
 									"width": 1280,
