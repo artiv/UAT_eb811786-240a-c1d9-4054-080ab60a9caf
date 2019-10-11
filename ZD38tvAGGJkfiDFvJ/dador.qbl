@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "sampleVideo_GSCJ",
-								"mediaLink": "https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
-								"size": 1055736,
+								"public_id": "en_sampleVideo_GSCJ_3xSS",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_undefined%2Fen_sampleVideo_GSCJ_3xSS.mp4?generation=1570779029827326&alt=media",
+								"size": "31827459",
 								"lastModified": 1558986166768,
-								"lastModifiedDate": "2019-05-27T19:42:46.768Z",
+								"lastModifiedDate": "2019-10-11T07:30:29.826Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 5.312,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1396,10 +1396,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4"
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4"
 								],
 								"transformedPublicIds": [
-									"sampleVideo_GSCJ"
+									"sampleVideo_GSCJ",
+									"en_sampleVideo_GSCJ_3xSS"
 								],
 								"embed": {
 									"width": 1280,
@@ -1428,7 +1430,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
