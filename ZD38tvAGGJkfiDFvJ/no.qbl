@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_modernFamily_eiLz_4ALh",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_eiLz_4ALh.mp4?generation=1570782168912795&alt=media",
-								"size": "1012495",
+								"public_id": "en_modernFamily_eiLz_TiGJ",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_modernFamily_eiLz_TiGJ.mp4?generation=1570792724264575&alt=media",
+								"size": "1026150",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2019-10-11T08:22:48.912Z",
+								"lastModifiedDate": "2019-10-11T11:18:44.264Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_eiLz_4ALh.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_eiLz_TiGJ.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1099,12 +1099,14 @@
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_eiLz.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_modernFamily_eiLz_BeWy.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_eiLz_4ALh.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_eiLz_4ALh.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_modernFamily_eiLz_TiGJ.mp4"
 								],
 								"transformedPublicIds": [
 									"modernFamily_eiLz",
 									"en_modernFamily_eiLz_BeWy",
-									"en_modernFamily_eiLz_4ALh"
+									"en_modernFamily_eiLz_4ALh",
+									"en_modernFamily_eiLz_TiGJ"
 								],
 								"embed": {
 									"width": 480,
@@ -1137,18 +1139,18 @@
 								"contentType": "video/mp4"
 							},
 							{
-								"public_id": "en_gofar_cFaa_ZHiD",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_gofar_cFaa_ZHiD.mp4?generation=1570791616508312&alt=media",
-								"size": "22446031",
+								"public_id": "en_gofar_cFaa_okKk",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_gofar_cFaa_okKk.mp4?generation=1570792773415247&alt=media",
+								"size": "22395421",
 								"lastModified": 1548869742258,
-								"lastModifiedDate": "2019-10-11T11:00:16.507Z",
+								"lastModifiedDate": "2019-10-11T11:19:33.414Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 204.475,
 								"width": 854,
 								"height": 480,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_ZHiD.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_okKk.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -2183,13 +2185,15 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_cFaa.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_gofar_cFaa_CqY3.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_TZSe.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_ZHiD.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_ZHiD.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_gofar_cFaa_okKk.mp4"
 								],
 								"transformedPublicIds": [
 									"gofar_cFaa",
 									"en_gofar_cFaa_CqY3",
 									"en_gofar_cFaa_TZSe",
-									"en_gofar_cFaa_ZHiD"
+									"en_gofar_cFaa_ZHiD",
+									"en_gofar_cFaa_okKk"
 								],
 								"embed": {
 									"width": 854,
