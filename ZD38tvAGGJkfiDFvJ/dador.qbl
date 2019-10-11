@@ -53,18 +53,18 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "en_sampleVideo_GSCJ_YqMQ",
-								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_sampleVideo_GSCJ_YqMQ.mp4?generation=1570782282810671&alt=media",
-								"size": "31419805",
+								"public_id": "en_sampleVideo_GSCJ_ABFn",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Fen_sampleVideo_GSCJ_ABFn.mp4?generation=1570791739441037&alt=media",
+								"size": "31836764",
 								"lastModified": 1558986166768,
-								"lastModifiedDate": "2019-10-11T08:24:42.810Z",
+								"lastModifiedDate": "2019-10-11T11:02:19.440Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"extension": "mp4",
 								"duration": 5.312,
 								"width": 1280,
 								"height": 720,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_sampleVideo_GSCJ_YqMQ.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_sampleVideo_GSCJ_ABFn.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -1399,13 +1399,15 @@
 									"https://res.cloudinary.com/qblm-prod/video/upload/v1564639461/download_new.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_3xSS.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/en_sampleVideo_GSCJ_QHgf.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_sampleVideo_GSCJ_YqMQ.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_sampleVideo_GSCJ_YqMQ.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/en_sampleVideo_GSCJ_ABFn.mp4"
 								],
 								"transformedPublicIds": [
 									"sampleVideo_GSCJ",
 									"en_sampleVideo_GSCJ_3xSS",
 									"en_sampleVideo_GSCJ_QHgf",
-									"en_sampleVideo_GSCJ_YqMQ"
+									"en_sampleVideo_GSCJ_YqMQ",
+									"en_sampleVideo_GSCJ_ABFn"
 								],
 								"embed": {
 									"width": 1280,
