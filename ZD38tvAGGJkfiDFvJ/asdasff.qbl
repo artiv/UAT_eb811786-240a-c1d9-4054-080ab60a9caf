@@ -103,17 +103,17 @@
 								}
 							},
 							{
-								"public_id": "modernFamily_KYWq",
-								"mediaLink": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4",
-								"size": 1398635,
+								"public_id": "zh_modernFamily_KYWq_Z7NN",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_undefined%2Fzh_modernFamily_KYWq_Z7NN.mp4?generation=1570775849259931&alt=media",
+								"size": "989387",
 								"lastModified": 1530767227603,
-								"lastModifiedDate": "2018-07-05T05:07:07.603Z",
+								"lastModifiedDate": "2019-10-11T06:37:29.259Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 30.139501,
 								"width": 480,
 								"height": 360,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_undefined/zh_modernFamily_KYWq_Z7NN.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -486,10 +486,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_KYWq.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_undefined/zh_modernFamily_KYWq_Z7NN.mp4"
 								],
 								"transformedPublicIds": [
-									"modernFamily_KYWq"
+									"modernFamily_KYWq",
+									"zh_modernFamily_KYWq_Z7NN"
 								],
 								"embed": {
 									"width": 480,
@@ -518,7 +520,8 @@
 										"hex": "#00ff00"
 									},
 									"matchText": true
-								}
+								},
+								"contentType": "video/mp4"
 							}
 						],
 						"fieldChildren": []
