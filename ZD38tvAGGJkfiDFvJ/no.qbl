@@ -65,7 +65,943 @@
 								"width": 480,
 								"height": 360,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_eiLz.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool guy. That's that's my Fang.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3p0i7",
+													"text": "I'm a cool guy. That's that's my Fang.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm here 5 i surf the web I",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dc031",
+													"text": "I'm here 5 i surf the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "text",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "c0og0",
+													"text": "text",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "LOL.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8auqh",
+													"text": "LOL.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Laugh out loud",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3dbk6",
+													"text": "Laugh out loud",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "OMG. Oh my God",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1p1rg",
+													"text": "OMG. Oh my God",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 13.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "WTF why the FaZe?",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bn1dt",
+													"text": "WTF why the FaZe?",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 13.1,
+										"end_offset": 14.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "You know, I know all the dances High School Musical",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6jbop",
+													"text": "You know, I know all the dances High School Musical",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 18.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "We're All",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "dv024",
+													"text": "We're All",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "in This",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "618p9",
+													"text": "in This",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Together.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "egdbu",
+													"text": "Together.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Yes, we are",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "50ei3",
+													"text": "Yes, we are",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "we're all",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "bapjm",
+													"text": "we're all",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "stars",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "e88c4",
+													"text": "stars",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1f5ku",
+													"text": "and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.3,
+										"end_offset": 25.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "you know",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "1ub3",
+													"text": "you know",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 27,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "it",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "88st9",
+													"text": "it",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 27,
+										"end_offset": 27.7,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
@@ -157,7 +1093,8 @@
 											"end": 27700,
 											"text": "it"
 										}
-									]
+									],
+									"isAttached": false
 								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2FmodernFamily_eiLz.mp4"
@@ -178,6 +1115,20 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "modernfamily"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								}
 							},
 							{
@@ -193,10 +1144,1036 @@
 								"width": 854,
 								"height": 480,
 								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_cFaa.mp4",
-								"overlays": [],
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool guy. That's that's my Fang.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7rfmb",
+													"text": "I'm a cool guy. That's that's my Fang.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm here 5 i surf the web I",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "b02sg",
+													"text": "I'm here 5 i surf the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "text",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "18kp7",
+													"text": "text",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "LOL.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "34non",
+													"text": "LOL.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10,
+										"end_offset": 10.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Laugh out loud",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3c6qc",
+													"text": "Laugh out loud",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "OMG. Oh my God",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "etjf5",
+													"text": "OMG. Oh my God",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 13.1,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "WTF why the FaZe?",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "4m2e3",
+													"text": "WTF why the FaZe?",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 13.1,
+										"end_offset": 14.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "You know, I know all the dances High School Musical",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "eck5m",
+													"text": "You know, I know all the dances High School Musical",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 18.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "We're All",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "eschs",
+													"text": "We're All",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "in This",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "3g3sm",
+													"text": "in This",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Together.",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "7ls69",
+													"text": "Together.",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "Yes, we are",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "92r91",
+													"text": "Yes, we are",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "we're all",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "5d7lb",
+													"text": "we're all",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "stars",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "ssgp",
+													"text": "stars",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "and",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "76k5s",
+													"text": "and",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.3,
+										"end_offset": 25.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "you know",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "183uc",
+													"text": "you know",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 27,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "it",
+										"font": "Noto Sans",
+										"size": 30,
+										"color": {
+											"hex": "#ead9d9",
+											"rgb": {
+												"r": 234,
+												"g": 217,
+												"b": 217,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "6b804",
+													"text": "it",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 27,
+										"end_offset": 27.7,
+										"isAutoOverlayed": true
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
-								"captions": {},
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:06,300\nI'm a cool guy. That's that's my Fang.\n\n2\n00:00:07,400 --> 00:00:09,400\nI'm here 5 i surf the web I\n\n3\n00:00:09,400 --> 00:00:10,000\ntext\n\n4\n00:00:10,000 --> 00:00:10,600\nLOL.\n\n5\n00:00:10,600 --> 00:00:11,400\nLaugh out loud\n\n6\n00:00:11,400 --> 00:00:13,100\nOMG. Oh my God\n\n7\n00:00:13,100 --> 00:00:14,700\nWTF why the FaZe?\n\n8\n00:00:14,700 --> 00:00:18,800\nYou know, I know all the dances High School Musical\n\n9\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n10\n00:00:19,900 --> 00:00:20,800\nin This\n\n11\n00:00:20,800 --> 00:00:21,600\nTogether.\n\n12\n00:00:21,600 --> 00:00:23,800\nYes, we are\n\n13\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n14\n00:00:24,700 --> 00:00:25,300\nstars\n\n15\n00:00:25,300 --> 00:00:25,900\nand\n\n16\n00:00:25,900 --> 00:00:27,000\nyou know\n\n17\n00:00:27,000 --> 00:00:27,700\nit\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 6300,
+											"text": "I'm a cool guy. That's that's my Fang."
+										},
+										{
+											"start": 7400,
+											"end": 9400,
+											"text": "I'm here 5 i surf the web I"
+										},
+										{
+											"start": 9400,
+											"end": 10000,
+											"text": "text"
+										},
+										{
+											"start": 10000,
+											"end": 10600,
+											"text": "LOL."
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "Laugh out loud"
+										},
+										{
+											"start": 11400,
+											"end": 13100,
+											"text": "OMG. Oh my God"
+										},
+										{
+											"start": 13100,
+											"end": 14700,
+											"text": "WTF why the FaZe?"
+										},
+										{
+											"start": 14700,
+											"end": 18800,
+											"text": "You know, I know all the dances High School Musical"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "We're All"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "in This"
+										},
+										{
+											"start": 20800,
+											"end": 21600,
+											"text": "Together."
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "Yes, we are"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "we're all"
+										},
+										{
+											"start": 24700,
+											"end": 25300,
+											"text": "stars"
+										},
+										{
+											"start": 25300,
+											"end": 25900,
+											"text": "and"
+										},
+										{
+											"start": 25900,
+											"end": 27000,
+											"text": "you know"
+										},
+										{
+											"start": 27000,
+											"end": 27700,
+											"text": "it"
+										}
+									],
+									"isAttached": false
+								},
 								"transformedURLs": [
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_cFaa.mp4"
 								],
@@ -216,6 +2193,20 @@
 									"altText": "",
 									"caption": "",
 									"seoSuffix": "gofar"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 0,
+											"g": 255,
+											"b": 0,
+											"a": 0.2
+										},
+										"hex": "#00ff00"
+									},
+									"matchText": true
 								}
 							}
 						],
