@@ -51,17 +51,17 @@
 						"fieldKey": "87b70a1f-7285-0d5d-4bce-d338050a3e03",
 						"fieldValues": [
 							{
-								"public_id": "fr_gofar_SyxY_hACu",
-								"mediaLink": "https://storage.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Ffr_gofar_SyxY_hACu.mp4?generation=1570376805747063&alt=media",
-								"size": "23645244",
+								"public_id": "fr_gofar_SyxY_8tMR",
+								"mediaLink": "https://www.googleapis.com/download/storage/v1/b/qbl-media-prod/o/UAT_gdSXyn6tjBZ5rqLxD%2Ffr_gofar_SyxY_8tMR.mp4?generation=1570782326616878&alt=media",
+								"size": "23536502",
 								"lastModified": 1548869742258,
-								"lastModifiedDate": "2019-10-06T15:46:45.746Z",
+								"lastModifiedDate": "2019-10-11T08:25:26.616Z",
 								"type": "video/mp4",
 								"format": "mp4",
 								"duration": 204.475,
 								"width": 854,
 								"height": 480,
-								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_hACu.mp4",
+								"secure_url": "https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_8tMR.mp4",
 								"overlays": [
 									{
 										"x": "0",
@@ -6556,13 +6556,15 @@
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD%2Fgofar_SyxY.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_7EvZ.mp4",
 									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_PHtM.mp4",
-									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_hACu.mp4"
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_hACu.mp4",
+									"https://storage.googleapis.com/qbl-media-prod/UAT_gdSXyn6tjBZ5rqLxD/fr_gofar_SyxY_8tMR.mp4"
 								],
 								"transformedPublicIds": [
 									"gofar_SyxY",
 									"fr_gofar_SyxY_7EvZ",
 									"fr_gofar_SyxY_PHtM",
-									"fr_gofar_SyxY_hACu"
+									"fr_gofar_SyxY_hACu",
+									"fr_gofar_SyxY_8tMR"
 								],
 								"embed": {
 									"width": 854,
